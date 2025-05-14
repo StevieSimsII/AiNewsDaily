@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Daily | Latest AI News and Research</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      <!-- Meta tags for SEO and social sharing -->    <meta name="description" content="Daily updates on AI and Machine Learning news, research from Gartner and Forrester, and insights from the tech industry.">
+    <meta name="keywords" content="AI, artificial intelligence, machine learning, ML, research, news, Gartner, Forrester">    <meta property="og:title" content="AI News Daily">
+    <meta property="og:description" content="Daily updates on AI and Machine Learning news and research">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://steviesimsii.github.io/AiNewsDaily/">
+</head>
+<body>    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container-fluid">            <a class="navbar-brand" href="#">
+                <i class="bi bi-robot"></i> AI News Daily
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#" id="all-news-link">All News</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" id="about-link">About</a>
+                    </li>
+                </ul>
+                <form class="d-flex ms-auto">
+                    <div class="input-group">
+                        <input class="form-control" type="search" placeholder="Search articles..." id="search-input">
+                        <button class="btn btn-outline-light" type="button"><i class="bi bi-search"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div id="main-content">
+            <!-- All News View -->
+            <div id="all-news-view">
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <h2>Latest AI & ML News</h2>
+                    </div>
+                    <div class="col-md-6 text-end">
+                        <div class="btn-group" role="group">
+                            <button type="button" class="btn btn-outline-primary active filter-btn" data-filter="all">All</button>
+                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="ai">AI</button>
+                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="machine-learning">ML</button>
+                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="gartner">Gartner</button>
+                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="forrester">Forrester</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row" id="news-container">
+                    <!-- Articles will be dynamically inserted here -->
+                    <div class="col-12 text-center py-5">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                        <p class="mt-2">Loading articles...</p>
+                    </div>
+                </div>
+                
+                <div class="row mt-4">
+                    <div class="col-12 text-center">
+                        <button class="btn btn-primary" id="load-more-btn">Load More</button>
+                    </div>
+                </div>            </div>
+            
+            <!-- About View -->
+            <div id="about-view" style="display: none;">                <h2>About AI News Daily</h2>
+                <div class="card">
+                    <div class="card-body">
+                        <h4>What is AI News Daily?</h4>
+                        <p>
+                            AI News Daily is an automated AI and Machine Learning news aggregator that collects
+                            the latest articles, research, and insights from leading technology and research sources.
+                        </p>
+                        
+                        <h4>How It Works</h4>
+                        <p>
+                            This website is powered by a custom Python script that:
+                        </p>
+                        <ul>
+                            <li>Fetches RSS feeds from major technology and AI news sources, including Gartner and Forrester</li>
+                            <li>Filters the articles to include only AI and ML related content</li>
+                            <li>Applies special filtering for research firm content to ensure high relevance</li>
+                            <li>Extracts key insights from research articles</li>
+                            <li>Updates daily to keep you informed of the latest developments</li>
+                        </ul>
+                        
+                        <h4>Data Sources</h4>
+                        <p>
+                            We collect articles from various sources including:
+                        </p>
+                        <ul>
+                            <li>MIT Technology Review</li>
+                            <li>Wired</li>
+                            <li>The Verge</li>
+                            <li>TechCrunch</li>
+                            <li>Google AI Blog</li>
+                            <li>OpenAI Blog</li>
+                            <li>MIT AI News</li>
+                            <li>VentureBeat</li>
+                            <li>ZDNet</li>
+                            <li>Gartner Research</li>
+                            <li>Forrester Research</li>
+                        </ul>
+                        
+                        <h4>Updates</h4>
+                        <p>
+                            The data on this site is updated daily at 8:00 AM.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      <footer class="mt-5 py-3 bg-dark text-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">                    <h5><i class="bi bi-robot"></i> AI News Daily</h5>
+                    <p>Daily updates on AI and Machine Learning news, research, and insights.</p>
+                </div>
+                <div class="col-md-4">                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" id="footer-all-news" class="text-light">All News</a></li>
+                        <li><a href="#" id="footer-about" class="text-light">About</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 text-end">                    <p>&copy; <span id="current-year">2023</span> AI News Daily. All rights reserved.</p>
+                    <p>Last Updated: <span id="last-updated-date">Loading...</span></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="app.js"></script>
+    <script>
+        // Set current year in footer
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+        
+        // Add event listeners to footer links        document.getElementById('footer-all-news').addEventListener('click', function(e) {
+            e.preventDefault();
+            document.getElementById('all-news-link').click();
+        });
+        document.getElementById('footer-about').addEventListener('click', function(e) {
+            e.preventDefault();
+            document.getElementById('about-link').click();
+        });
+    </script>
+</body>
+</html>
