@@ -1,16 +1,14 @@
 # AI News Daily
 
-A daily updated collection of AI and Machine Learning news, research, and insights.
+A daily updated collection of AI and Machine Learning news.
 
 ## About
 
-AI News Daily is an automated news aggregator that collects the latest articles, research, and insights from leading technology and research sources including Gartner and Forrester.
+AI News Daily is an automated news aggregator that collects the latest articles from leading technology and research sources.
 
 ## Features
 
 - Daily collection of AI and ML news from various free RSS feeds
-- Research insights from Gartner and Forrester
-- Interactive visualization of AI/ML trends
 - Mobile-friendly responsive design
 - Search and filtering capabilities
 
