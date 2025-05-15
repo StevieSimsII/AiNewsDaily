@@ -145,15 +145,14 @@
         // Set current year in footer
         document.getElementById('current-year').textContent = new Date().getFullYear();
         
-        // If the last-updated-date doesn't match the format we want, update it
+        // If the last-updated-date is still "Loading...", update it with the current date
         const lastUpdatedElement = document.getElementById('last-updated-date');
         if (lastUpdatedElement.textContent === "Loading...") {
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             lastUpdatedElement.textContent = new Date().toLocaleDateString('en-US', options);
         }
         
-        // Add event listeners to footer links
-        document.getElementById('footer-all-news').addEventListener('click', function(e) {
+        // Add event listeners to footer links        document.getElementById('footer-all-news').addEventListener('click', function(e) {
             e.preventDefault();
             document.getElementById('all-news-link').click();
         });
