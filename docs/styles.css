@@ -1,0 +1,146 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --light-color: #ecf0f1;
+    --dark-color: #2c3e50;
+    --gartner-color: #00a4e4;
+    --forrester-color: #496b46;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: var(--dark-color);
+}
+
+.navbar {
+    background-color: var(--primary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar-brand i {
+    margin-right: 8px;
+    color: var(--secondary-color);
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.article-card {
+    height: 100%;
+}
+
+.article-card .card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.article-card .card-text {
+    flex-grow: 1;
+}
+
+.category-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.source-badge {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.gartner-badge {
+    background-color: var(--gartner-color) !important;
+    color: white;
+}
+
+.forrester-badge {
+    background-color: var(--forrester-color) !important;
+    color: white;
+}
+
+.ai-badge {
+    background-color: var(--accent-color) !important;
+}
+
+.ml-badge {
+    background-color: var(--secondary-color) !important;
+}
+
+.insight-card {
+    border-left: 4px solid var(--secondary-color);
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+
+.insight-card.gartner {
+    border-left-color: var(--gartner-color);
+}
+
+.insight-card.forrester {
+    border-left-color: var(--forrester-color);
+}
+
+.insight-card h5 {
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+
+.insight-card .date {
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+.filter-btn.active {
+    background-color: var(--secondary-color);
+    color: white;
+    border-color: var(--secondary-color);
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+}
+
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    .btn-group {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        width: 100%;
+        padding-bottom: 5px;
+    }
+}
