@@ -1,26 +1,16 @@
-name: Deploy to GitHub Pages
+name: Legacy Deploy Method (Deprecated)
+
+# This file is kept for reference but is no longer used
+# Please use .github/workflows/deploy-github-pages.yml instead
 
 on:
   push:
     branches:
-      - main
-      - master
-    paths:
-      - 'docs/**'
+      - none  # Disabled
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: docs
-          branch: gh-pages
-          clean: true
+      - name: This workflow is no longer used
+        run: echo "This workflow is deprecated. See .github/workflows/deploy-github-pages.yml"
