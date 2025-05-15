@@ -74,6 +74,10 @@ body {
     min-height: 300px;
 }
 
+.card-title {
+    margin-bottom: 1rem !important; /* Increase space between title and date */
+}
+
 .card-text {
     flex-grow: 1;
     margin-bottom: 50px; /* Space for the button */
