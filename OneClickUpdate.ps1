@@ -22,10 +22,17 @@ $githubDir = Join-Path $scriptPath ".github"
 $docsGithubDir = Join-Path (Join-Path $scriptPath "docs") ".github"
 
 if (Test-Path $githubDir) {
+    # Remove existing .github directory in docs if it exists
     if (Test-Path $docsGithubDir) {
         Remove-Item -Recurse -Force $docsGithubDir
     }
-    Copy-Item -Recurse $githubDir $docsGithubDir
+    
+    # Create the directory structure
+    New-Item -ItemType Directory -Path $docsGithubDir -Force | Out-Null
+    New-Item -ItemType Directory -Path (Join-Path $docsGithubDir "workflows") -Force | Out-Null
+    
+    # Copy workflow files
+    Copy-Item -Path (Join-Path $githubDir "workflows\*.yml") -Destination (Join-Path $docsGithubDir "workflows") -Force
     Write-Host "Copied .github directory with workflows to docs" -ForegroundColor Yellow
 }
 
