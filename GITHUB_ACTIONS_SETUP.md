@@ -20,7 +20,7 @@ Using GitHub Actions for AI News Daily provides several benefits:
    - Go to your GitHub repository settings
    - Navigate to Pages (under "Code and automation" section)
    - Set the source to "Deploy from a branch"
-   - Select the branch (main or master) and directory (/docs)
+   - Select the branch (master) and directory (/docs)
    - Save the settings
 
 2. **GitHub Actions Configuration**:
@@ -46,7 +46,7 @@ If you need to manually push changes to GitHub (should rarely be needed with the
 cd "c:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs"
 git add .
 git commit -m "Update website content"
-git push -u origin master  # or 'main' depending on your branch name
+git push -u origin master
 ```
 
 The GitHub Actions workflow will automatically start once the push is complete.

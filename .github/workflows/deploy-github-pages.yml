@@ -3,7 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
       - master
 
 jobs:
@@ -19,5 +18,4 @@ jobs:
       - name: Build and deploy
         uses: actions/deploy-pages@v2
         with:
-          folder: docs # The folder the action should deploy
           folder: docs # The folder the action should deploy

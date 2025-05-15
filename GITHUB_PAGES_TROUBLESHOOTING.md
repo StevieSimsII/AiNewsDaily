@@ -18,7 +18,7 @@ Try these quick fixes first:
 3. **Verify GitHub Pages settings**:
    - Go to your repository Settings → Pages
    - Ensure source is set to "Deploy from a branch"
-   - Branch should be "master" or "main" with /docs folder selected
+   - Branch should be "master" with /docs folder selected
 
 ## Step-by-Step Troubleshooting
 
@@ -64,7 +64,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
       - master
 
 jobs:
@@ -102,9 +101,8 @@ If GitHub Pages is not enabled or configured correctly:
 
 1. Go to repository Settings
 2. Click on "Pages" in the sidebar
-3. Under "Build and deployment" section:
-   - Source: Select "GitHub Actions" (if workflow exists) or "Deploy from a branch"
-   - If using branch deployment, select the branch (main/master) and folder (/docs)
+3. Under "Build and deployment" section:   - Source: Select "GitHub Actions" (if workflow exists) or "Deploy from a branch"
+   - If using branch deployment, select the branch (master) and folder (/docs)
 4. Click "Save"
 
 ### Step 5: Verify Website Files

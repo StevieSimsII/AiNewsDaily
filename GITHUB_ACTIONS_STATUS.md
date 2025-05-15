@@ -32,14 +32,14 @@ If you don't see any GitHub Actions runs in the Actions tab:
 2. **Verify GitHub Pages configuration**:
    - Go to Settings > Pages
    - Ensure the source is set to "Deploy from a branch"
-   - Confirm the branch is set to "master" or "main" and the folder is "/docs"
+   - Confirm the branch is set to "master" and the folder is "/docs"
 
 3. **Try a manual push**:
    ```powershell
    cd "c:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector"
    git add .
    git commit -m "Update GitHub Actions configuration"
-   git push -u origin master  # or 'main' depending on your branch name
+   git push -u origin master
    ```
 
 4. **Check repository permissions**:
@@ -53,7 +53,7 @@ When everything is working correctly, here's what happens:
 1. **You run the OneClickUpdate.ps1 script**:
    - It collects new articles
    - It prepares the docs directory with the web app files
-   - It commits and pushes changes to GitHub (either main or master branch)
+   - It commits and pushes changes to GitHub (master branch)
 
 2. **GitHub detects the push**:
    - GitHub Actions reads your workflow file (`.github/workflows/deploy-github-pages.yml`)
@@ -77,12 +77,14 @@ This error occurs when the script is confusing which Git repository to use.
 2. Make sure you're using the latest version of the script
 3. The correct approach is to have a single Git repository at the root of the project
 
-### Issue: "Push to 'main' failed, trying 'master'..."
+### Issue: "Cannot push to repository"
 
-This is actually normal behavior. The script first tries to push to 'main', and if that fails, it tries 'master'.
+If you're having trouble pushing to the repository:
 
 **Solution**:
-- No action needed - the script correctly handles both branch names
+1. Make sure you have proper access rights to the repository
+2. Verify your Git credentials are correctly configured
+3. Check that you're pushing to the master branch
 
 ### Issue: "Everything up-to-date"
 
@@ -111,7 +113,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
       - master
 
 jobs:
@@ -135,7 +136,7 @@ Set-Content -Path ".github\workflows\deploy-github-pages.yml" -Value $workflowCo
 # Stage, commit and push all changes
 git add .
 git commit -m "Update website content - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
-git push -u origin master  # or 'main' depending on your branch name
+git push -u origin master
 ```
 
 After running these commands, check the Actions tab on GitHub to see if the workflow runs successfully.

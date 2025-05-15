@@ -88,13 +88,9 @@ $date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 Write-Host "Committing changes..." -ForegroundColor Yellow
 $commitResult = & git commit -m "Update AI News Daily - $date" 2>&1
 
-# Push (try main first, then master if main fails)
-Write-Host "Pushing to GitHub..." -ForegroundColor Yellow
-$pushResult = & git push -u origin main 2>&1
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "Push to 'main' failed, trying 'master'..." -ForegroundColor Yellow
-    & git push -u origin master
-}
+# Push directly to master branch (since we confirmed it's working)
+Write-Host "Pushing to GitHub master branch..." -ForegroundColor Yellow
+& git push -u origin master
 
 # Return to the original directory
 Set-Location $scriptPath
