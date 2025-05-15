@@ -531,7 +531,7 @@ function filterNewsByCategory(category) {
 // Show all news (main view)
 function showAllNews() {
     document.getElementById('about-view').style.display = 'none';
-    document.getElementById('main-content').style.display = 'block';
+    document.getElementById('all-news-view').style.display = 'block';
     
     // Reload data in case it was changed
     if (window.newsData) {

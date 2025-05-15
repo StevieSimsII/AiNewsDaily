@@ -67,6 +67,24 @@ body {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
+.card-body {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    min-height: 300px;
+}
+
+.card-text {
+    flex-grow: 1;
+    margin-bottom: 50px; /* Space for the button */
+}
+
+.card-body .btn-primary {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
 .article-card {
     height: 100%;
 }
