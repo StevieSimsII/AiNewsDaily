@@ -29,6 +29,7 @@ https://www.zdnet.com/article/new-poll-shows-tech-leaders-rushing-to-deploy-agen
 https://www.zdnet.com/article/who-wants-to-be-a-chief-ai-officer-a-new-career-path-emerges/
 https://www.zdnet.com/article/meet-the-most-important-ai-tool-that-no-one-is-talking-about-but-everyone-needs/
 https://www.forrester.com/blogs/figma-config-2025-in-an-ai-world-design-matters-more-than-ever/
+<<<<<<< HEAD
 https://www.technologyreview.com/2025/05/15/1116516/the-download-montanas-experimental-treatments-and-google-deepminds-new-ai-agent/
 https://www.technologyreview.com/2025/05/14/1116438/google-deepminds-new-ai-uses-large-language-models-to-crack-real-world-problems/
 https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability
@@ -60,3 +61,5 @@ https://blog.google/technology/google-labs/ai-futures-fund/
 https://blog.google/technology/developers/google-kaggle-genai-intensive-recap-2025/
 https://blog.google/technology/research/google-research-scientific-discovery/
 https://blog.google/technology/research/liconn-connectomics/
+=======
+>>>>>>> parent of 1b66235 (Update AI News Daily - 2025-05-15 10:05:58)

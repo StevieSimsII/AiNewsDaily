@@ -39,6 +39,7 @@ def deploy_to_github_pages():
         logger.error(f"CSV file not found: {csv_file}")
         return False
     
+<<<<<<< HEAD
     # Copy any additional files from web_app/data to docs/data if they exist
     web_app_data_dir = web_app_dir / "data"
     if os.path.exists(web_app_data_dir) and os.path.isdir(web_app_data_dir):
@@ -57,25 +58,28 @@ def deploy_to_github_pages():
             logger.info(f"Removed .git directory from docs folder to avoid conflicts")
         except PermissionError:
             logger.warning(f"Could not remove .git directory from docs folder - this may cause issues")    # Copy all web app files to the docs directory
+=======
+    # Copy all web app files to the docs directory
+>>>>>>> parent of 1b66235 (Update AI News Daily - 2025-05-15 10:05:58)
     for item in os.listdir(web_app_dir):
         source = web_app_dir / item
         destination = docs_dir / item
         
+<<<<<<< HEAD
         # Skip .git directory and data directory (data is handled separately)
         # Also skip any README.md files that might conflict with GitHub Pages
         if item in [".git", "data", "README.md", "README.markdown", "readme.md"]:
             logger.info(f"Skipping {item} to avoid conflicts with GitHub Pages")
             continue
         
+=======
+>>>>>>> parent of 1b66235 (Update AI News Daily - 2025-05-15 10:05:58)
         if os.path.isdir(source):
-            if os.path.exists(destination):
-                try:
+            if item != "data":  # We already handled the data directory
+                if os.path.exists(destination):
                     shutil.rmtree(destination)
-                except PermissionError:
-                    logger.warning(f"Could not remove directory {destination} - skipping")
-                    continue
-            shutil.copytree(source, destination)
-            logger.info(f"Copied directory {source} to {destination}")
+                shutil.copytree(source, destination)
+                logger.info(f"Copied directory {source} to {destination}")
         else:
             shutil.copy2(source, destination)
             logger.info(f"Copied file {source} to {destination}")

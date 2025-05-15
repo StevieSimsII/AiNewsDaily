@@ -62,6 +62,7 @@
 2025-05-14 09:32:49,826 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-14 09:32:53,626 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-14 09:32:56,304 - AI_News_Collector - INFO - Added 31 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+<<<<<<< HEAD
 2025-05-15 08:47:26,495 - AI_News_Collector - INFO - Starting news collection
 2025-05-15 08:47:26,533 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
 2025-05-15 08:47:29,099 - AI_News_Collector - INFO - Fetching articles from: wired.com
@@ -318,3 +319,5 @@
 2025-05-15 12:05:31,693 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-15 12:05:35,025 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-15 12:05:37,623 - AI_News_Collector - INFO - Added 0 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+=======
+>>>>>>> parent of 1b66235 (Update AI News Daily - 2025-05-15 10:05:58)
