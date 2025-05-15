@@ -31,14 +31,23 @@ def deploy_to_github_pages():
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
         logger.info(f"Created data directory: {data_dir}")
-    
-    # Copy the latest CSV file to the data directory
+      # Copy the latest CSV file to the data directory
     if os.path.exists(csv_file):
         shutil.copy2(csv_file, data_dir / "ai_news.csv")
         logger.info(f"Copied {csv_file} to {data_dir}")
     else:
         logger.error(f"CSV file not found: {csv_file}")
         return False
+    
+    # Copy any additional files from web_app/data to docs/data if they exist
+    web_app_data_dir = web_app_dir / "data"
+    if os.path.exists(web_app_data_dir) and os.path.isdir(web_app_data_dir):
+        for item in os.listdir(web_app_data_dir):
+            source = web_app_data_dir / item
+            destination = data_dir / item
+            if os.path.isfile(source):
+                shutil.copy2(source, destination)
+                logger.info(f"Copied additional data file {source} to {destination}")
     
     # Remove .git directory from docs if it exists (this is causing problems)
     git_dir = docs_dir / ".git"
@@ -47,14 +56,15 @@ def deploy_to_github_pages():
             shutil.rmtree(git_dir)
             logger.info(f"Removed .git directory from docs folder to avoid conflicts")
         except PermissionError:
-            logger.warning(f"Could not remove .git directory from docs folder - this may cause issues")
-    # Copy all web app files to the docs directory
+            logger.warning(f"Could not remove .git directory from docs folder - this may cause issues")    # Copy all web app files to the docs directory
     for item in os.listdir(web_app_dir):
         source = web_app_dir / item
         destination = docs_dir / item
         
         # Skip .git directory and data directory (data is handled separately)
-        if item in [".git", "data"]:
+        # Also skip any README.md files that might conflict with GitHub Pages
+        if item in [".git", "data", "README.md", "README.markdown", "readme.md"]:
+            logger.info(f"Skipping {item} to avoid conflicts with GitHub Pages")
             continue
         
         if os.path.isdir(source):

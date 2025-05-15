@@ -3,16 +3,23 @@ name: AI News Daily
 title: AI News Daily | Latest AI News and Research
 description: Daily updates on AI and Machine Learning news, research, and insights.
 
-# Explicitly tell GitHub Pages we want to use the index file
-# and not display the README by default
-include: ["index.html"]
-permalink: /:basename/
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+# Force index.html to be the default page
+# This setting is crucial for GitHub Pages to serve index.html instead of README
+theme: jekyll-theme-minimal
+baseurl: ""
+url: "https://steviesimsii.github.io/AiNewsDaily/"
 
-# Force the index.html to be the homepage
-index_page: "index.html"
+# Explicitly tell GitHub to use index.html
+index_page: index.html
+source: ./
+markdown: kramdown
+highlighter: rouge
+
+# Settings for direct serving
+exclude: ["README.txt", "README.md", "README", ".git"]
+include: ["index.html", ".nojekyll"]
+
+# Disable GitHub Pages from generating a page from README.md
+readme_index:
+  enabled: false
+  remove_originals: false
