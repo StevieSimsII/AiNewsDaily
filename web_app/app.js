@@ -96,6 +96,7 @@ function processNewsData(data) {
 function displayNews(newsItems) {
     const container = document.getElementById('news-container');
     const loadingIndicator = document.getElementById('loading-indicator');
+    const noResults = document.getElementById('no-results');
     
     if (loadingIndicator) {
         loadingIndicator.style.display = 'none';
@@ -107,8 +108,15 @@ function displayNews(newsItems) {
     }
     
     if (newsItems.length === 0) {
-        container.innerHTML = '<div class="alert alert-info">No news items found.</div>';
+        if (noResults) {
+            noResults.style.display = 'block';
+        }
+        container.innerHTML = noResults ? noResults.outerHTML : '<div class="alert alert-info">No news items found.</div>';
         return;
+    }
+    
+    if (noResults) {
+        noResults.style.display = 'none';
     }
     
     let html = '';
