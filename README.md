@@ -1,6 +1,6 @@
 # 🤖 AI News Daily - Artificial Intelligence & Machine Learning News Collector
 
-This project automatically collects the latest news articles related to AI and machine learning from various free RSS feeds, saves them to a CSV file, and presents them in an interactive web application that can be deployed to GitHub Pages.
+This project automatically collects the latest news articles related to AI and machine learning from various free RSS feeds, saves them to a CSV file, and presents them in an interactive web application deployed to GitHub Pages.
 
 ## Features
 
@@ -11,7 +11,8 @@ This project automatically collects the latest news articles related to AI and m
 - Prevents duplicate articles with historical tracking
 - Stores article data in an easy-to-use CSV format
 - No API keys required - uses only freely available RSS feeds
-- Easy deployment to GitHub Pages
+- One-click update process for effortless maintenance
+- Automatic deployment to GitHub Pages
 
 ## Setup Instructions
 
@@ -34,11 +35,57 @@ This project automatically collects the latest news articles related to AI and m
 
 ### Running the Script
 
-You can run the script manually:
+#### Option 1: One-Click Update (Recommended)
+
+The simplest way to run the script and update your website is to use the one-click update process:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File ".\OneClickUpdate.ps1"
+```
+
+This script will:
+1. Collect new AI/ML articles from all sources
+2. Prepare the files for GitHub Pages
+3. Commit and push changes to GitHub
+4. Update your live website
+
+See `ONE_CLICK_UPDATE_INSTRUCTIONS.md` for more details on creating desktop shortcuts and other usage options.
+
+#### Option 2: Manual Execution
+
+You can still run the collection script manually if needed:
 
 ```
 python ai_news_collector.py
 ```
+
+### How to Manually Run this Daily
+
+If you need to manually run the daily collection and update process, follow these steps:
+
+1. **Open PowerShell**: Right-click on the Start menu and select "Windows PowerShell"
+
+2. **Navigate to the Project Directory**:
+   ```powershell
+   cd "c:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector"
+   ```
+
+3. **Run the One-Click Update Script**:
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File ".\OneClickUpdate.ps1"
+   ```
+
+4. **Verify the Update**: Once the script completes, check the website at https://steviesimsii.github.io/AiNewsDaily/ to confirm the changes are visible (it may take a few minutes for GitHub Pages to update)
+
+Alternatively, you can create a desktop shortcut for even easier access:
+1. Right-click on your desktop
+2. Select New > Shortcut
+3. Enter this command:
+   ```
+   powershell -ExecutionPolicy Bypass -File "c:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\OneClickUpdate.ps1"
+   ```
+4. Name the shortcut "AI News Daily Updater"
+5. Double-click this shortcut whenever you want to update the news
 
 ### Setting up Automatic Daily Execution
 

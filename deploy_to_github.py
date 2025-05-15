@@ -40,17 +40,32 @@ def deploy_to_github_pages():
         logger.error(f"CSV file not found: {csv_file}")
         return False
     
+    # Remove .git directory from docs if it exists (this is causing problems)
+    git_dir = docs_dir / ".git"
+    if os.path.exists(git_dir):
+        try:
+            shutil.rmtree(git_dir)
+            logger.info(f"Removed .git directory from docs folder to avoid conflicts")
+        except PermissionError:
+            logger.warning(f"Could not remove .git directory from docs folder - this may cause issues")
     # Copy all web app files to the docs directory
     for item in os.listdir(web_app_dir):
         source = web_app_dir / item
         destination = docs_dir / item
         
+        # Skip .git directory and data directory (data is handled separately)
+        if item in [".git", "data"]:
+            continue
+        
         if os.path.isdir(source):
-            if item != "data":  # We already handled the data directory
-                if os.path.exists(destination):
+            if os.path.exists(destination):
+                try:
                     shutil.rmtree(destination)
-                shutil.copytree(source, destination)
-                logger.info(f"Copied directory {source} to {destination}")
+                except PermissionError:
+                    logger.warning(f"Could not remove directory {destination} - skipping")
+                    continue
+            shutil.copytree(source, destination)
+            logger.info(f"Copied directory {source} to {destination}")
         else:
             shutil.copy2(source, destination)
             logger.info(f"Copied file {source} to {destination}")
