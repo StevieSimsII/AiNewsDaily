@@ -7,6 +7,7 @@ import logging
 import re
 import feedparser
 import ssl
+import html
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -253,17 +254,20 @@ def collect_news():
                         if keyword.lower() in text:
                             category = keyword
                             break
-                    
-                    # For research content, extract insights
+                      # For research content, extract insights
                     insights = ""
                     if "Research" in source_type:
                         insights = extract_research_insights(article['description'], source_domain)
                     
+                    # Decode HTML entities in title and description
+                    title = html.unescape(article['title'])
+                    description = html.unescape(article['description'])
+                    
                     # Write to CSV
                     writer.writerow({
                         'date': article['date'],
-                        'title': article['title'],
-                        'description': article['description'],
+                        'title': title,
+                        'description': description,
                         'source': article['source'],
                         'url': article_id,
                         'category': category,

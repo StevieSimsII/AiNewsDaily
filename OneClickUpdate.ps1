@@ -31,8 +31,15 @@ Check-LastExitCode
 Write-Host "News collection completed successfully!" -ForegroundColor Green
 Write-Host ""
 
-# Step 2: Deploy the web app to docs
-Write-Host "Step 2: Deploying web app to docs directory..." -ForegroundColor Green
+# Step 2: Run the HTML entity fixer script
+Write-Host "Step 2: Fixing any HTML entities in the data..." -ForegroundColor Green
+python fix_html_entities.py
+Check-LastExitCode
+Write-Host "HTML entity fixing completed successfully!" -ForegroundColor Green
+Write-Host ""
+
+# Step 3: Deploy the web app to docs
+Write-Host "Step 3: Deploying web app to docs directory..." -ForegroundColor Green
 python deploy_to_github.py
 Check-LastExitCode
 Write-Host "Web app deployment completed successfully!" -ForegroundColor Green
@@ -40,7 +47,7 @@ Write-Host ""
 
 # Step 3: Optionally commit and push changes to GitHub
 if ($PushToGitHub) {
-    Write-Host "Step 3: Committing and pushing changes to GitHub..." -ForegroundColor Green
+    Write-Host "Step 4: Committing and pushing changes to GitHub..." -ForegroundColor Green
     git add .
     Check-LastExitCode
     git commit -m $CommitMessage
@@ -50,8 +57,8 @@ if ($PushToGitHub) {
     Write-Host "Changes pushed to GitHub successfully!" -ForegroundColor Green
     Write-Host ""
     
-    # Step 4: Check GitHub Pages configuration
-    Write-Host "Step 4: Checking GitHub Pages configuration..." -ForegroundColor Green
+    # Step 5: Check GitHub Pages configuration
+    Write-Host "Step 5: Checking GitHub Pages configuration..." -ForegroundColor Green
     python check_github_pages.py
     Write-Host ""
 } else {
