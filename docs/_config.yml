@@ -6,3 +6,13 @@ description: Daily updates on AI and Machine Learning news, research, and insigh
 # Explicitly tell GitHub Pages we want to use the index file
 # and not display the README by default
 include: ["index.html"]
+permalink: /:basename/
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Force the index.html to be the homepage
+index_page: "index.html"
