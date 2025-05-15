@@ -321,3 +321,19 @@
 2025-05-15 12:05:37,623 - AI_News_Collector - INFO - Added 0 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
 =======
 >>>>>>> parent of 1b66235 (Update AI News Daily - 2025-05-15 10:05:58)
+2025-05-15 14:25:51,180 - AI_News_Collector - INFO - Starting news collection
+2025-05-15 14:25:51,187 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
+2025-05-15 14:25:53,707 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-15 14:25:56,219 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-15 14:26:01,093 - AI_News_Collector - INFO - Fetching articles from: theverge.com
+2025-05-15 14:26:03,695 - AI_News_Collector - INFO - Fetching articles from: techcrunch.com
+2025-05-15 14:26:05,974 - AI_News_Collector - INFO - Fetching articles from: blog.google
+2025-05-15 14:26:08,478 - AI_News_Collector - INFO - Fetching articles from: openai.com
+2025-05-15 14:26:11,021 - AI_News_Collector - INFO - Fetching articles from: news.mit.edu
+2025-05-15 14:26:14,138 - AI_News_Collector - INFO - Fetching articles from: venturebeat.com
+2025-05-15 14:26:16,670 - AI_News_Collector - INFO - Fetching articles from: zdnet.com
+2025-05-15 14:26:19,753 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-15 14:26:23,056 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-15 14:26:25,711 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-15 14:26:29,105 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-15 14:26:33,055 - AI_News_Collector - INFO - Added 31 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
