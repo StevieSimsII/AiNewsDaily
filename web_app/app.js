@@ -39,8 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-    
-    // Set up view toggle buttons
+      // Set up view toggle buttons
     const cardsViewBtn = document.getElementById('cards-view-btn');
     const listViewBtn = document.getElementById('list-view-btn');
     
@@ -53,22 +52,6 @@ document.addEventListener('DOMContentLoaded', function() {
             setViewMode('list');
         });
     }
-    
-    // Set up date filters
-    const dateFilterItems = document.querySelectorAll('[data-filter]');
-    dateFilterItems.forEach(item => {
-        item.addEventListener('click', function(e) {
-            e.preventDefault();
-            
-            // Update active class
-            dateFilterItems.forEach(el => el.classList.remove('active'));
-            this.classList.add('active');
-            
-            // Filter by date
-            const filterType = this.dataset.filter;
-            filterNewsByDate(filterType);
-        });
-    });
     
     // Set up theme toggle
     const themeToggle = document.getElementById('theme-toggle');
@@ -218,17 +201,13 @@ function displayNews(newsItems, resetPage = true) {
     if (resetPage) {
         container.innerHTML = '';
     }
-    
-    paginatedItems.forEach(item => {
+      paginatedItems.forEach(item => {
         if (viewMode === 'cards') {
             container.appendChild(createCardView(item));
         } else {
             container.appendChild(createListView(item));
         }
     });
-    
-    // Set up any event listeners for newly created elements
-    setupSocialShareButtons();
 }
 
 // Create card view element for an article
@@ -239,26 +218,15 @@ function createCardView(item) {
     // Create card content
     const card = document.createElement('div');
     card.className = 'card h-100 news-card';
-    card.dataset.category = item.category;
     
     // Create the card body
     const cardBody = document.createElement('div');
     cardBody.className = 'card-body';
     
-    // Card header with title and category
-    const headerDiv = document.createElement('div');
-    headerDiv.className = 'd-flex justify-content-between align-items-start mb-2';
-    
+    // Card title
     const title = document.createElement('h5');
-    title.className = 'card-title mb-0';
+    title.className = 'card-title mb-2';
     title.textContent = item.title;
-    
-    const badge = document.createElement('span');
-    badge.className = `badge bg-${getCategoryColor(item.category)}`;
-    badge.textContent = item.category;
-    
-    headerDiv.appendChild(title);
-    headerDiv.appendChild(badge);
     
     // Card subtitle with date and source
     const subtitle = document.createElement('h6');
@@ -277,15 +245,11 @@ function createCardView(item) {
     link.textContent = 'Read More';
     link.target = '_blank';
     
-    // Social share buttons
-    const socialButtons = createSocialShareButtons(item);
-    
     // Assemble card
-    cardBody.appendChild(headerDiv);
+    cardBody.appendChild(title);
     cardBody.appendChild(subtitle);
     cardBody.appendChild(description);
     cardBody.appendChild(link);
-    cardBody.appendChild(socialButtons);
     
     card.appendChild(cardBody);
     col.appendChild(card);
@@ -301,7 +265,6 @@ function createListView(item) {
     // Create list item
     const card = document.createElement('div');
     card.className = 'card news-card';
-    card.dataset.category = item.category;
     
     // Create the card body
     const cardBody = document.createElement('div');
@@ -326,22 +289,17 @@ function createListView(item) {
     leftSide.appendChild(title);
     leftSide.appendChild(subtitle);
     
-    // Right side: category, read more, share
+    // Right side: read more
     const rightSide = document.createElement('div');
     rightSide.className = 'd-flex align-items-center';
     
-    const badge = document.createElement('span');
-    badge.className = `badge bg-${getCategoryColor(item.category)} me-2`;
-    badge.textContent = item.category;
-    
     const link = document.createElement('a');
     link.href = item.url;
-    link.className = 'btn btn-sm btn-outline-primary me-2';
+    link.className = 'btn btn-sm btn-outline-primary';
     link.textContent = 'Read';
     link.target = '_blank';
     
     // Add items to right side
-    rightSide.appendChild(badge);
     rightSide.appendChild(link);
     
     // Assemble the list item
@@ -353,85 +311,6 @@ function createListView(item) {
     col.appendChild(card);
     
     return col;
-}
-
-// Create social share buttons
-function createSocialShareButtons(item) {
-    const socialDiv = document.createElement('div');
-    socialDiv.className = 'social-share-buttons mt-2';
-    
-    // Encode the article data for sharing
-    const title = encodeURIComponent(item.title);
-    const url = encodeURIComponent(item.url);
-    
-    // Twitter button
-    const twitterBtn = document.createElement('button');
-    twitterBtn.className = 'btn btn-twitter';
-    twitterBtn.setAttribute('data-url', item.url);
-    twitterBtn.setAttribute('data-title', item.title);
-    twitterBtn.setAttribute('data-platform', 'twitter');
-    
-    const twitterIcon = document.createElement('i');
-    twitterIcon.className = 'bi bi-twitter';
-    twitterBtn.appendChild(twitterIcon);
-    
-    // Facebook button
-    const fbBtn = document.createElement('button');
-    fbBtn.className = 'btn btn-facebook';
-    fbBtn.setAttribute('data-url', item.url);
-    fbBtn.setAttribute('data-title', item.title);
-    fbBtn.setAttribute('data-platform', 'facebook');
-    
-    const fbIcon = document.createElement('i');
-    fbIcon.className = 'bi bi-facebook';
-    fbBtn.appendChild(fbIcon);
-    
-    // LinkedIn button
-    const liBtn = document.createElement('button');
-    liBtn.className = 'btn btn-linkedin';
-    liBtn.setAttribute('data-url', item.url);
-    liBtn.setAttribute('data-title', item.title);
-    liBtn.setAttribute('data-platform', 'linkedin');
-    
-    const liIcon = document.createElement('i');
-    liIcon.className = 'bi bi-linkedin';
-    liBtn.appendChild(liIcon);
-    
-    // Add buttons to container
-    socialDiv.appendChild(twitterBtn);
-    socialDiv.appendChild(fbBtn);
-    socialDiv.appendChild(liBtn);
-    
-    return socialDiv;
-}
-
-// Set up event listeners for social share buttons
-function setupSocialShareButtons() {
-    document.querySelectorAll('.social-share-buttons button').forEach(button => {
-        button.addEventListener('click', function() {
-            const platform = this.getAttribute('data-platform');
-            const url = encodeURIComponent(this.getAttribute('data-url'));
-            const title = encodeURIComponent(this.getAttribute('data-title'));
-            
-            let shareUrl;
-            
-            switch(platform) {
-                case 'twitter':
-                    shareUrl = `https://twitter.com/intent/tweet?text=${title}&url=${url}`;
-                    break;
-                case 'facebook':
-                    shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
-                    break;
-                case 'linkedin':
-                    shareUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${title}`;
-                    break;
-            }
-            
-            if (shareUrl) {
-                window.open(shareUrl, '_blank', 'width=600,height=400');
-            }
-        });
-    });
 }
 
 // Get color class based on category
@@ -491,42 +370,6 @@ function updateThemeIcon(theme) {
     if (icon) {
         icon.className = theme === 'dark' ? 'bi bi-sun-fill' : 'bi bi-moon-fill';
     }
-}
-
-// Filter news by date
-function filterNewsByDate(dateFilter) {
-    if (!window.newsData) return;
-    
-    let filtered = [];
-    const now = new Date();
-    
-    switch(dateFilter) {
-        case 'today':
-            filtered = window.newsData.filter(item => {
-                return item.date.toDateString() === now.toDateString();
-            });
-            break;
-        case 'week':
-            const weekAgo = new Date();
-            weekAgo.setDate(now.getDate() - 7);
-            filtered = window.newsData.filter(item => {
-                return item.date >= weekAgo;
-            });
-            break;
-        case 'month':
-            const monthAgo = new Date();
-            monthAgo.setMonth(now.getMonth() - 1);
-            filtered = window.newsData.filter(item => {
-                return item.date >= monthAgo;
-            });
-            break;
-        case 'all':
-        default:
-            filtered = window.newsData;
-            break;
-    }
-    
-    displayNews(filtered);
 }
 
 // Initialize data visualization
@@ -698,7 +541,7 @@ function showAllNews() {
 
 // Show about page
 function showAboutPage() {
-    document.getElementById('main-content').style.display = 'none';
+    document.getElementById('all-news-view').style.display = 'none';
     document.getElementById('about-view').style.display = 'block';
 }
 

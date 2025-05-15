@@ -36,39 +36,4 @@ This project is deployed using GitHub Pages. The deployment process copies files
 
 ## Contact
 
-For more information, please contact Stephen Sims.
-
-### CAT_BOM_AI_Project
-Holds text files and CSV outputs related to the CAT BOM AI project. This folder also includes a subfolder for PDF files.
-
-### CoPilotStudioHackathon
-Contains changelogs and a README file for the CoPilot Studio Hackathon project.
-
-### Power Apps
-Features various `.fx` files for Power Apps, including app initialization scripts, gallery filters, and user interface components.
-
-### Power_Automate
-Includes `.pae` and `.dax` files for Power Automate workflows and data analysis queries.
-
-### Power_Bi
-Reserved for Power BI-related files and reports.
-
-### powerplatform-prompts
-Contains prompts and configurations for Power Platform tools.
-
-### Python_Files
-A folder dedicated to Python scripts for various tasks and projects.
-
-### SharePoint
-Holds files and configurations related to SharePoint integrations.
-
-## Getting Started
-1. Clone the repository to your local machine.
-2. Navigate to the folder of interest.
-3. Follow the specific instructions or documentation within each folder.
-
-## Contributing
-Feel free to contribute to this repository by submitting pull requests. Ensure your code follows the repository's coding standards and includes appropriate documentation.
-
-## License
-This repository is licensed under the MIT License. See the LICENSE file for details.
+For more information, please contact Stevie Sims.

@@ -6,10 +6,9 @@
     --dark-color: #2c3e50;
     --gartner-color: #00a4e4;
     --forrester-color: #496b46;
-    
-    /* Dark mode variables */
-    --dark-bg-color: #121212;
-    --dark-card-color: #1e1e1e;
+      /* Dark mode variables */
+    --dark-bg-color: #212830;
+    --dark-card-color: #2a3440;
     --dark-text-color: #f5f5f5;
     --dark-secondary-text: #aaaaaa;
 }
