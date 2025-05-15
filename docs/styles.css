@@ -6,12 +6,39 @@
     --dark-color: #2c3e50;
     --gartner-color: #00a4e4;
     --forrester-color: #496b46;
+    
+    /* Dark mode variables */
+    --dark-bg-color: #121212;
+    --dark-card-color: #1e1e1e;
+    --dark-text-color: #f5f5f5;
+    --dark-secondary-text: #aaaaaa;
 }
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f5f7fa;
     color: var(--dark-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark Mode Styles */
+[data-bs-theme="dark"] {
+    --bs-body-bg: var(--dark-bg-color);
+    --bs-body-color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] body {
+    background-color: var(--dark-bg-color);
+    color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] .card {
+    background-color: var(--dark-card-color);
+    color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] .card-subtitle {
+    color: var(--dark-secondary-text) !important;
 }
 
 .navbar {
@@ -127,6 +154,74 @@ footer {
     height: 200px;
 }
 
+/* List view styles */
+.news-list-view .news-card {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.news-list-view .card-body {
+    padding: 10px 15px;
+}
+
+.news-list-view .card-title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.news-list-view .card-text {
+    display: none;
+}
+
+.news-cards-view .card {
+    height: 100%;
+}
+
+/* Badge styling improvements */
+.badge {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+/* Social share buttons */
+.social-share-buttons {
+    margin-top: 10px;
+}
+
+.social-share-buttons .btn {
+    padding: 4px 8px;
+    margin-right: 5px;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.social-share-buttons .btn:hover {
+    transform: translateY(-2px);
+}
+
+.social-share-buttons .btn-twitter {
+    background-color: #1DA1F2;
+    color: white;
+}
+
+.social-share-buttons .btn-facebook {
+    background-color: #4267B2;
+    color: white;
+}
+
+.social-share-buttons .btn-linkedin {
+    background-color: #0077B5;
+    color: white;
+}
+
 @media (max-width: 768px) {
     .navbar-brand {
         font-size: 1.2rem;
@@ -142,5 +237,9 @@ footer {
         white-space: nowrap;
         width: 100%;
         padding-bottom: 5px;
+    }
+    
+    .dropdown {
+        margin-top: 10px;
     }
 }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="light">
 <head>    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI News Daily | Latest AI News and Research</title>
@@ -28,13 +28,16 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#" id="about-link">About</a>
                     </li>
-                </ul>
-                <form class="d-flex ms-auto">
+                </ul>                <form class="d-flex ms-auto" onsubmit="return false;">
                     <div class="input-group">
                         <input class="form-control" type="search" placeholder="Search articles..." id="search-input">
-                        <button class="btn btn-outline-light" type="button"><i class="bi bi-search"></i></button>
+                        <button class="btn btn-outline-light" type="button" id="search-button"><i class="bi bi-search"></i></button>
                     </div>
                 </form>
+                <!-- Dark mode toggle -->
+                <button class="btn btn-outline-light ms-2" id="theme-toggle">
+                    <i class="bi bi-moon-fill" id="theme-icon"></i>
+                </button>
             </div>
         </div>
     </nav>
@@ -42,18 +45,32 @@
     <div class="container mt-4">
         <div id="main-content">
             <!-- All News View -->
-            <div id="all-news-view">
-                <div class="row mb-4">
+            <div id="all-news-view">                <div class="row mb-4 align-items-center">
                     <div class="col-md-6">
                         <h2>Latest AI & ML News</h2>
                     </div>
-                    <div class="col-md-6 text-end">
-                        <div class="btn-group" role="group">
-                            <button type="button" class="btn btn-outline-primary active filter-btn" data-filter="all">All</button>
-                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="ai">AI</button>
-                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="machine-learning">ML</button>
-                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="gartner">Gartner</button>
-                            <button type="button" class="btn btn-outline-primary filter-btn" data-filter="forrester">Forrester</button>
+                    <div class="col-md-6 text-md-end">
+                        <!-- View toggle buttons -->
+                        <div class="btn-group" role="group" aria-label="View options">
+                            <button type="button" class="btn btn-outline-primary active" id="cards-view-btn">
+                                <i class="bi bi-grid-3x3-gap-fill"></i> Cards
+                            </button>
+                            <button type="button" class="btn btn-outline-primary" id="list-view-btn">
+                                <i class="bi bi-list-ul"></i> List
+                            </button>
+                        </div>
+                        
+                        <!-- Date filter dropdown -->
+                        <div class="dropdown d-inline-block ms-2">
+                            <button class="btn btn-outline-primary dropdown-toggle" type="button" id="dateFilterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="bi bi-calendar3"></i> Date
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="dateFilterDropdown">
+                                <li><a class="dropdown-item active" href="#" data-filter="all">All Time</a></li>
+                                <li><a class="dropdown-item" href="#" data-filter="today">Today</a></li>
+                                <li><a class="dropdown-item" href="#" data-filter="week">This Week</a></li>
+                                <li><a class="dropdown-item" href="#" data-filter="month">This Month</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -82,14 +99,23 @@
                     </div>
                 </div>            </div>
             
-            <!-- About View -->
-            <div id="about-view" style="display: none;">                <h2>About AI News Daily</h2>
+            <!-- About View -->            <div id="about-view" style="display: none;">                <h2>About AI News Daily</h2>
                 <div class="card">
                     <div class="card-body">
                         <h4>What is AI News Daily?</h4>
                         <p>
                             AI News Daily is an automated AI and Machine Learning news aggregator that collects
                             the latest articles, research, and insights from leading technology and research sources.
+                            Launched in 2025, our mission is to provide professionals, researchers, and enthusiasts with 
+                            a single destination for keeping up with the rapidly evolving world of artificial intelligence.
+                        </p>
+                        
+                        <h4>Our Mission</h4>
+                        <p>
+                            Our goal is to cut through the noise and present only the most relevant, high-quality content
+                            about artificial intelligence and machine learning. By automating the collection and curation 
+                            process, we ensure that our users always have access to the latest developments without having 
+                            to visit multiple sources.
                         </p>
                         
                         <h4>How It Works</h4>
@@ -124,8 +150,34 @@
                         
                         <h4>Updates</h4>
                         <p>
-                            The data on this site is updated daily at 8:00 AM.
+                            The data on this site is updated daily at 8:00 AM. Each update brings fresh content
+                            from our sources, ensuring you never miss important AI news.
                         </p>
+                        
+                        <h4>Why AI News Daily?</h4>
+                        <p>
+                            With the explosive growth of AI technology and research, staying informed has become
+                            increasingly challenging. AI News Daily solves this problem by:
+                        </p>
+                        <ul>
+                            <li>Aggregating content from trusted sources</li>
+                            <li>Focusing exclusively on AI and ML topics</li>
+                            <li>Providing a clean, ad-free reading experience</li>
+                            <li>Offering powerful search and filtering capabilities</li>
+                            <li>Making content accessible across all devices</li>
+                        </ul>
+                        
+                        <h4>Future Development</h4>
+                        <p>
+                            We're continuously improving AI News Daily. Upcoming features include:
+                        </p>
+                        <ul>
+                            <li>Personalized content recommendations</li>
+                            <li>Email newsletter with daily/weekly digests</li>
+                            <li>Advanced analytics on AI trends</li>
+                            <li>Topic clustering and categorization</li>
+                            <li>Integration with additional research sources</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -159,8 +211,8 @@
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             lastUpdatedElement.textContent = new Date().toLocaleDateString('en-US', options);
         }
-        
-        // Add event listeners to footer links        document.getElementById('footer-all-news').addEventListener('click', function(e) {
+          // Add event listeners to footer links
+        document.getElementById('footer-all-news').addEventListener('click', function(e) {
             e.preventDefault();
             document.getElementById('all-news-link').click();
         });

@@ -29,3 +29,4 @@ https://www.zdnet.com/article/google-offers-ai-certification-for-business-leader
 https://www.zdnet.com/article/you-can-make-a-photo-come-alive-with-tiktoks-new-ai-tool-heres-how/
 https://www.forrester.com/blogs/application-security-2025-yes-ai-just-made-it-harder-to-do-this-right/
 https://www.forrester.com/blogs/master-tech-mayhem-technology-innovation-summit-apac/
+https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/
