@@ -46,6 +46,18 @@ if (Test-Path $docsGitDir) {
     Remove-Item -Recurse -Force $docsGitDir
 }
 
+# Check for and remove .gitmodules file if it exists
+$gitmodulesFile = Join-Path $scriptPath ".gitmodules"
+if (Test-Path $gitmodulesFile) {
+    Write-Host "Found .gitmodules file that may cause submodule errors - removing it..." -ForegroundColor Yellow
+    Remove-Item -Force $gitmodulesFile
+}
+
+# Fix Git's internal submodule references (this is safe even if docs isn't a submodule)
+git submodule deinit -f -- docs 2>$null
+git rm -f --cached docs 2>$null
+Write-Host "Fixed potential Git submodule references" -ForegroundColor Yellow
+
 # Get the current directory path
 $rootDir = $scriptPath
 
@@ -71,6 +83,8 @@ if (-not (Test-Path (Join-Path $rootDir ".git"))) {
 $today = Get-Date -Format "MMMM d, yyyy"
 $webAppDataReadme = Join-Path $rootDir "web_app\data\README.md"
 $docsDataReadme = Join-Path $rootDir "docs\data\README.md"
+$webAppIndexHtml = Join-Path $rootDir "web_app\index.html"
+$docsIndexHtml = Join-Path $rootDir "docs\index.html"
 
 if (Test-Path $webAppDataReadme) {
     $content = Get-Content $webAppDataReadme -Raw
@@ -84,6 +98,14 @@ if (Test-Path $docsDataReadme) {
     $updatedContent = $content -replace "## Last Updated\s*\r?\n\s*.*?\r?\n", "## Last Updated`r`n`r`n$today`r`n"
     Set-Content -Path $docsDataReadme -Value $updatedContent -NoNewline
     Write-Host "Updated date in docs\data\README.md" -ForegroundColor Yellow
+}
+
+# Update date in web app HTML files
+if (Test-Path $webAppIndexHtml) {
+    $content = Get-Content $webAppIndexHtml -Raw
+    $updatedContent = $content -replace "<p>Last Updated: <span id=""last-updated-date"">.*?</span></p>", "<p>Last Updated: <span id=""last-updated-date"">$today</span></p>"
+    Set-Content -Path $webAppIndexHtml -Value $updatedContent -NoNewline
+    Write-Host "Updated date in web_app\index.html" -ForegroundColor Yellow
 }
 
 # Stage the changes

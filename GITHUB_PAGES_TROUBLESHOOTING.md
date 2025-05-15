@@ -1,32 +1,132 @@
 # GitHub Pages Deployment Troubleshooting Guide
 
-If you're experiencing issues with GitHub Pages not showing your latest updates, follow this step-by-step guide to diagnose and fix the problems.
+## ⚠️ CRITICAL ISSUE: GitHub Actions Deployment Failure
 
-## Quick Fixes
+Your GitHub Pages deployment is failing because GitHub's deployment method has changed, and your repository settings need to be updated.
 
-Try these quick fixes first:
+## Step-by-Step Resolution Process
 
-1. **Run the improved updater script**:
-   ```powershell
-   powershell -ExecutionPolicy Bypass -File ".\OneClickUpdate_v2.ps1"
-   ```
+### 1️⃣ Fix GitHub Repository Settings
 
-2. **Check GitHub Actions status**:
-   - Go to https://github.com/StevieSimsII/AiNewsDaily/actions
-   - See if any workflows are running or have failed
+First, configure your repository to use GitHub Actions for Pages deployment:
 
-3. **Verify GitHub Pages settings**:
-   - Go to your repository Settings → Pages
-   - Ensure source is set to "Deploy from a branch"
-   - Branch should be "master" with /docs folder selected
+1. Go to your repository: https://github.com/StevieSimsII/AiNewsDaily
+2. Click on **Settings** (tab at the top)
+3. In the left sidebar, click on **Pages**
+4. Under **Build and deployment**:
+   - For **Source**, select **GitHub Actions** (NOT "Deploy from a branch")
+   - This is the most critical setting change!
 
-## Step-by-Step Troubleshooting
+### 2️⃣ Update Repository Permissions
 
-If the quick fixes don't work, follow these more detailed steps:
+GitHub Actions needs proper permissions to deploy your site:
 
-### Step 1: Fix Git Repository Structure
+1. In your repository settings, go to **Actions** → **General** (in the left sidebar)
+2. Scroll down to "Workflow permissions"
+3. Select "**Read and write permissions**"
+4. Check "**Allow GitHub Actions to create and approve pull requests**"
+5. Click **Save**
 
-The most common issue is having multiple `.git` directories causing conflicts. Run the force fix script:
+### 3️⃣ Fix Git Repository Structure
+
+Run the repository structure fix script to remove any nested .git directories:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File ".\fix_git_repository.ps1"
+```
+
+### 4️⃣ Re-Run Failed Workflow
+
+1. Go to the **Actions** tab in your repository
+2. Find the failed workflow run
+3. Click the "**Re-run all jobs**" button in the top-right corner
+4. Wait for completion (usually takes 2-3 minutes)
+
+## Verification Process
+
+After completing these steps:
+
+1. Go to your repository's **Actions** tab
+2. You should see a new workflow run in progress
+3. Wait for it to complete successfully (green checkmark ✅)
+4. Visit your site at https://steviesimsii.github.io/AiNewsDaily/
+5. Verify the site has been updated with the latest content
+
+## Advanced Troubleshooting
+
+If you still encounter issues after following these steps:
+
+### Error: "Resource not accessible by integration"
+
+This error occurs when:
+- GitHub Pages doesn't have proper access to deploy from Actions
+- Solution: Make sure Workflow permissions are set to "Read and write" in repository settings
+
+### Error: "The process '/usr/bin/git' failed with exit code 128"
+
+This error occurs when:
+- There are Git repository conflicts
+- Solution: Remove nested .git directories and force clean your local repository:
+  ```powershell
+  # Remove nested .git directories
+  Get-ChildItem -Path . -Recurse -Hidden -Directory -Filter ".git" | 
+  Where-Object { $_.FullName -ne (Join-Path (Get-Location) ".git") } | 
+  Remove-Item -Recurse -Force
+  
+  # Force clean your repository
+  git clean -fd
+  ```
+
+### Error: Workflow fails with no clear error message
+
+When this happens:
+1. Check if your workflow file is valid
+2. Make sure your docs directory has the correct structure
+3. Try with a simple workflow file:
+
+```yaml
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'docs'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+```
+
+## After Fixing the Issue
+
+Once your GitHub Pages deployment is working:
+
+1. Run your `OneClickUpdate.ps1` script
+2. It will collect new articles and automatically deploy to GitHub Pages
+3. The process should complete without errors
+4. Your site will be updated with the latest AI news
+
+Remember: GitHub now prefers using GitHub Actions for Pages deployment rather than the older "Deploy from a branch" method. Your workflow is set up for the new method, and your repository settings need to match.
 
 ```powershell
 # Run as administrator
