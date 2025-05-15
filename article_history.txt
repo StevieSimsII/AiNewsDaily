@@ -52,3 +52,5 @@ https://www.zdnet.com/article/gen-ai-use-at-work-saps-our-motivation-even-as-it-
 https://www.forrester.com/blogs/master-tech-mayhem-technology-innovation-summit-apac/
 https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515
 https://www.forrester.com/blogs/application-security-2025-yes-ai-just-made-it-harder-to-do-this-right/
+https://techcrunch.com/2025/05/15/cognichip-emerges-from-stealth-with-the-goal-of-using-generative-ai-to-develop-new-chips/
+https://techcrunch.com/2025/05/15/google-rolls-out-new-ai-and-accessibility-features-to-android-and-chrome/

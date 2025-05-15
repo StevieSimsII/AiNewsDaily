@@ -222,3 +222,19 @@
 2025-05-15 10:40:05,178 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-15 10:40:08,585 - AI_News_Collector - INFO - Fetching articles from: forrester.com
 2025-05-15 10:40:12,274 - AI_News_Collector - INFO - Added 0 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+2025-05-15 11:10:51,850 - AI_News_Collector - INFO - Starting news collection
+2025-05-15 11:10:51,888 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
+2025-05-15 11:10:54,409 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-15 11:10:56,830 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-15 11:11:01,909 - AI_News_Collector - INFO - Fetching articles from: theverge.com
+2025-05-15 11:11:04,382 - AI_News_Collector - INFO - Fetching articles from: techcrunch.com
+2025-05-15 11:11:07,128 - AI_News_Collector - INFO - Fetching articles from: blog.google
+2025-05-15 11:11:09,683 - AI_News_Collector - INFO - Fetching articles from: openai.com
+2025-05-15 11:11:12,331 - AI_News_Collector - INFO - Fetching articles from: news.mit.edu
+2025-05-15 11:11:15,584 - AI_News_Collector - INFO - Fetching articles from: venturebeat.com
+2025-05-15 11:11:18,645 - AI_News_Collector - INFO - Fetching articles from: zdnet.com
+2025-05-15 11:11:21,098 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-15 11:11:23,800 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-15 11:11:26,563 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-15 11:11:29,848 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-15 11:11:33,676 - AI_News_Collector - INFO - Added 2 new articles to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
