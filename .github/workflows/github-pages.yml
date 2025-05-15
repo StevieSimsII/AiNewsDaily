@@ -1,16 +1,17 @@
-name: Deploy to GitHub Pages
+name: Deploy GitHub Pages
 
 on:
   push:
-    branches:
-      - master
+    branches: [ master ]
   workflow_dispatch:
 
-# Sets permissions required for GitHub Pages
+# Sets full permissions for GitHub Pages deployment
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+  actions: write
+  deployments: write
 
 # Allow only one concurrent deployment
 concurrency:
@@ -18,40 +19,41 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: false  # Don't attempt to check out submodules
-      
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-      
-      - name: Check docs directory
+          
+      - name: Remove docs/.git if it exists
         run: |
-          ls -la
-          echo "Checking docs directory structure:"
           if [ -d "docs/.git" ]; then
             echo "Found .git directory in docs, removing it"
             rm -rf docs/.git
           fi
-          echo "Contents of docs directory:"
-          ls -la docs/
-      
-      - name: Upload Pages artifact
+        
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+        with:
+          enablement: true # Explicitly enable GitHub Pages
+          
+      # Skip Jekyll build since we already have static HTML
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: docs
-  
+          path: './docs'
+
+  # Deployment job
   deploy:
-    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
