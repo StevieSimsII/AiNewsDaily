@@ -11,9 +11,6 @@ AI News Daily is a web application that displays the latest news and research in
 ## Features
 
 - Display of AI news articles from various sources
-- Filtering by category
-- Search functionality
-- Data visualization with charts
 - Responsive design
 
 ## File Structure
