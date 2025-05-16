@@ -31,3 +31,11 @@ https://www.forrester.com/blogs/application-security-2025-yes-ai-just-made-it-ha
 https://www.forrester.com/blogs/master-tech-mayhem-technology-innovation-summit-apac/
 https://techcrunch.com/2025/05/15/anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation/
 https://techcrunch.com/2025/05/15/programmers-bore-the-brunt-of-microsofts-layoffs-in-its-home-state-as-ai-writes-up-to-30-of-its-code/
+https://techcrunch.com/2025/05/15/xai-blames-groks-obsession-with-white-genocide-on-an-unauthorized-modification/
+https://techcrunch.com/2025/05/15/sam-altmans-goal-for-chatgpt-to-remember-your-whole-life-is-both-exciting-and-disturbing/
+https://techcrunch.com/2025/05/15/vibe-coding-startup-windsurf-launches-in-house-ai-models/
+https://techcrunch.com/2025/05/15/fake-fired-twitter-worker-rahul-ligma-is-a-real-engineer-with-an-ai-data-startup-used-by-harvard/
+https://venturebeat.com/ai/elon-musks-xai-tries-to-explain-groks-south-african-race-relations-freakout-the-other-day/
+https://venturebeat.com/ai/software-engineering-native-ai-models-have-arrived-what-windsurfs-swe-1-means-for-technical-decision-makers/
+https://venturebeat.com/data-infrastructure/the-1-billion-database-bet-what-databricks-neon-acquisition-means-for-your-ai-strategy/
+https://venturebeat.com/ai/from-oauth-bottleneck-to-ai-acceleration-how-ciam-solutions-are-removing-the-top-integration-barrier-in-enterprise-ai-agent-deployment/

@@ -103,3 +103,30 @@
 2025-05-15 15:17:49,385 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
 2025-05-15 15:17:49,389 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
 2025-05-15 15:17:49,392 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-05-15 15:30:52,303 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-05-15 15:30:52,337 - deploy_to_github - INFO - Copied C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-15 15:30:52,391 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\app.js to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\app.js
+2025-05-15 15:30:52,442 - deploy_to_github - INFO - Copied data file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-15 15:30:52,504 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\index.html to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\index.html
+2025-05-15 15:30:52,511 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\styles.css to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\styles.css
+2025-05-15 15:30:52,514 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
+2025-05-15 15:30:52,516 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
+2025-05-15 15:30:52,519 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-05-15 15:54:03,856 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-05-15 15:54:03,866 - deploy_to_github - INFO - Copied C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-15 15:54:03,875 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\app.js to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\app.js
+2025-05-15 15:54:03,888 - deploy_to_github - INFO - Copied data file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-15 15:54:03,897 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\index.html to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\index.html
+2025-05-15 15:54:03,906 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\styles.css to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\styles.css
+2025-05-15 15:54:03,908 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
+2025-05-15 15:54:03,912 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
+2025-05-15 15:54:03,915 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-05-16 06:10:44,932 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-05-16 06:10:44,967 - deploy_to_github - INFO - Copied C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-16 06:10:45,017 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\app.js to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\app.js
+2025-05-16 06:10:45,047 - deploy_to_github - INFO - Copied data file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-16 06:10:45,112 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\index.html to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\index.html
+2025-05-16 06:10:45,137 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\styles.css to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\styles.css
+2025-05-16 06:10:45,139 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
+2025-05-16 06:10:45,143 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
+2025-05-16 06:10:45,146 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
