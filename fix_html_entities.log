@@ -239,3 +239,12 @@
 2025-05-17 16:00:53,132 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
 2025-05-17 16:00:53,134 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv.fixed
 2025-05-17 16:00:53,137 - INFO - Updated docs CSV file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv with fixed HTML entities
+2025-05-17 16:24:45,980 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+2025-05-17 16:24:45,981 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv.fixed
+2025-05-17 16:24:45,985 - INFO - Updated main CSV file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv with fixed HTML entities
+2025-05-17 16:24:45,998 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv
+2025-05-17 16:24:45,998 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv.fixed
+2025-05-17 16:24:46,000 - INFO - Updated web_app CSV file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv with fixed HTML entities
+2025-05-17 16:24:46,011 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-17 16:24:46,012 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv.fixed
+2025-05-17 16:24:46,015 - INFO - Updated docs CSV file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv with fixed HTML entities
