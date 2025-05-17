@@ -1,0 +1,1 @@
+cd "c:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector"; powershell -ExecutionPolicy Bypass -File .\OneClickUpdate.ps1 -PushToGitHub
