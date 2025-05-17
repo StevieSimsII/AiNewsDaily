@@ -32,9 +32,18 @@ logging.basicConfig(
 logger = logging.getLogger("AI_News_Collector")
 
 # Configuration
-CSV_OUTPUT_PATH = Path(__file__).parent / "ai_news.csv"
-HISTORY_FILE = Path(__file__).parent / "article_history.txt"
+BASE_DIR = Path(__file__).parent
+CSV_OUTPUT_PATH = BASE_DIR / "ai_news.csv"  # Default CSV path in root directory
+DOCS_CSV_PATH = BASE_DIR / "docs" / "data" / "ai_news.csv"  # Path for web app
+HISTORY_FILE = BASE_DIR / "article_history.txt"
 MAX_ARTICLES_PER_SOURCE = 5
+
+# Check if the docs/data directory exists, if so use that path for output
+if (BASE_DIR / "docs" / "data").exists():
+    CSV_OUTPUT_PATH = DOCS_CSV_PATH
+    logger.info(f"Using web app CSV path: {CSV_OUTPUT_PATH}")
+else:
+    logger.info(f"Using default CSV path: {CSV_OUTPUT_PATH}")
 
 # List of RSS feeds focused on AI and ML topics
 RSS_FEEDS = [
@@ -281,10 +290,20 @@ def read_existing_articles():
     existing_urls = set()
     
     if not os.path.exists(CSV_OUTPUT_PATH):
-        return existing_articles, existing_urls
+        # Try to check both possible paths if the main one doesn't exist
+        alternate_path = DOCS_CSV_PATH if CSV_OUTPUT_PATH == BASE_DIR / "ai_news.csv" else BASE_DIR / "ai_news.csv"
+        
+        if os.path.exists(alternate_path):
+            logger.info(f"Main CSV not found, but found alternate at {alternate_path}. Will use this for reading existing articles.")
+            csv_path = alternate_path
+        else:
+            # No CSV found in either location
+            return existing_articles, existing_urls
+    else:
+        csv_path = CSV_OUTPUT_PATH
     
     try:
-        with open(CSV_OUTPUT_PATH, mode='r', newline='', encoding='utf-8') as file:
+        with open(csv_path, mode='r', newline='', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
                 existing_articles.append(row)
@@ -296,7 +315,7 @@ def read_existing_articles():
 
 def collect_news():
     """Collect news articles and save them to a CSV file."""
-    logger.info("Starting news collection")
+    logger.info(f"Starting news collection, output will be saved to: {CSV_OUTPUT_PATH}")
     
     # Get previously processed article IDs
     processed_ids = get_processed_article_ids()
@@ -381,6 +400,9 @@ def collect_news():
         # Sort all articles by date in descending order (newest first)
         all_articles.sort(key=lambda x: parse_date(x['date']), reverse=True)
         
+        # Create directories if they don't exist
+        os.makedirs(os.path.dirname(CSV_OUTPUT_PATH), exist_ok=True)
+        
         # Write all articles to a new CSV file
         temp_file = CSV_OUTPUT_PATH.with_suffix('.temp.csv')
         with open(temp_file, mode='w', newline='', encoding='utf-8') as file:
@@ -400,6 +422,18 @@ def collect_news():
         os.rename(temp_file, CSV_OUTPUT_PATH)
         
         logger.info(f"Updated CSV with {len(all_articles)} total articles (sorted by date)")
+        
+        # If we're writing to the main directory, also write a copy to the docs/data directory
+        # This ensures both locations have the data
+        if CSV_OUTPUT_PATH == BASE_DIR / "ai_news.csv" and (BASE_DIR / "docs" / "data").exists():
+            try:
+                docs_dir = BASE_DIR / "docs" / "data"
+                os.makedirs(docs_dir, exist_ok=True)
+                import shutil
+                shutil.copy2(CSV_OUTPUT_PATH, docs_dir / "ai_news.csv")
+                logger.info(f"Also copied CSV to web app location: {docs_dir / 'ai_news.csv'}")
+            except Exception as e:
+                logger.error(f"Error copying CSV to web app directory: {str(e)}")
     else:
         logger.info("No new articles found to add")
 
