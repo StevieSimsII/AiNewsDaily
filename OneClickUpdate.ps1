@@ -24,6 +24,52 @@ function Check-LastExitCode {
     }
 }
 
+# Function to verify CSV files are in sync
+function Verify-CsvSync {
+    param(
+        [string[]]$CsvPaths
+    )
+    
+    Write-Host "Checking CSV files for consistency..." -ForegroundColor Yellow
+    
+    $foundPaths = @()
+    foreach ($path in $CsvPaths) {
+        if (Test-Path $path) {
+            $foundPaths += $path
+        }
+    }
+    
+    if ($foundPaths.Count -lt 1) {
+        Write-Host "WARNING: No CSV files found." -ForegroundColor Red
+        return
+    }
+    
+    if ($foundPaths.Count -eq 1) {
+        Write-Host "Only one CSV file found at: $($foundPaths[0])" -ForegroundColor Yellow
+        return
+    }
+    
+    # Compare file sizes
+    $sizesMatch = $true
+    $referenceSize = (Get-Item $foundPaths[0]).Length
+    
+    for ($i = 1; $i -lt $foundPaths.Count; $i++) {
+        $currentSize = (Get-Item $foundPaths[$i]).Length
+        if ($currentSize -ne $referenceSize) {
+            $sizesMatch = $false
+            Write-Host "WARNING: CSV size mismatch between $($foundPaths[0]) ($referenceSize bytes) and $($foundPaths[$i]) ($currentSize bytes)" -ForegroundColor Red
+        }
+    }
+    
+    if ($sizesMatch) {
+        Write-Host "All CSV files are in sync." -ForegroundColor Green
+    } else {
+        Write-Host "Running CSV synchronization to ensure consistency..." -ForegroundColor Yellow
+        python ai_news_collector.py
+        Check-LastExitCode
+    }
+}
+
 # Step 1: Run the news collector
 Write-Host "Step 1: Collecting fresh AI news..." -ForegroundColor Green
 python ai_news_collector.py
@@ -31,23 +77,57 @@ Check-LastExitCode
 Write-Host "News collection completed successfully!" -ForegroundColor Green
 Write-Host ""
 
-# Step 2: Run the HTML entity fixer script
-Write-Host "Step 2: Fixing any HTML entities in the data..." -ForegroundColor Green
-python fix_html_entities.py
-Check-LastExitCode
-Write-Host "HTML entity fixing completed successfully!" -ForegroundColor Green
+# Step 2: Verify all CSV files are in sync
+Write-Host "Step 2: Verifying CSV file consistency..." -ForegroundColor Green
+$baseDir = Get-Location
+$csvPaths = @(
+    "$baseDir\ai_news.csv",
+    "$baseDir\docs\data\ai_news.csv",
+    "$baseDir\web_app\data\ai_news.csv"
+)
+Verify-CsvSync -CsvPaths $csvPaths
+Write-Host "CSV verification completed!" -ForegroundColor Green
 Write-Host ""
 
-# Step 3: Deploy the web app to docs
-Write-Host "Step 3: Deploying web app to docs directory..." -ForegroundColor Green
-python deploy_to_github.py
-Check-LastExitCode
-Write-Host "Web app deployment completed successfully!" -ForegroundColor Green
-Write-Host ""
+# Step 3: Run the HTML entity fixer script if it exists
+if (Test-Path "fix_html_entities.py") {
+    Write-Host "Step 3: Fixing any HTML entities in the data..." -ForegroundColor Green
+    python fix_html_entities.py
+    Check-LastExitCode
+    Write-Host "HTML entity fixing completed successfully!" -ForegroundColor Green
+    Write-Host ""
+}
 
-# Step 3: Optionally commit and push changes to GitHub
+# Step 4: Deploy the web app to docs if deploy script exists
+if (Test-Path "deploy_to_github.py") {
+    Write-Host "Step 4: Deploying web app to docs directory..." -ForegroundColor Green
+    python deploy_to_github.py
+    Check-LastExitCode
+    Write-Host "Web app deployment completed successfully!" -ForegroundColor Green
+    Write-Host ""
+} else {
+    # Copy web app files to docs directory if needed
+    if (Test-Path "web_app" -PathType Container) {
+        Write-Host "Step 4: Copying web app files to docs directory..." -ForegroundColor Green
+        
+        # Ensure docs directory exists
+        if (-not (Test-Path "docs" -PathType Container)) {
+            New-Item -Path "docs" -ItemType Directory | Out-Null
+        }
+        
+        # Copy web app files to docs, excluding data directory which is already handled
+        Get-ChildItem -Path "web_app" -Exclude "data" | ForEach-Object {
+            Copy-Item -Path $_.FullName -Destination "docs\" -Recurse -Force
+        }
+        
+        Write-Host "Web app files copied successfully!" -ForegroundColor Green
+        Write-Host ""
+    }
+}
+
+# Step 5: Optionally commit and push changes to GitHub
 if ($PushToGitHub) {
-    Write-Host "Step 4: Committing and pushing changes to GitHub..." -ForegroundColor Green
+    Write-Host "Step 5: Committing and pushing changes to GitHub..." -ForegroundColor Green
     git add .
     Check-LastExitCode
     git commit -m $CommitMessage
@@ -57,10 +137,12 @@ if ($PushToGitHub) {
     Write-Host "Changes pushed to GitHub successfully!" -ForegroundColor Green
     Write-Host ""
     
-    # Step 5: Check GitHub Pages configuration
-    Write-Host "Step 5: Checking GitHub Pages configuration..." -ForegroundColor Green
-    python check_github_pages.py
-    Write-Host ""
+    # Step 6: Check GitHub Pages configuration if script exists
+    if (Test-Path "check_github_pages.py") {
+        Write-Host "Step 6: Checking GitHub Pages configuration..." -ForegroundColor Green
+        python check_github_pages.py
+        Write-Host ""
+    }
 } else {
     Write-Host "NOTICE: Changes have not been pushed to GitHub." -ForegroundColor Yellow
     Write-Host "To push changes, run this script with the -PushToGitHub switch:" -ForegroundColor Yellow
