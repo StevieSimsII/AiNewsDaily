@@ -65,10 +65,17 @@ function Verify-CsvSync {
         Write-Host "All CSV files are in sync." -ForegroundColor Green
     } else {
         Write-Host "Running CSV synchronization to ensure consistency..." -ForegroundColor Yellow
-        python ai_news_collector.py
+        python sync_csv_files.py
         Check-LastExitCode
     }
 }
+
+# Step 0: Force synchronize all CSV files to ensure a clean start
+Write-Host "Step 0: Synchronizing CSV files across all locations..." -ForegroundColor Green
+python sync_csv_files.py
+Check-LastExitCode
+Write-Host "CSV files synchronized successfully!" -ForegroundColor Green
+Write-Host ""
 
 # Step 1: Run the news collector
 Write-Host "Step 1: Collecting fresh AI news..." -ForegroundColor Green

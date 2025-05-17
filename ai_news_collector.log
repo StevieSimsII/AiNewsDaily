@@ -575,3 +575,6 @@
 2025-05-17 15:43:15,280 - AI_News_Collector - INFO - Using primary CSV path based on content: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
 2025-05-17 15:43:15,281 - AI_News_Collector - INFO - Starting news collection, primary output will be saved to: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
 2025-05-17 15:43:15,282 - AI_News_Collector - ERROR - Unhandled exception in the main process: name 'HISTORY_FILE' is not defined
+2025-05-17 15:48:08,810 - AI_News_Collector - INFO - Using primary CSV path based on content: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+2025-05-17 15:48:08,811 - AI_News_Collector - INFO - Starting news collection, primary output will be saved to: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv
+2025-05-17 15:48:08,812 - AI_News_Collector - ERROR - Unhandled exception in the main process: name 'HISTORY_FILE' is not defined
