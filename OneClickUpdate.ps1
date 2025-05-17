@@ -85,14 +85,23 @@ Write-Host "News collection completed successfully!" -ForegroundColor Green
 Write-Host ""
 
 # Step 2: Verify all CSV files are in sync
-Write-Host "Step 2: Verifying CSV file consistency..." -ForegroundColor Green
+Write-Host "Step 2: Verifying CSV file..." -ForegroundColor Green
 $baseDir = Get-Location
-$csvPaths = @(
-    "$baseDir\ai_news.csv",
-    "$baseDir\docs\data\ai_news.csv",
-    "$baseDir\web_app\data\ai_news.csv"
-)
-Verify-CsvSync -CsvPaths $csvPaths
+$primaryCsv = "$baseDir\docs\data\ai_news.csv"
+
+if (Test-Path $primaryCsv) {
+    Write-Host "Primary CSV file exists at: $primaryCsv" -ForegroundColor Green
+    
+    # Check if web_app directory is different from docs
+    if (Test-Path "$baseDir\web_app" -PathType Container) {
+        $webappCsv = "$baseDir\web_app\data\ai_news.csv"
+        if (Test-Path $webappCsv) {
+            Write-Host "Web app CSV exists and will be updated as needed by the collector script" -ForegroundColor Green
+        }
+    }
+} else {
+    Write-Host "WARNING: Primary CSV file not found at: $primaryCsv" -ForegroundColor Red
+}
 Write-Host "CSV verification completed!" -ForegroundColor Green
 Write-Host ""
 

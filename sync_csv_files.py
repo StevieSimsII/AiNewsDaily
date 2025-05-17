@@ -14,73 +14,73 @@ logger = logging.getLogger("CSV_Synchronizer")
 
 # Configuration - must match the paths in ai_news_collector.py
 BASE_DIR = Path(__file__).parent
-CSV_OUTPUT_PATH = BASE_DIR / "ai_news.csv"
-DOCS_CSV_PATH = BASE_DIR / "docs" / "data" / "ai_news.csv"
-WEBAPP_CSV_PATH = BASE_DIR / "web_app" / "data" / "ai_news.csv"
-
-# All possible CSV paths to check and update
-CSV_PATHS = [CSV_OUTPUT_PATH, DOCS_CSV_PATH, WEBAPP_CSV_PATH]
+CSV_PATHS = [
+    BASE_DIR / "ai_news.csv",
+    BASE_DIR / "docs" / "data" / "ai_news.csv",
+    BASE_DIR / "web_app" / "data" / "ai_news.csv"
+]
 
 def parse_date(date_str):
-    """Convert various date formats to datetime objects for sorting."""
+    """Convert date string to datetime object for sorting."""
     try:
-        # Try to parse ISO format (YYYY-MM-DD)
-        return datetime.strptime(date_str, "%Y-%m-%d")
-    except ValueError:
-        try:
-            # Try to parse MM/DD/YYYY format
+        if "/" in date_str:  # MM/DD/YYYY
             return datetime.strptime(date_str, "%m/%d/%Y")
-        except ValueError:
-            try:
-                # Try one more common format
-                return datetime.strptime(date_str, "%d-%m-%Y")
-            except ValueError:
-                # If all parsing fails, return a very old date to sort at the bottom
-                logger.warning(f"Could not parse date format: {date_str}")
-                return datetime(1900, 1, 1)
+        else:  # YYYY-MM-DD
+            return datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        logger.warning(f"Could not parse date: {date_str}")
+        return datetime(1900, 1, 1)
 
-def read_csv_file(csv_path):
-    """Read a CSV file and return its rows as dictionaries."""
-    articles = []
-    urls = set()
+def read_all_csv_files():
+    """Read all articles from all CSV files, removing duplicates."""
+    all_articles = []
+    url_set = set()
     
-    if not os.path.exists(csv_path):
-        logger.warning(f"CSV file does not exist: {csv_path}")
-        return articles, urls
+    for csv_path in CSV_PATHS:
+        if not os.path.exists(csv_path):
+            logger.info(f"CSV file does not exist: {csv_path}")
+            continue
+            
+        try:
+            with open(csv_path, 'r', newline='', encoding='utf-8') as file:
+                reader = csv.DictReader(file)
+                for row in reader:
+                    # Skip duplicate URLs
+                    if row['url'] in url_set:
+                        continue
+                    url_set.add(row['url'])
+                    all_articles.append(row)
+            
+            logger.info(f"Read {len(all_articles)} articles from {csv_path}")
+        except Exception as e:
+            logger.error(f"Error reading CSV file {csv_path}: {str(e)}")
     
-    try:
-        with open(csv_path, mode='r', newline='', encoding='utf-8') as file:
-            reader = csv.DictReader(file)
-            for row in reader:
-                # Prevent duplicate URLs
-                if 'url' in row and row['url'] not in urls:
-                    articles.append(row)
-                    urls.add(row['url'])
-    except Exception as e:
-        logger.error(f"Error reading CSV file {csv_path}: {str(e)}")
-    
-    return articles, urls
+    return all_articles
 
 def write_csv_file(csv_path, articles):
-    """Write articles to a CSV file."""
+    """Write articles to CSV file."""
     try:
-        # Ensure directory exists
+        # Create directory if it doesn't exist
         os.makedirs(os.path.dirname(csv_path), exist_ok=True)
         
-        # Write to a temporary file first
-        temp_file = csv_path.with_suffix('.temp.csv')
-        with open(temp_file, mode='w', newline='', encoding='utf-8') as file:
-            if articles:
-                fieldnames = ['date', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
-                writer = csv.DictWriter(file, fieldnames=fieldnames)
-                writer.writeheader()
-                for article in articles:
-                    writer.writerow(article)
+        # Write to temp file first
+        temp_path = csv_path.with_suffix('.temp.csv')
+        with open(temp_path, 'w', newline='', encoding='utf-8') as file:
+            if not articles:
+                logger.warning(f"No articles to write to {csv_path}")
+                return False
+                
+            fieldnames = ['date', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            writer.writeheader()
+            
+            for article in articles:
+                writer.writerow(article)
         
-        # Replace the old file with the new one
+        # Replace original file
         if os.path.exists(csv_path):
             os.remove(csv_path)
-        os.rename(temp_file, csv_path)
+        os.rename(temp_path, csv_path)
         
         logger.info(f"Successfully wrote {len(articles)} articles to {csv_path}")
         return True
@@ -88,76 +88,23 @@ def write_csv_file(csv_path, articles):
         logger.error(f"Error writing to CSV file {csv_path}: {str(e)}")
         return False
 
-def find_best_csv():
-    """Find the CSV file with the most articles and most recent data."""
-    best_csv = None
-    max_article_count = 0
-    max_recent_date = datetime(1900, 1, 1)
-    
-    for csv_path in CSV_PATHS:
-        if os.path.exists(csv_path):
-            articles, _ = read_csv_file(csv_path)
-            
-            # Skip empty files
-            if not articles:
-                continue
-            
-            # Check article count
-            article_count = len(articles)
-            
-            # Check for recency of data by looking at the newest date
-            newest_date = max([parse_date(article['date']) for article in articles], default=datetime(1900, 1, 1))
-            
-            # Decision logic: prioritize file with most recent data, then most articles
-            if newest_date > max_recent_date:
-                max_recent_date = newest_date
-                max_article_count = article_count
-                best_csv = csv_path
-            elif newest_date == max_recent_date and article_count > max_article_count:
-                max_article_count = article_count
-                best_csv = csv_path
-    
-    return best_csv, max_article_count
-
-def merge_all_articles():
-    """Merge articles from all CSV files."""
-    all_articles = []
-    all_urls = set()
-    
-    # Read all CSV files
-    for csv_path in CSV_PATHS:
-        if os.path.exists(csv_path):
-            articles, _ = read_csv_file(csv_path)
-            for article in articles:
-                if article['url'] not in all_urls:
-                    all_articles.append(article)
-                    all_urls.add(article['url'])
-    
-    # Sort articles by date in descending order
-    all_articles.sort(key=lambda x: parse_date(x['date']), reverse=True)
-    
-    return all_articles
-
 def synchronize_csv_files():
-    """Synchronize all CSV files by creating a master merged file and distributing it."""
-    logger.info("Starting CSV file synchronization")
+    """Main function to synchronize all CSV files."""
+    logger.info("Starting CSV synchronization")
     
-    # Get articles from all CSV files
-    all_articles = merge_all_articles()
+    # Read all articles from all CSV files
+    all_articles = read_all_csv_files()
     
     if not all_articles:
-        logger.warning("No articles found in any CSV file. Nothing to synchronize.")
+        logger.warning("No articles found in any CSV file")
         return
     
-    logger.info(f"Found {len(all_articles)} unique articles across all CSV files")
+    # Sort articles by date (newest first)
+    all_articles.sort(key=lambda x: parse_date(x['date']), reverse=True)
     
-    # Write the merged articles to all CSV paths
+    # Write synchronized articles to all CSV files
     for csv_path in CSV_PATHS:
-        success = write_csv_file(csv_path, all_articles)
-        if success:
-            logger.info(f"Successfully updated {csv_path}")
-        else:
-            logger.error(f"Failed to update {csv_path}")
+        write_csv_file(csv_path, all_articles)
     
     logger.info("CSV synchronization completed successfully")
 
