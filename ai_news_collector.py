@@ -10,6 +10,7 @@ import ssl
 import html
 from pathlib import Path
 from urllib.parse import urlparse
+from bs4 import BeautifulSoup  # Added for better HTML cleaning
 
 # Try to create unverified HTTPS context for feedparser (needed for some feeds)
 try:
@@ -72,8 +73,28 @@ AI_KEYWORDS = [
     "enterprise ai", "ai implementation", "ai analytics", "ai automation",
     "ai research", "ai report", "ai study", "ai survey", "ai analysis",
     "magic quadrant ai", "wave ai", "forrester wave", "gartner magic quadrant",
-    "ai benchmark", "ai research", "ai ROI", "ai investment"
+    "ai benchmark", "ai research", "ai ROI", "ai investment",
+    # Additional AI keywords
+    "multimodal ai", "foundation model", "fine-tuning", "prompt engineering",
+    "ai agent", "ai assistant", "autonomous ai", "sentiment analysis",
+    "ai regulation", "responsible ai", "ai bias", "ai explainability",
+    "ai inference", "ai compute", "language model", "claude", "gemini",
+    "ai startup", "ai funding", "ai acquisition", "synthetic data",
+    "ai hardware", "ai chip", "ai accelerator", "neuromorphic computing"
 ]
+
+# AI topic categories for better classification
+AI_CATEGORIES = {
+    "generative ai": ["generative ai", "text-to-image", "diffusion model", "stable diffusion", "midjourney", "dall-e"],
+    "language models": ["large language model", "llm", "gpt", "chatgpt", "claude", "gemini", "palm", "transformer"],
+    "computer vision": ["computer vision", "image recognition", "object detection", "facial recognition"],
+    "nlp": ["natural language processing", "nlp", "sentiment analysis", "text analytics", "language understanding"],
+    "ai ethics": ["ai ethics", "responsible ai", "ai bias", "ai fairness", "ai transparency", "ai explainability"],
+    "ai business": ["ai strategy", "ai adoption", "ai implementation", "enterprise ai", "ai roi", "ai investment"],
+    "ai research": ["ai research", "ai paper", "ai study", "neural network", "deep learning"],
+    "ai regulation": ["ai regulation", "ai policy", "ai governance", "ai compliance", "ai law"],
+    "ai applications": ["ai in healthcare", "ai in finance", "ai in retail", "ai in manufacturing", "ai in education"]
+}
 
 def is_ai_related(title, description):
     """Check if an article is related to AI based on its title and description."""
@@ -81,12 +102,30 @@ def is_ai_related(title, description):
     return any(keyword.lower() in text for keyword in AI_KEYWORDS)
 
 def clean_html(html_text):
-    """Remove HTML tags from text."""
+    """Remove HTML tags from text using BeautifulSoup for better results."""
     if not html_text:
         return ""
-    # Simple regex-based HTML tag removal
-    clean_text = re.sub(r'<.*?>', '', html_text)
-    return clean_text.strip()
+    try:
+        # Use BeautifulSoup for more robust HTML cleaning
+        soup = BeautifulSoup(html_text, "html.parser")
+        return soup.get_text(separator=" ", strip=True)
+    except Exception as e:
+        # Fallback to regex if BeautifulSoup fails
+        logger.warning(f"BeautifulSoup HTML cleaning failed, using regex fallback: {str(e)}")
+        clean_text = re.sub(r'<.*?>', '', html_text)
+        return clean_text.strip()
+
+def determine_ai_category(text):
+    """Determine the most specific AI category for the article."""
+    text = text.lower()
+    
+    # Check each category
+    for category, keywords in AI_CATEGORIES.items():
+        if any(keyword in text for keyword in keywords):
+            return category
+    
+    # Default to general AI if no specific category is found
+    return "artificial intelligence"
 
 def extract_research_insights(text, source):
     """Extract key insights from research firm content."""
@@ -132,9 +171,20 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
         # Parse the RSS feed
         feed = feedparser.parse(rss_url)
         
+        # Check if the feed was successfully parsed
+        if not feed or hasattr(feed, 'bozo_exception') and feed.bozo_exception:
+            logger.warning(f"Feed parsing warning for {rss_url}: {feed.bozo_exception if hasattr(feed, 'bozo_exception') else 'Unknown error'}")
+        
+        # Check if we have entries
+        if not hasattr(feed, 'entries') or len(feed.entries) == 0:
+            logger.warning(f"No entries found in feed: {rss_url}")
+            return articles
+        
         # Identify if this is a research firm feed
         domain = get_domain(rss_url)
         is_research_firm = any(firm in domain for firm in ["gartner", "forrester"])
+        
+        logger.info(f"Processing {len(feed.entries)} entries from {domain}")
         
         # Process each entry in the feed
         for entry in feed.entries[:max_articles * 2]:  # Get more articles for research firms so we can filter properly
@@ -148,6 +198,10 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
                 description = clean_html(entry.summary)
             elif 'description' in entry:
                 description = clean_html(entry.description)
+            elif 'content' in entry and entry.content:
+                # Some feeds use 'content' instead of summary/description
+                content_value = entry.content[0].value if isinstance(entry.content, list) else entry.content
+                description = clean_html(content_value)
             
             # Get published date
             pub_date = datetime.datetime.now().strftime("%Y-%m-%d")  # Default to today
@@ -182,6 +236,8 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
             
             if len(articles) >= max_articles:
                 break
+        
+        logger.info(f"Found {len(articles)} AI-related articles from {domain}")
     
     except Exception as e:
         logger.error(f"Error fetching articles from {rss_url}: {str(e)}")
@@ -247,14 +303,10 @@ def collect_news():
                         continue
                     
                     # Extract AI/ML category from keywords found in the article
-                    category = "artificial intelligence"  # Default category
                     text = (article['title'] + " " + article['description']).lower()
-                    
-                    for keyword in AI_KEYWORDS:
-                        if keyword.lower() in text:
-                            category = keyword
-                            break
-                      # For research content, extract insights
+                    category = determine_ai_category(text)
+                      
+                    # For research content, extract insights
                     insights = ""
                     if "Research" in source_type:
                         insights = extract_research_insights(article['description'], source_domain)
