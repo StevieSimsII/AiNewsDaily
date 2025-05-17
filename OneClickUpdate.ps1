@@ -152,13 +152,6 @@ if ($PushToGitHub) {
     Check-LastExitCode
     Write-Host "Changes pushed to GitHub successfully!" -ForegroundColor Green
     Write-Host ""
-    
-    # Step 6: Check GitHub Pages configuration if script exists
-    if (Test-Path "check_github_pages.py") {
-        Write-Host "Step 6: Checking GitHub Pages configuration..." -ForegroundColor Green
-        python check_github_pages.py
-        Write-Host ""
-    }
 } else {
     Write-Host "NOTICE: Changes have not been pushed to GitHub." -ForegroundColor Yellow
     Write-Host "To push changes, run this script with the -PushToGitHub switch:" -ForegroundColor Yellow
