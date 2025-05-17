@@ -257,6 +257,43 @@ def save_article_id(article_id):
     with open(HISTORY_FILE, "a") as f:
         f.write(f"{article_id}\n")
 
+def parse_date(date_str):
+    """Convert various date formats to datetime objects for sorting."""
+    try:
+        # Try to parse ISO format (YYYY-MM-DD)
+        return datetime.datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        try:
+            # Try to parse MM/DD/YYYY format
+            return datetime.datetime.strptime(date_str, "%m/%d/%Y")
+        except ValueError:
+            try:
+                # Try one more common format
+                return datetime.datetime.strptime(date_str, "%d-%m-%Y")
+            except ValueError:
+                # If all parsing fails, return a very old date to sort at the bottom
+                logger.warning(f"Could not parse date format: {date_str}")
+                return datetime.datetime(1900, 1, 1)
+
+def read_existing_articles():
+    """Read all articles from the existing CSV file."""
+    existing_articles = []
+    existing_urls = set()
+    
+    if not os.path.exists(CSV_OUTPUT_PATH):
+        return existing_articles, existing_urls
+    
+    try:
+        with open(CSV_OUTPUT_PATH, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                existing_articles.append(row)
+                existing_urls.add(row['url'])  # Track URLs to avoid duplicates
+    except Exception as e:
+        logger.error(f"Error reading existing CSV file: {str(e)}")
+    
+    return existing_articles, existing_urls
+
 def collect_news():
     """Collect news articles and save them to a CSV file."""
     logger.info("Starting news collection")
@@ -264,81 +301,107 @@ def collect_news():
     # Get previously processed article IDs
     processed_ids = get_processed_article_ids()
     
-    # Prepare CSV file
-    file_exists = os.path.exists(CSV_OUTPUT_PATH)
+    # Read existing articles from CSV
+    existing_articles, existing_urls = read_existing_articles()
+    logger.info(f"Found {len(existing_articles)} existing articles in CSV")
     
-    with open(CSV_OUTPUT_PATH, mode='a', newline='', encoding='utf-8') as file:
-        fieldnames = ['date', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
+    # Collect all new articles
+    new_articles = []
+    
+    # Process each RSS feed
+    for feed_url in RSS_FEEDS:
+        source_domain = get_domain(feed_url)
+        logger.info(f"Fetching articles from: {source_domain}")
         
-        # Write header only if the file doesn't exist
-        if not file_exists:
-            writer.writeheader()
-        
-        # Track new articles added
-        new_articles_count = 0
-        
-        # Process each RSS feed
-        for feed_url in RSS_FEEDS:
-            source_domain = get_domain(feed_url)
-            logger.info(f"Fetching articles from: {source_domain}")
+        try:
+            # Determine specific source type
+            if "gartner" in source_domain:
+                source_type = "Gartner Research"
+            elif "forrester" in source_domain:
+                source_type = "Forrester Research"
+            else:
+                source_type = "News Source"
             
-            try:
-                # Determine specific source type
-                if "gartner" in source_domain:
-                    source_type = "Gartner Research"
-                elif "forrester" in source_domain:
-                    source_type = "Forrester Research"
-                else:
-                    source_type = "News Source"
+            articles = fetch_articles_from_rss(feed_url, MAX_ARTICLES_PER_SOURCE)
+            
+            for article in articles:
+                # Use the article URL as a unique ID
+                article_id = article['link']
                 
-                articles = fetch_articles_from_rss(feed_url, MAX_ARTICLES_PER_SOURCE)
+                # Skip if we've already processed this article or it's already in the CSV
+                if article_id in processed_ids or article_id in existing_urls:
+                    continue
                 
-                for article in articles:
-                    # Use the article URL as a unique ID
-                    article_id = article['link']
-                    
-                    # Skip if we've already processed this article
-                    if article_id in processed_ids:
-                        continue
-                    
-                    # Extract AI/ML category from keywords found in the article
-                    text = (article['title'] + " " + article['description']).lower()
-                    category = determine_ai_category(text)
-                      
-                    # For research content, extract insights
-                    insights = ""
-                    if "Research" in source_type:
-                        insights = extract_research_insights(article['description'], source_domain)
-                    
-                    # Decode HTML entities in title and description
-                    title = html.unescape(article['title'])
-                    description = html.unescape(article['description'])
-                    
-                    # Write to CSV
-                    writer.writerow({
-                        'date': article['date'],
-                        'title': title,
-                        'description': description,
-                        'source': article['source'],
-                        'url': article_id,
-                        'category': category,
-                        'source_type': source_type,
-                        'insights': insights
-                    })
-                    
-                    # Save the article ID to avoid duplicates in future runs
-                    save_article_id(article_id)
-                    
-                    new_articles_count += 1
+                # Extract AI/ML category from keywords found in the article
+                text = (article['title'] + " " + article['description']).lower()
+                category = determine_ai_category(text)
+                  
+                # For research content, extract insights
+                insights = ""
+                if "Research" in source_type:
+                    insights = extract_research_insights(article['description'], source_domain)
                 
-                # Respect the server by waiting between requests
-                time.sleep(2)
+                # Decode HTML entities in title and description
+                title = html.unescape(article['title'])
+                description = html.unescape(article['description'])
                 
-            except Exception as e:
-                logger.error(f"Error processing feed {feed_url}: {str(e)}")
+                # Ensure consistent date format (YYYY-MM-DD)
+                pub_date = article['date']
+                
+                # Add to our collection of new articles
+                new_articles.append({
+                    'date': pub_date,
+                    'title': title,
+                    'description': description,
+                    'source': article['source'],
+                    'url': article_id,
+                    'category': category,
+                    'source_type': source_type,
+                    'insights': insights
+                })
+                
+                # Save the article ID to avoid duplicates in future runs
+                save_article_id(article_id)
+                
+                # Add to existing urls to prevent duplicate URLs within the same run
+                existing_urls.add(article_id)
+            
+            # Respect the server by waiting between requests
+            time.sleep(2)
+            
+        except Exception as e:
+            logger.error(f"Error processing feed {feed_url}: {str(e)}")
+    
+    if new_articles:
+        logger.info(f"Found {len(new_articles)} new articles to add")
         
-        logger.info(f"Added {new_articles_count} new articles to {CSV_OUTPUT_PATH}")
+        # Combine existing and new articles
+        all_articles = existing_articles + new_articles
+        
+        # Sort all articles by date in descending order (newest first)
+        all_articles.sort(key=lambda x: parse_date(x['date']), reverse=True)
+        
+        # Write all articles to a new CSV file
+        temp_file = CSV_OUTPUT_PATH.with_suffix('.temp.csv')
+        with open(temp_file, mode='w', newline='', encoding='utf-8') as file:
+            fieldnames = ['date', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            
+            # Write header
+            writer.writeheader()
+            
+            # Write all sorted articles
+            for article in all_articles:
+                writer.writerow(article)
+        
+        # Replace the old file with the new one
+        if os.path.exists(CSV_OUTPUT_PATH):
+            os.remove(CSV_OUTPUT_PATH)
+        os.rename(temp_file, CSV_OUTPUT_PATH)
+        
+        logger.info(f"Updated CSV with {len(all_articles)} total articles (sorted by date)")
+    else:
+        logger.info("No new articles found to add")
 
 if __name__ == "__main__":
     try:
