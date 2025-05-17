@@ -86,6 +86,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Initialize the application
 function initApp() {
+    // Load the last update timestamp
+    loadLastUpdateTime();
+    
     // Load the news data
     loadNewsData()
         .then(data => {
@@ -557,3 +560,43 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
+// Load and display the last update timestamp
+function loadLastUpdateTime() {
+    fetch('data/last_update.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Could not load update timestamp');
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Format the timestamp nicely
+            const timestamp = new Date(data.timestamp);
+            const options = { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            };
+            const formattedDate = timestamp.toLocaleDateString('en-US', options);
+            
+            // Update the last-updated-date element in the footer
+            const lastUpdatedElement = document.getElementById('last-updated-date');
+            if (lastUpdatedElement) {
+                lastUpdatedElement.textContent = formattedDate;
+            }
+        })
+        .catch(error => {
+            console.warn('Error loading update timestamp:', error);
+            // Fall back to current date if we can't load the timestamp
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            const currentDate = new Date().toLocaleDateString('en-US', options);
+            
+            const lastUpdatedElement = document.getElementById('last-updated-date');
+            if (lastUpdatedElement) {
+                lastUpdatedElement.textContent = currentDate;
+            }
+        });
+}
