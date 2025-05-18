@@ -811,3 +811,53 @@
 2025-05-17 16:33:53,300 - AI_News_Collector - WARNING - Feed parsing warning for https://www.forrester.com/press-newsroom/feed/: <unknown>:13:52: not well-formed (invalid token)
 2025-05-17 16:33:53,301 - AI_News_Collector - WARNING - No entries found in feed: https://www.forrester.com/press-newsroom/feed/
 2025-05-17 16:33:55,303 - AI_News_Collector - INFO - No new articles found to add
+2025-05-18 05:40:10,676 - AI_News_Collector - INFO - Starting news collection, writing to: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-18 05:40:10,681 - AI_News_Collector - INFO - Saved last update timestamp: 2025-05-18
+2025-05-18 05:40:10,729 - AI_News_Collector - INFO - Read 91 articles from C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-18 05:40:10,730 - AI_News_Collector - INFO - Found 91 existing articles in CSV
+2025-05-18 05:40:10,730 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
+2025-05-18 05:40:11,294 - AI_News_Collector - INFO - Processing 10 entries from technologyreview.com
+2025-05-18 05:40:11,297 - AI_News_Collector - INFO - Found 3 AI-related articles from technologyreview.com
+2025-05-18 05:40:13,298 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-18 05:40:13,724 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/artificial-intelligence/rss: <unknown>:2:0: not well-formed (invalid token)
+2025-05-18 05:40:13,726 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/artificial-intelligence/rss
+2025-05-18 05:40:15,727 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-05-18 05:40:16,170 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/machine-learning/rss: <unknown>:2:0: not well-formed (invalid token)
+2025-05-18 05:40:16,171 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/machine-learning/rss
+2025-05-18 05:40:18,173 - AI_News_Collector - INFO - Fetching articles from: theverge.com
+2025-05-18 05:40:18,586 - AI_News_Collector - INFO - Processing 10 entries from theverge.com
+2025-05-18 05:40:18,587 - AI_News_Collector - INFO - Found 5 AI-related articles from theverge.com
+2025-05-18 05:40:20,594 - AI_News_Collector - INFO - Fetching articles from: techcrunch.com
+2025-05-18 05:40:20,829 - AI_News_Collector - INFO - Processing 20 entries from techcrunch.com
+2025-05-18 05:40:20,832 - AI_News_Collector - INFO - Found 5 AI-related articles from techcrunch.com
+2025-05-18 05:40:22,833 - AI_News_Collector - INFO - Fetching articles from: blog.google
+2025-05-18 05:40:23,468 - AI_News_Collector - WARNING - Feed parsing warning for https://blog.google/technology/ai/rss/: <unknown>:345:2: mismatched tag
+2025-05-18 05:40:23,468 - AI_News_Collector - WARNING - No entries found in feed: https://blog.google/technology/ai/rss/
+2025-05-18 05:40:25,470 - AI_News_Collector - INFO - Fetching articles from: openai.com
+2025-05-18 05:40:26,050 - AI_News_Collector - WARNING - Feed parsing warning for https://openai.com/blog/rss/: <unknown>:2:0: syntax error
+2025-05-18 05:40:26,050 - AI_News_Collector - WARNING - No entries found in feed: https://openai.com/blog/rss/
+2025-05-18 05:40:28,052 - AI_News_Collector - INFO - Fetching articles from: news.mit.edu
+2025-05-18 05:40:29,114 - AI_News_Collector - INFO - Processing 50 entries from news.mit.edu
+2025-05-18 05:40:29,115 - AI_News_Collector - INFO - Found 5 AI-related articles from news.mit.edu
+2025-05-18 05:40:31,117 - AI_News_Collector - INFO - Fetching articles from: venturebeat.com
+2025-05-18 05:40:31,646 - AI_News_Collector - INFO - Processing 30 entries from venturebeat.com
+2025-05-18 05:40:31,648 - AI_News_Collector - INFO - Found 5 AI-related articles from venturebeat.com
+2025-05-18 05:40:33,649 - AI_News_Collector - INFO - Fetching articles from: zdnet.com
+2025-05-18 05:40:33,955 - AI_News_Collector - INFO - Processing 20 entries from zdnet.com
+2025-05-18 05:40:33,956 - AI_News_Collector - INFO - Found 5 AI-related articles from zdnet.com
+2025-05-18 05:40:35,962 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-18 05:40:36,683 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/en/newsroom/press-releases.xml: <unknown>:2:203: not well-formed (invalid token)
+2025-05-18 05:40:36,684 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/en/newsroom/press-releases.xml
+2025-05-18 05:40:38,686 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-05-18 05:40:39,340 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/smarterwithgartner/feed/: <unknown>:2:214: not well-formed (invalid token)
+2025-05-18 05:40:39,341 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/smarterwithgartner/feed/
+2025-05-18 05:40:41,342 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-18 05:40:42,611 - AI_News_Collector - INFO - Processing 10 entries from forrester.com
+2025-05-18 05:40:42,614 - AI_News_Collector - INFO - Found 2 AI-related articles from forrester.com
+2025-05-18 05:40:44,616 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-05-18 05:40:46,808 - AI_News_Collector - WARNING - Feed parsing warning for https://www.forrester.com/press-newsroom/feed/: <unknown>:13:52: not well-formed (invalid token)
+2025-05-18 05:40:46,814 - AI_News_Collector - WARNING - No entries found in feed: https://www.forrester.com/press-newsroom/feed/
+2025-05-18 05:40:48,818 - AI_News_Collector - INFO - Found 2 new articles to add
+2025-05-18 05:40:48,837 - AI_News_Collector - INFO - Updated primary CSV with 93 total articles
+2025-05-18 05:40:48,867 - AI_News_Collector - INFO - Copied CSV to secondary location: C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv
+2025-05-18 05:40:48,868 - AI_News_Collector - INFO - CSV update completed successfully
