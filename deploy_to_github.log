@@ -337,3 +337,12 @@
 2025-05-29 08:46:53,634 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
 2025-05-29 08:46:53,646 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
 2025-05-29 08:46:53,651 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-05-29 10:46:04,971 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-05-29 10:46:04,980 - deploy_to_github - INFO - Copied C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-29 10:46:05,036 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\app.js to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\app.js
+2025-05-29 10:46:05,078 - deploy_to_github - INFO - Copied data file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\data\ai_news.csv to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-05-29 10:46:05,153 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\index.html to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\index.html
+2025-05-29 10:46:05,184 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\web_app\styles.css to C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\styles.css
+2025-05-29 10:46:05,186 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\.nojekyll
+2025-05-29 10:46:05,191 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\OneDrive - Shell\VS_Code\AI_News_Collector\docs\_config.yml
+2025-05-29 10:46:05,195 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
