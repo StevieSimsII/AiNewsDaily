@@ -245,3 +245,9 @@ https://techcrunch.com/2025/05/29/deepseeks-updated-r1-ai-model-is-more-censored
 https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/
 https://techcrunch.com/2025/05/29/7-days-until-doors-open-at-techcrunch-sessions-ai/
 https://www.zdnet.com/article/is-ai-making-it-harder-for-new-college-grads-to-get-hired-in-tech/
+https://techcrunch.com/2025/05/29/deepseeks-distilled-new-r1-ai-model-can-run-on-a-single-gpu/
+https://venturebeat.com/ai/emotive-voice-ai-startup-hume-launches-new-evi-3-model-with-rapid-custom-voice-creation/
+https://www.zdnet.com/article/hume-unveils-evi-3-its-latest-ai-voice-model/
+https://www.zdnet.com/article/gemini-can-now-watch-google-drive-videos-for-you-including-work-meetings/
+https://www.forrester.com/blogs/call-for-entries-forrester-data-ai-impact-award/
+https://www.forrester.com/blogs/red-hat-summit-2025-ai-virtualization-hybrid-cloud-and-the-future-of-enterprise-it/
