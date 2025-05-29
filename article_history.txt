@@ -224,3 +224,17 @@ https://techcrunch.com/2025/05/28/rillet-raises-25m-from-sequoia-to-automate-gen
 https://venturebeat.com/games/rumi-raises-4-7m-to-change-passive-media-into-interactive-ai-experiences/
 https://www.zdnet.com/article/claudes-ai-voice-mode-is-finally-rolling-out-for-free-heres-what-you-can-do-with-it/
 https://www.zdnet.com/article/how-to-set-up-your-own-article-archiving-service-and-why-i-did-rip-pocket/
+https://www.technologyreview.com/2025/05/29/1117500/ai-energy-growth-nuclear-natural-gas/
+https://techcrunch.com/2025/05/29/the-new-york-times-and-amazon-ink-ai-licensing-deal/
+https://techcrunch.com/2025/05/29/buildots-raises-45m-to-help-companies-track-construction-progress/
+https://techcrunch.com/2025/05/29/nvidia-amd-may-soon-start-selling-new-ai-chips-in-china-to-comply-with-us-restrictions/
+https://techcrunch.com/2025/05/28/nvidia-expects-to-lose-billions-in-revenue-due-to-h20-chip-licensing-requirements/
+https://techcrunch.com/2025/05/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/
+https://news.mit.edu/2025/anomaly-detection-framework-anyone-can-use-sarah-alnegheimish-0528
+https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/
+https://venturebeat.com/ai/how-snowflakes-open-source-text-to-sql-and-arctic-inference-models-solve-enterprise-ais-two-biggest-deployment-headaches/
+https://venturebeat.com/games/encharge-ai-unveils-en100-ai-accelerator-chip-with-analog-memory/
+https://venturebeat.com/games/peer-launches-global-simulation-as-real-time-digital-earth-with-ai-agents/
+https://venturebeat.com/security/agentic-ai-defeated-danabot-exposing-key-lessons-for-soc-teams/
+https://www.zdnet.com/article/3-apple-intelligence-features-that-would-convince-me-to-ditch-gemini-and-chatgpt/
+https://www.zdnet.com/article/how-chatgpt-could-replace-the-internet-as-we-know-it/
