@@ -270,3 +270,16 @@ https://www.zdnet.com/article/how-ai-coding-agents-could-destroy-open-source-sof
 https://www.zdnet.com/article/ai-agents-make-great-teammates-but-dont-let-them-code-alone-heres-why/
 https://www.forrester.com/blogs/dont-overlook-consumers-preferences-in-the-whirlwind-of-ai/
 https://www.forrester.com/blogs/mits-cio-symposium-2025-for-ai-success-follow-path-two/
+https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai
+https://www.theverge.com/command-line-newsletter/677705/openai-chatgpt-super-assistant
+https://techcrunch.com/2025/06/01/early-ai-investor-elad-gil-finds-his-next-big-bet-ai-powered-rollups/
+https://techcrunch.com/2025/06/01/sam-altman-biographer-keach-hagey-explains-why-the-openai-ceo-was-born-for-this-moment/
+https://techcrunch.com/2025/06/01/day-4-of-techcrunch-sessions-ai-trivia-countdown-flex-your-brain-score-big-on-tickets/
+https://techcrunch.com/2025/06/01/4-days-to-go-techcrunch-sessions-ai-is-almost-in-session/
+https://techcrunch.com/2025/05/31/naacp-calls-on-officials-to-halt-operations-at-xais-dirty-data-center-in-memphis/
+https://venturebeat.com/ai/model-context-protocol-a-promising-ai-integration-layer-but-not-a-standard-yet/
+https://venturebeat.com/ai/when-your-llm-calls-the-cops-claude-4s-whistle-blow-and-the-new-agentic-ai-risk-stack/
+https://venturebeat.com/ai/the-future-of-engineering-belongs-to-those-who-build-with-ai-not-without-it/
+https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/
+https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/
+https://www.zdnet.com/article/how-practical-ai-prevailed-over-hype-at-red-hat-summit-2025/
