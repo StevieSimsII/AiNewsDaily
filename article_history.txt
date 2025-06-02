@@ -283,3 +283,7 @@ https://venturebeat.com/ai/the-future-of-engineering-belongs-to-those-who-build-
 https://venturebeat.com/ai/qwenlong-l1-solves-long-context-reasoning-challenge-that-stumps-current-llms/
 https://venturebeat.com/ai/elevenlabs-debuts-conversational-ai-2-0-voice-assistants-that-understand-when-to-pause-speak-and-take-turns-talking/
 https://www.zdnet.com/article/how-practical-ai-prevailed-over-hype-at-red-hat-summit-2025/
+https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview
+https://techcrunch.com/2025/06/02/samsung-may-incorporate-perplexitys-ai-tech-in-its-phones/
+https://techcrunch.com/2025/06/01/for-the-love-of-god-stop-calling-your-ai-a-co-worker/
+https://www.zdnet.com/article/how-much-energy-does-ai-really-use-the-answer-is-surprising-and-a-little-complicated/
