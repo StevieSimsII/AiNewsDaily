@@ -316,3 +316,17 @@ https://www.forrester.com/blogs/ai-in-events-a-promise-waiting-to-be-realized/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-email-messaging-and-collaboration-security-solutions-q2-2025/
 https://www.forrester.com/blogs/ai-cost-as-a-first-class-metric-our-conversation-with-david-tepper-ceo-and-founder-of-pay-i/
 https://www.forrester.com/blogs/three-key-findings-from-the-forrester-wave-ex-management-platforms-q2-2025/
+https://www.technologyreview.com/2025/06/04/1117829/the-download-ai-math-energy/
+https://techcrunch.com/2025/06/04/hugging-face-says-its-new-robotics-model-is-so-efficient-it-can-run-on-a-macbook/
+https://techcrunch.com/2025/06/04/reddit-sues-anthropic-for-allegedly-not-paying-for-training-data/
+https://techcrunch.com/2025/06/04/klarna-ceo-says-company-will-use-humans-to-offer-vip-customer-service/
+https://techcrunch.com/2025/06/04/amd-takes-aim-at-nvidias-ai-hardware-dominance-with-brium-acquisition/
+https://techcrunch.com/2025/06/04/snap-launches-lens-studio-ios-and-web-apps-for-creating-ar-lenses-with-ai-and-simple-tools/
+https://venturebeat.com/ai/openai-hits-3m-business-users-and-launches-workplace-tools-to-take-on-microsoft/
+https://venturebeat.com/ai/mistral-ais-new-coding-assistant-takes-direct-aim-at-github-copilot/
+https://venturebeat.com/games/nvidia-says-its-blackwell-chips-lead-benchmarks-in-training-ai-llms/
+https://www.zdnet.com/article/collaborating-in-google-drive-gemini-can-catch-you-up-on-changes-made-to-your-files-now/
+https://www.zdnet.com/article/how-finops-for-ai-certification-tackles-your-surging-ai-costs-and-how-to-sign-up/
+https://www.zdnet.com/article/how-to-remove-copilot-from-your-microsoft-365-plan-before-you-have-to-pay-for-it/
+https://www.zdnet.com/article/chatgpt-free-users-finally-have-access-to-this-really-helpful-feature/
+https://www.zdnet.com/article/you-can-use-openais-super-powerful-ai-coding-agent-codex-for-just-20-now/
