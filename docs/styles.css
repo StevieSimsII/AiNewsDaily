@@ -1,0 +1,267 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --light-color: #ecf0f1;
+    --dark-color: #2c3e50;
+    --gartner-color: #00a4e4;
+    --forrester-color: #496b46;
+      /* Dark mode variables */
+    --dark-bg-color: #212830;
+    --dark-card-color: #2a3440;
+    --dark-text-color: #f5f5f5;
+    --dark-secondary-text: #aaaaaa;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: var(--dark-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark Mode Styles */
+[data-bs-theme="dark"] {
+    --bs-body-bg: var(--dark-bg-color);
+    --bs-body-color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] body {
+    background-color: var(--dark-bg-color);
+    color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] .card {
+    background-color: var(--dark-card-color);
+    color: var(--dark-text-color);
+}
+
+[data-bs-theme="dark"] .card-subtitle {
+    color: var(--dark-secondary-text) !important;
+}
+
+.navbar {
+    background-color: var(--primary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar-brand i {
+    margin-right: 8px;
+    color: var(--secondary-color);
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: none;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    min-height: 300px;
+}
+
+.card-title {
+    margin-bottom: 1rem !important; /* Increase space between title and date */
+}
+
+.card-text {
+    flex-grow: 1;
+    margin-bottom: 50px; /* Space for the button */
+}
+
+.card-body .btn-primary {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.article-card {
+    height: 100%;
+}
+
+.article-card .card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.article-card .card-text {
+    flex-grow: 1;
+}
+
+.category-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.source-badge {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.gartner-badge {
+    background-color: var(--gartner-color) !important;
+    color: white;
+}
+
+.forrester-badge {
+    background-color: var(--forrester-color) !important;
+    color: white;
+}
+
+.ai-badge {
+    background-color: var(--accent-color) !important;
+}
+
+.ml-badge {
+    background-color: var(--secondary-color) !important;
+}
+
+.insight-card {
+    border-left: 4px solid var(--secondary-color);
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
+
+.insight-card.gartner {
+    border-left-color: var(--gartner-color);
+}
+
+.insight-card.forrester {
+    border-left-color: var(--forrester-color);
+}
+
+.insight-card h5 {
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+
+.insight-card .date {
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+.filter-btn.active {
+    background-color: var(--secondary-color);
+    color: white;
+    border-color: var(--secondary-color);
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+}
+
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+/* List view styles */
+.news-list-view .news-card {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.news-list-view .card-body {
+    padding: 10px 15px;
+    min-height: auto;
+}
+
+.news-list-view .card-title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.news-list-view .card-text {
+    display: none;
+}
+
+.news-cards-view .card {
+    height: 100%;
+}
+
+/* Badge styling improvements */
+.badge {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+/* Social share buttons */
+.social-share-buttons {
+    margin-top: 10px;
+}
+
+.social-share-buttons .btn {
+    padding: 4px 8px;
+    margin-right: 5px;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.social-share-buttons .btn:hover {
+    transform: translateY(-2px);
+}
+
+.social-share-buttons .btn-twitter {
+    background-color: #1DA1F2;
+    color: white;
+}
+
+.social-share-buttons .btn-facebook {
+    background-color: #4267B2;
+    color: white;
+}
+
+.social-share-buttons .btn-linkedin {
+    background-color: #0077B5;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    .btn-group {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    
+    .dropdown {
+        margin-top: 10px;
+    }
+}
