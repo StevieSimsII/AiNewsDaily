@@ -1,1 +1,0 @@
-This directory contains files for GitHub Pages deployment. Please see the index.html file for the actual content.
