@@ -1,6 +1,6 @@
 # AI News Daily
 
-A daily updated collection of AI and Machine Learning news, research, and insights.
+A daily updated collection of AI and Machine Learning news, research, and insights, and much more!
 
 ## About
 
