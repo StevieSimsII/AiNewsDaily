@@ -192,11 +192,17 @@
     <script>
         // Set current year in footer
         document.getElementById('current-year').textContent = new Date().getFullYear();
-        
-        // If the last-updated-date is still "Loading...", update it with the current date
+          // If the last-updated-date is still "Loading...", update it with the current date
         const lastUpdatedElement = document.getElementById('last-updated-date');
         if (lastUpdatedElement.textContent === "Loading...") {
-            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            const options = { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                timeZoneName: 'short'
+            };
             lastUpdatedElement.textContent = new Date().toLocaleDateString('en-US', options);
         }
           // Add event listeners to footer links

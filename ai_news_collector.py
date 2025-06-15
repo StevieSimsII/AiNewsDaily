@@ -304,12 +304,11 @@ def read_existing_articles():
 def collect_news():
     """Collect news articles and save them to a CSV file."""
     logger.info(f"Starting news collection, writing to: {CSV_OUTPUT_PATH}")
-    
-    # Store the current date as the last updated timestamp
+      # Store the current date as the last updated timestamp
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
     last_update = {
         "last_updated": current_date,
-        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S %z")
     }
     
     # Save the last update info to a JSON file for the web app to use

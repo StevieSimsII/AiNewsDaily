@@ -572,13 +572,13 @@ function loadLastUpdateTime() {
         })
         .then(data => {
             // Format the timestamp nicely
-            const timestamp = new Date(data.timestamp);
-            const options = { 
+            const timestamp = new Date(data.timestamp);            const options = { 
                 year: 'numeric', 
                 month: 'long', 
                 day: 'numeric',
                 hour: '2-digit',
-                minute: '2-digit'
+                minute: '2-digit',
+                timeZoneName: 'short'
             };
             const formattedDate = timestamp.toLocaleDateString('en-US', options);
             
@@ -589,9 +589,15 @@ function loadLastUpdateTime() {
             }
         })
         .catch(error => {
-            console.warn('Error loading update timestamp:', error);
-            // Fall back to current date if we can't load the timestamp
-            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            console.warn('Error loading update timestamp:', error);            // Fall back to current date if we can't load the timestamp
+            const options = { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                timeZoneName: 'short'
+            };
             const currentDate = new Date().toLocaleDateString('en-US', options);
             
             const lastUpdatedElement = document.getElementById('last-updated-date');
