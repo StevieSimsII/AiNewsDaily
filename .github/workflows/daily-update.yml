@@ -2,8 +2,8 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # Run every day at 6:00 UTC (adjust this time as needed)
-    - cron: '0 6 * * *'
+    # Run every day at 14:00 UTC (8:00 AM CST)
+    - cron: '0 14 * * *'
   # Allow manual trigger of the workflow
   workflow_dispatch:
 
