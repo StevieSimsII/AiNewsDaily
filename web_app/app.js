@@ -572,22 +572,19 @@ function loadLastUpdateTime() {
         })
         .then(data => {
             // Format the timestamp in Central Standard Time (CST/CDT)
-            const timestamp = new Date(data.timestamp.replace(' ', 'T') + 'Z'); // treat as UTC
-            // Central Time is UTC-6 or UTC-5 (CDT); we will use UTC-6 for standard time, but you can adjust for DST if needed
-            // For simplicity, let's use UTC-6 year-round
-            const cstOffset = -6; // hours
-            const cstDate = new Date(timestamp.getTime() + cstOffset * 60 * 60 * 1000);
-            const options = { 
-                year: 'numeric', 
-                month: 'long', 
+            // Parse as UTC, then display in America/Chicago
+            const timestamp = new Date(data.timestamp.replace(' ', 'T') + 'Z');
+            const options = {
+                year: 'numeric',
+                month: 'long',
                 day: 'numeric',
                 hour: '2-digit',
                 minute: '2-digit',
                 hour12: true,
-                timeZone: 'America/Chicago', // Use IANA time zone for CST/CDT
+                timeZone: 'America/Chicago', // CST/CDT
                 timeZoneName: 'short'
             };
-            const formattedDate = cstDate.toLocaleString('en-US', options);
+            const formattedDate = timestamp.toLocaleString('en-US', options);
             // Update the last-updated-date element in the footer
             const lastUpdatedElement = document.getElementById('last-updated-date');
             if (lastUpdatedElement) {
@@ -595,9 +592,15 @@ function loadLastUpdateTime() {
             }
         })
         .catch(error => {
-            console.warn('Error loading update timestamp:', error);
-            // Fall back to current date if we can't load the timestamp
-            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            console.warn('Error loading update timestamp:', error);            // Fall back to current date if we can't load the timestamp
+            const options = { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                timeZoneName: 'short'
+            };
             const currentDate = new Date().toLocaleDateString('en-US', options);
             
             const lastUpdatedElement = document.getElementById('last-updated-date');

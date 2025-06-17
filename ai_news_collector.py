@@ -309,6 +309,7 @@ except ImportError:
 def collect_news():
     """Collect news articles and save them to a CSV file."""
     logger.info(f"Starting news collection, writing to: {CSV_OUTPUT_PATH}")
+<<<<<<< HEAD
 
     # Store the current date as the last updated timestamp in US Central Time
     try:
@@ -321,6 +322,13 @@ def collect_news():
     last_update = {
         "last_updated": current_date,
         "timestamp": now_central.strftime("%Y-%m-%d %H:%M:%S %Z")
+=======
+      # Store the current date as the last updated timestamp
+    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    last_update = {
+        "last_updated": current_date,
+        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S %z")
+>>>>>>> 05dc14117e612626e6a37f0f5c95dfe97a2aff45
     }
 
     # Save the last update info to a JSON file for the web app to use
