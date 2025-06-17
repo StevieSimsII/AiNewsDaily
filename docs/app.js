@@ -571,20 +571,32 @@ function loadLastUpdateTime() {
             return response.json();
         })
         .then(data => {
-            // Format the timestamp in Central Standard Time (CST/CDT)
-            // Parse as UTC, then display in America/Chicago
-            const timestamp = new Date(data.timestamp.replace(' ', 'T') + 'Z');
-            const options = {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric',
-                hour: '2-digit',
-                minute: '2-digit',
-                hour12: true,
-                timeZone: 'America/Chicago', // CST/CDT
-                timeZoneName: 'short'
-            };
-            const formattedDate = timestamp.toLocaleString('en-US', options);
+            // Format the timestamp in Central Time as 'Month Dayth Year @HH:MM CST/CDT'
+            const timestamp = new Date(data.timestamp);
+            const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            const month = months[timestamp.getMonth()];
+            const day = timestamp.getDate();
+            const year = timestamp.getFullYear();
+            // Get ordinal suffix
+            function ordinal(n) {
+                if (n > 3 && n < 21) return 'th';
+                switch (n % 10) {
+                    case 1: return 'st';
+                    case 2: return 'nd';
+                    case 3: return 'rd';
+                    default: return 'th';
+                }
+            }
+            // Format hour and minute
+            let hour = timestamp.getHours();
+            let minute = timestamp.getMinutes();
+            if (minute < 10) minute = '0' + minute;
+            // Get time zone abbreviation (CST/CDT)
+            const options = { timeZone: 'America/Chicago', timeZoneName: 'short' };
+            const tzString = timestamp.toLocaleTimeString('en-US', options);
+            const tzAbbr = tzString.match(/([A-Z]{2,4})$/) ? tzString.match(/([A-Z]{2,4})$/)[1] : '';
+            // Format as 'Month Dayth Year @HH:MM CST/CDT'
+            const formattedDate = `${month} ${day}${ordinal(day)} ${year} @${hour}:${minute} ${tzAbbr}`;
             // Update the last-updated-date element in the footer
             const lastUpdatedElement = document.getElementById('last-updated-date');
             if (lastUpdatedElement) {

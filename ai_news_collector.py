@@ -317,9 +317,11 @@ def collect_news():
         central = pytz.timezone("America/Chicago")
     now_central = datetime.datetime.now(central)
     current_date = now_central.strftime("%Y-%m-%d")
+    # Use ISO 8601 format for timestamp (includes offset)
+    iso_timestamp = now_central.isoformat()
     last_update = {
         "last_updated": current_date,
-        "timestamp": now_central.strftime("%Y-%m-%d %H:%M:%S %Z")
+        "timestamp": iso_timestamp
     }
 
     # Save the last update info to a JSON file for the web app to use
