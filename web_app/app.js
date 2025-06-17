@@ -571,17 +571,23 @@ function loadLastUpdateTime() {
             return response.json();
         })
         .then(data => {
-            // Format the timestamp nicely
-            const timestamp = new Date(data.timestamp);
+            // Format the timestamp in Central Standard Time (CST/CDT)
+            const timestamp = new Date(data.timestamp.replace(' ', 'T') + 'Z'); // treat as UTC
+            // Central Time is UTC-6 or UTC-5 (CDT); we will use UTC-6 for standard time, but you can adjust for DST if needed
+            // For simplicity, let's use UTC-6 year-round
+            const cstOffset = -6; // hours
+            const cstDate = new Date(timestamp.getTime() + cstOffset * 60 * 60 * 1000);
             const options = { 
                 year: 'numeric', 
                 month: 'long', 
                 day: 'numeric',
                 hour: '2-digit',
-                minute: '2-digit'
+                minute: '2-digit',
+                hour12: true,
+                timeZone: 'America/Chicago', // Use IANA time zone for CST/CDT
+                timeZoneName: 'short'
             };
-            const formattedDate = timestamp.toLocaleDateString('en-US', options);
-            
+            const formattedDate = cstDate.toLocaleString('en-US', options);
             // Update the last-updated-date element in the footer
             const lastUpdatedElement = document.getElementById('last-updated-date');
             if (lastUpdatedElement) {

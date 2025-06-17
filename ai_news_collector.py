@@ -301,24 +301,35 @@ def read_existing_articles():
     
     return existing_articles, existing_urls
 
+try:
+    from zoneinfo import ZoneInfo  # Python 3.9+
+except ImportError:
+    from pytz import timezone as ZoneInfo  # Fallback for older Python
+
 def collect_news():
     """Collect news articles and save them to a CSV file."""
     logger.info(f"Starting news collection, writing to: {CSV_OUTPUT_PATH}")
-    
-    # Store the current date as the last updated timestamp
-    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+
+    # Store the current date as the last updated timestamp in US Central Time
+    try:
+        central = ZoneInfo("America/Chicago")
+    except Exception:
+        import pytz
+        central = pytz.timezone("America/Chicago")
+    now_central = datetime.datetime.now(central)
+    current_date = now_central.strftime("%Y-%m-%d")
     last_update = {
         "last_updated": current_date,
-        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        "timestamp": now_central.strftime("%Y-%m-%d %H:%M:%S %Z")
     }
-    
+
     # Save the last update info to a JSON file for the web app to use
     update_info_path = os.path.join(os.path.dirname(CSV_OUTPUT_PATH), "last_update.json")
     try:
         with open(update_info_path, 'w') as f:
             import json
             json.dump(last_update, f)
-        logger.info(f"Saved last update timestamp: {current_date}")
+        logger.info(f"Saved last update timestamp (Central Time): {current_date}")
     except Exception as e:
         logger.error(f"Error saving update timestamp: {str(e)}")
     
