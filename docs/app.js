@@ -571,17 +571,20 @@ function loadLastUpdateTime() {
             return response.json();
         })
         .then(data => {
-            // Format the timestamp nicely
-            const timestamp = new Date(data.timestamp);            const options = { 
-                year: 'numeric', 
-                month: 'long', 
+            // Format the timestamp in Central Standard Time (CST/CDT)
+            // Parse as UTC, then display in America/Chicago
+            const timestamp = new Date(data.timestamp.replace(' ', 'T') + 'Z');
+            const options = {
+                year: 'numeric',
+                month: 'long',
                 day: 'numeric',
                 hour: '2-digit',
                 minute: '2-digit',
+                hour12: true,
+                timeZone: 'America/Chicago', // CST/CDT
                 timeZoneName: 'short'
             };
-            const formattedDate = timestamp.toLocaleDateString('en-US', options);
-            
+            const formattedDate = timestamp.toLocaleString('en-US', options);
             // Update the last-updated-date element in the footer
             const lastUpdatedElement = document.getElementById('last-updated-date');
             if (lastUpdatedElement) {

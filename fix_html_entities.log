@@ -488,3 +488,12 @@
 2025-06-13 09:16:36,777 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv
 2025-06-13 09:16:36,778 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv.fixed
 2025-06-13 09:16:36,780 - INFO - Updated docs CSV file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv with fixed HTML entities
+2025-06-17 09:05:16,347 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\ai_news.csv
+2025-06-17 09:05:16,348 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\ai_news.csv.fixed
+2025-06-17 09:05:16,350 - INFO - Updated main CSV file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\ai_news.csv with fixed HTML entities
+2025-06-17 09:05:16,391 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\data\ai_news.csv
+2025-06-17 09:05:16,391 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\data\ai_news.csv.fixed
+2025-06-17 09:05:16,393 - INFO - Updated web_app CSV file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\data\ai_news.csv with fixed HTML entities
+2025-06-17 09:05:16,412 - INFO - Fixed 0 HTML entities in C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-06-17 09:05:16,412 - INFO - Wrote fixed data to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv.fixed
+2025-06-17 09:05:19,886 - INFO - Updated docs CSV file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv with fixed HTML entities

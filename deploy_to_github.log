@@ -454,3 +454,12 @@
 2025-06-16 14:03:19,034 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
 2025-06-16 14:03:19,035 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
 2025-06-16 14:03:19,035 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-17 09:05:20,095 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-17 09:05:20,126 - deploy_to_github - INFO - Copied C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\ai_news.csv to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-06-17 09:05:20,165 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\app.js to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\app.js
+2025-06-17 09:05:20,191 - deploy_to_github - INFO - Copied data file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\data\ai_news.csv to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\data\ai_news.csv
+2025-06-17 09:05:20,197 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\index.html to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\index.html
+2025-06-17 09:05:20,219 - deploy_to_github - INFO - Copied file C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\web_app\styles.css to C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\styles.css
+2025-06-17 09:05:20,221 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\.nojekyll
+2025-06-17 09:05:20,223 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\_config.yml
+2025-06-17 09:05:20,225 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
