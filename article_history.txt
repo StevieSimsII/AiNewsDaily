@@ -528,3 +528,10 @@ https://www.zdnet.com/article/8-ai-features-coming-to-ios-26-that-actually-excit
 https://www.forrester.com/blogs/how-to-get-retrieval-augmented-generation-rag-right/
 https://www.forrester.com/blogs/key-takeaways-from-cisco-live-2025-ciscos-big-bets-for-unified-security-and-ai/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-cyber-risk-quantification-solutions-q2-2025/
+https://www.technologyreview.com/2025/06/20/1119102/the-download-talking-dirty-with-deepseek-and-the-risks-and-rewards-of-calorie-restriction/
+https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/
+https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage
+https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch
+https://venturebeat.com/ai/googles-gemini-transparency-cut-leaves-enterprise-developers-debugging-blind/
+https://www.zdnet.com/article/how-ai-can-save-us-from-our-infinite-workdays-according-to-microsoft/
+https://www.zdnet.com/article/8-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/
