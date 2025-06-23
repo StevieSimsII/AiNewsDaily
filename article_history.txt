@@ -561,3 +561,6 @@ https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senat
 https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/
 https://venturebeat.com/ai/from-fear-to-fluency-why-empathy-is-the-missing-ingredient-in-ai-rollouts/
 https://www.forrester.com/blogs/ai-assistants-and-analytics-what-stood-out-at-cvent-connect-2025/
+https://www.technologyreview.com/2025/06/23/1119009/scaling-integrated-digital-health/
+https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder
+https://news.mit.edu/2025/llms-factor-unrelated-information-when-recommending-medical-treatments-0623
