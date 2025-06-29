@@ -676,3 +676,10 @@ https://www.zdnet.com/article/chatgpt-was-downloaded-30-million-times-last-month
 https://www.zdnet.com/article/i-talked-to-5-ais-about-my-cat-mr-giggles-and-it-says-a-lot-about-the-state-of-chatbots/
 https://www.zdnet.com/article/can-ai-save-teachers-from-a-crushing-workload-theres-new-evidence-it-might/
 https://www.zdnet.com/article/how-the-senates-ban-on-state-ai-regulation-imperils-internet-access/
+https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/
+https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/
+https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/
+https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/
+https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/
+https://www.zdnet.com/article/google-just-gave-its-photos-app-the-feature-upgrade-it-deserves-heres-whats-new/
+https://www.zdnet.com/article/your-slack-app-is-getting-a-big-upgrade-heres-how-to-try-the-new-ai-features/
