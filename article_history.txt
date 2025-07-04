@@ -757,3 +757,13 @@ https://www.zdnet.com/article/phishers-built-fake-okta-and-microsoft-365-login-s
 https://www.zdnet.com/article/how-to-prove-your-writing-isnt-ai-generated-with-grammarlys-new-tool/
 https://www.forrester.com/blogs/a-peek-at-bank-of-americas-ai-playbook/
 https://www.forrester.com/blogs/the-seventh-wave-how-ai-will-change-the-technology-industry/
+https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/
+https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/
+https://www.theverge.com/ai-artificial-intelligence/697337/deerhoof-greg-saunier-spotify-ai
+https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/
+https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/
+https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/
+https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligence-following-his-ceos-exit/
+https://techcrunch.com/2025/07/03/xai-gets-permits-for-15-natural-gas-generators-at-memphis-data-center/
+https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/
+https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/
