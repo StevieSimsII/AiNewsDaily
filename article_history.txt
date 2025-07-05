@@ -767,3 +767,4 @@ https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligenc
 https://techcrunch.com/2025/07/03/xai-gets-permits-for-15-natural-gas-generators-at-memphis-data-center/
 https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/
 https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/
+https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff
