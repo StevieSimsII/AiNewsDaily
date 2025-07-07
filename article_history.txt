@@ -769,3 +769,10 @@ https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-ou
 https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/
 https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff
 https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/
+https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/
+https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/
+https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/
+https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/
+https://www.zdnet.com/article/how-i-used-chatgpt-to-quickly-fix-a-critical-open-source-plugin-without-touching-a-line-of-code/
+https://www.zdnet.com/article/ai-will-boost-the-value-of-human-creativity-in-financial-services-says-aws/
+https://www.zdnet.com/article/the-ai-complexity-paradox-more-productivity-more-responsibilities/
