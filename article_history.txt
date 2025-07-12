@@ -863,3 +863,17 @@ https://www.zdnet.com/article/fed-up-with-ai-scraping-your-content-this-open-sou
 https://www.forrester.com/blogs/beyond-the-lakehouse-databricks-bold-play-for-the-business-persona/
 https://www.forrester.com/blogs/platformcon-25-a-conference-where-platforms-couldnt-escape-the-ai-hype/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-zero-trust-platforms-q3-2025-choosing-a-platform-solution-for-your-zero-trust-journey/
+https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump
+https://techcrunch.com/2025/07/11/openai-delays-the-release-of-its-open-model-again/
+https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows/
+https://techcrunch.com/podcast/hugging-faces-new-robot-is-the-seinfeld-of-ai-devices/
+https://techcrunch.com/2025/07/11/sarah-smith-launches-16m-fund-says-ai-can-unlock-so-much-for-solo-gps-like-herself/
+https://techcrunch.com/2025/07/11/goldman-sachs-is-testing-viral-ai-agent-devin-as-a-new-employee/
+https://news.mit.edu/2025/ai-system-uncovers-hidden-cell-subtypes-boosts-precision-medicine-0711
+https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/
+https://venturebeat.com/ai/a-new-paradigm-for-ai-how-thinking-as-optimization-leads-to-better-general-purpose-models/
+https://venturebeat.com/ai/solo-io-wins-most-likely-to-succeed-award-at-vb-transform-2025-innovation-showcase/
+https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted/
+https://www.zdnet.com/article/i-tried-perplexitys-comet-ai-browser-heres-what-you-need-to-know/
+https://www.zdnet.com/article/ai-is-changing-the-rental-car-return-experience-and-it-could-cost-you/
+https://www.forrester.com/blogs/snowflake-unveils-new-enhancements-to-extend-its-ai-capabilities/
