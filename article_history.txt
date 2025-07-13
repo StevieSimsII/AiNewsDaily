@@ -877,3 +877,9 @@ https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adopti
 https://www.zdnet.com/article/i-tried-perplexitys-comet-ai-browser-heres-what-you-need-to-know/
 https://www.zdnet.com/article/ai-is-changing-the-rental-car-return-experience-and-it-could-cost-you/
 https://www.forrester.com/blogs/snowflake-unveils-new-enhancements-to-extend-its-ai-capabilities/
+https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot
+https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/
+https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/
+https://venturebeat.com/ai/building-voice-ai-that-listens-to-everyone-transfer-learning-and-synthetic-speech-in-action/
+https://www.zdnet.com/article/how-agentic-ai-is-transforming-the-very-foundations-of-business-strategy/
+https://www.zdnet.com/article/most-ai-projects-are-abandoned-5-ways-to-ensure-your-data-efforts-succeed/
