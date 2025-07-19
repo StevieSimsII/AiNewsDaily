@@ -975,3 +975,13 @@ https://venturebeat.com/ai/openai-unveils-chatgpt-agent-that-gives-chatgpt-its-o
 https://www.forrester.com/blogs/revolutionizing-it-management-with-generative-ai-the-future-is-here/
 https://www.forrester.com/blogs/capgeminis-3-3b-bet-on-wns-the-end-of-traditional-bpo-as-we-know-it/
 https://www.forrester.com/blogs/is-ai-coming-for-your-team-next-how-ai-hype-is-becoming-the-hot-layoff-excuse/
+https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet
+https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription
+https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut
+https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/
+https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/
+https://techcrunch.com/2025/07/18/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
+https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-1-while-alibabas-open-source-alternative-closes-gap/
+https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
+https://www.zdnet.com/article/i-spoke-with-an-ai-version-of-myself-thanks-to-humes-free-tool-how-to-try-it/
+https://www.forrester.com/blogs/jekyll-and-hyde-the-dual-role-of-disruptive-technologies-in-sustainability/
