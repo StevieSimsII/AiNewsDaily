@@ -985,3 +985,4 @@ https://venturebeat.com/ai/new-embedding-model-leaderboard-shakeup-google-takes-
 https://venturebeat.com/security/openais-red-team-plan-make-chatgpt-agent-an-ai-fortress/
 https://www.zdnet.com/article/i-spoke-with-an-ai-version-of-myself-thanks-to-humes-free-tool-how-to-try-it/
 https://www.forrester.com/blogs/jekyll-and-hyde-the-dual-role-of-disruptive-technologies-in-sustainability/
+https://techcrunch.com/2025/07/19/windsurf-ceo-opens-up-about-very-bleak-mood-before-cognition-deal/
