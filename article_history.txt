@@ -1071,3 +1071,16 @@ https://venturebeat.com/ai/anthropic-unveils-auditing-agents-to-test-for-ai-misa
 https://venturebeat.com/ai/freed-says-20000-clinicians-are-using-its-medical-ai-transcription-scribe-but-competition-is-rising-fast/
 https://www.zdnet.com/article/i-got-chatgpt-agent-to-deliver-a-truly-useful-report-and-then-notebooklm-took-it-to-the-next-level/
 https://www.zdnet.com/article/13-tech-trends-to-watch-now-according-to-mckinsey-and-no-its-not-all-ai/
+https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag
+https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer
+https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview
+https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/
+https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/
+https://techcrunch.com/2025/07/25/sam-altman-warns-theres-no-legal-confidentiality-when-using-chatgpt-as-a-therapist/
+https://techcrunch.com/podcast/should-silicon-valley-celebrate-trumps-ai-plans/
+https://venturebeat.com/ai/meta-announces-its-superintelligence-labs-chief-scientist-former-openai-gpt-4-co-creator-shengjia-zhao/
+https://venturebeat.com/ai/new-ai-architecture-delivers-100x-faster-reasoning-than-llms-with-just-1000-training-examples/
+https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-level-vision-ai-accessible-to-everyone/
+https://venturebeat.com/ai/its-qwens-summer-new-open-source-qwen3-235b-a22b-thinking-2507-tops-openai-gemini-reasoning-models-on-key-benchmarks/
+https://www.zdnet.com/article/how-logic-can-help-ai-models-tell-more-truth-according-to-aws/
+https://www.zdnet.com/article/openai-teases-imminent-gpt-5-launch-heres-what-to-expect/
