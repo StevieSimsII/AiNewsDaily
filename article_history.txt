@@ -1084,3 +1084,4 @@ https://venturebeat.com/business/cosyn-the-open-source-tool-thats-making-gpt-4v-
 https://venturebeat.com/ai/its-qwens-summer-new-open-source-qwen3-235b-a22b-thinking-2507-tops-openai-gemini-reasoning-models-on-key-benchmarks/
 https://www.zdnet.com/article/how-logic-can-help-ai-models-tell-more-truth-according-to-aws/
 https://www.zdnet.com/article/openai-teases-imminent-gpt-5-launch-heres-what-to-expect/
+https://venturebeat.com/ai/why-ai-is-making-us-lose-our-minds-and-not-in-the-way-youd-think/
