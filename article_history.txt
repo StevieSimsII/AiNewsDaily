@@ -1176,3 +1176,16 @@ https://www.zdnet.com/article/9-things-you-shouldnt-use-ai-for-at-work/
 https://www.forrester.com/blogs/why-ai-isnt-the-silver-bullet-for-customer-service-yet/
 https://www.forrester.com/blogs/stop-reacting-to-genai-tool-requests-and-lead-with-a-content-decision-framework/
 https://www.forrester.com/blogs/meet-evelyn-mitchell-wolf-forresters-new-adtech-analyst/
+https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/
+https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race
+https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model
+https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment
+https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil
+https://techcrunch.com/podcast/from-metas-massive-offers-to-anthropics-massive-valuation-does-ai-have-a-ceiling/
+https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/
+https://techcrunch.com/2025/08/01/openai-reportedly-raises-8-3b-at-300b-valuation/
+https://venturebeat.com/ai/why-open-source-ai-became-an-american-national-priority/
+https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/
+https://www.zdnet.com/article/anthropic-beats-openai-as-the-top-llm-provider-for-business-and-its-not-even-close/
+https://www.zdnet.com/article/samsung-is-giving-new-galaxy-z-fold-and-flip-customers-a-rare-120-bonus-how-to-redeem-it/
+https://www.zdnet.com/article/finally-an-ultraportable-windows-laptop-id-use-at-the-office-even-though-its-for-gamers/
