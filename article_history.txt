@@ -1189,3 +1189,7 @@ https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-dee
 https://www.zdnet.com/article/anthropic-beats-openai-as-the-top-llm-provider-for-business-and-its-not-even-close/
 https://www.zdnet.com/article/samsung-is-giving-new-galaxy-z-fold-and-flip-customers-a-rare-120-bonus-how-to-redeem-it/
 https://www.zdnet.com/article/finally-an-ultraportable-windows-laptop-id-use-at-the-office-even-though-its-for-gamers/
+https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/
+https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/
+https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/
+https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/
