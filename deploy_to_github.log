@@ -472,3 +472,444 @@
 2025-06-17 09:18:02,813 - deploy_to_github - INFO - Created .nojekyll file at C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\.nojekyll
 2025-06-17 09:18:02,815 - deploy_to_github - INFO - Created/updated _config.yml at C:\Users\Stephen.Sims\VS_Code\AI_News_Collector\docs\_config.yml
 2025-06-17 09:18:02,817 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-18 14:03:43,629 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-18 14:03:43,630 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-18 14:03:43,630 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-18 14:03:43,631 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-18 14:03:43,631 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-18 14:03:43,632 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-18 14:03:43,632 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-18 14:03:43,632 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-18 14:03:43,632 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-19 14:03:06,811 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-19 14:03:06,812 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-19 14:03:06,812 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-19 14:03:06,812 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-19 14:03:06,813 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-19 14:03:06,813 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-19 14:03:06,814 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-19 14:03:06,814 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-19 14:03:06,814 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-20 14:03:10,570 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-20 14:03:10,571 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-20 14:03:10,571 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-20 14:03:10,572 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-20 14:03:10,572 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-20 14:03:10,573 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-20 14:03:10,573 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-20 14:03:10,573 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-20 14:03:10,573 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-21 14:02:47,191 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-21 14:02:47,192 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-21 14:02:47,192 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-21 14:02:47,192 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-21 14:02:47,193 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-21 14:02:47,193 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-21 14:02:47,193 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-21 14:02:47,193 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-21 14:02:47,194 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-22 14:02:50,851 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-22 14:02:50,852 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-22 14:02:50,852 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-22 14:02:50,853 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-22 14:02:50,853 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-22 14:02:50,853 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-22 14:02:50,854 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-22 14:02:50,854 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-22 14:02:50,854 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-23 13:05:51,883 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-23 13:05:51,884 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-23 13:05:51,884 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-23 13:05:51,884 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-23 13:05:51,885 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-23 13:05:51,885 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-23 13:05:51,885 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-23 13:05:51,886 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-23 13:05:51,886 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-23 14:03:14,667 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-23 14:03:14,668 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-23 14:03:14,668 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-23 14:03:14,669 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-23 14:03:14,669 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-23 14:03:14,670 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-23 14:03:14,670 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-23 14:03:14,670 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-23 14:03:14,670 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-24 14:03:39,152 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-24 14:03:39,153 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-24 14:03:39,153 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-24 14:03:39,154 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-24 14:03:39,154 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-24 14:03:39,154 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-24 14:03:39,155 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-24 14:03:39,155 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-24 14:03:39,155 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-25 14:03:26,175 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-25 14:03:26,176 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-25 14:03:26,176 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-25 14:03:26,177 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-25 14:03:26,179 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-25 14:03:26,180 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-25 14:03:26,180 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-25 14:03:26,180 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-25 14:03:26,180 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-26 14:03:26,910 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-26 14:03:26,911 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-26 14:03:26,911 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-26 14:03:26,911 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-26 14:03:26,915 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-26 14:03:26,915 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-26 14:03:26,915 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-26 14:03:26,916 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-26 14:03:26,916 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-27 14:03:07,742 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-27 14:03:07,743 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-27 14:03:07,743 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-27 14:03:07,744 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-27 14:03:07,744 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-27 14:03:07,745 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-27 14:03:07,745 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-27 14:03:07,745 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-27 14:03:07,745 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-28 14:02:58,470 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-28 14:02:58,470 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-28 14:02:58,471 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-28 14:02:58,471 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-28 14:02:58,472 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-28 14:02:58,472 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-28 14:02:58,472 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-28 14:02:58,472 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-28 14:02:58,472 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-29 14:02:58,402 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-29 14:02:58,403 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-29 14:02:58,403 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-29 14:02:58,404 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-29 14:02:58,404 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-29 14:02:58,405 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-29 14:02:58,405 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-29 14:02:58,405 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-29 14:02:58,405 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-06-30 14:03:20,857 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-06-30 14:03:20,857 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-30 14:03:20,858 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-06-30 14:03:20,858 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-06-30 14:03:20,859 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-06-30 14:03:20,859 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-06-30 14:03:20,859 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-06-30 14:03:20,859 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-06-30 14:03:20,860 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-01 14:03:09,364 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-01 14:03:09,365 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-01 14:03:09,366 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-01 14:03:09,366 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-01 14:03:09,367 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-01 14:03:09,367 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-01 14:03:09,367 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-01 14:03:09,367 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-01 14:03:09,367 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-02 14:03:11,569 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-02 14:03:11,570 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-02 14:03:11,571 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-02 14:03:11,571 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-02 14:03:11,572 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-02 14:03:11,572 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-02 14:03:11,572 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-02 14:03:11,572 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-02 14:03:11,573 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-03 14:03:11,532 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-03 14:03:11,533 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-03 14:03:11,533 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-03 14:03:11,533 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-03 14:03:11,534 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-03 14:03:11,534 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-03 14:03:11,534 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-03 14:03:11,535 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-03 14:03:11,535 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-04 14:03:07,841 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-04 14:03:07,842 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-04 14:03:07,842 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-04 14:03:07,842 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-04 14:03:07,843 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-04 14:03:07,843 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-04 14:03:07,843 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-04 14:03:07,843 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-04 14:03:07,844 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-05 14:02:48,212 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-05 14:02:48,213 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-05 14:02:48,213 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-05 14:02:48,213 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-05 14:02:48,214 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-05 14:02:48,214 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-05 14:02:48,214 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-05 14:02:48,215 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-05 14:02:48,215 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-06 14:02:53,845 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-06 14:02:53,845 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-06 14:02:53,846 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-06 14:02:53,846 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-06 14:02:53,847 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-06 14:02:53,847 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-06 14:02:53,847 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-06 14:02:53,848 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-06 14:02:53,848 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-07 14:03:16,011 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-07 14:03:16,012 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-07 14:03:16,013 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-07 14:03:16,013 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-07 14:03:16,014 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-07 14:03:16,014 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-07 14:03:16,014 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-07 14:03:16,014 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-07 14:03:16,015 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-08 14:03:23,008 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-08 14:03:23,009 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-08 14:03:23,009 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-08 14:03:23,010 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-08 14:03:23,010 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-08 14:03:23,011 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-08 14:03:23,011 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-08 14:03:23,011 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-08 14:03:23,011 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-09 14:03:24,784 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-09 14:03:24,785 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-09 14:03:24,785 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-09 14:03:24,786 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-09 14:03:24,786 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-09 14:03:24,787 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-09 14:03:24,787 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-09 14:03:24,787 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-09 14:03:24,787 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-10 14:03:41,619 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-10 14:03:41,620 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-10 14:03:41,620 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-10 14:03:41,621 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-10 14:03:41,621 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-10 14:03:41,622 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-10 14:03:41,622 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-10 14:03:41,622 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-10 14:03:41,622 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-11 14:03:35,204 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-11 14:03:35,204 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-11 14:03:35,205 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-11 14:03:35,205 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-11 14:03:35,206 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-11 14:03:35,206 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-11 14:03:35,206 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-11 14:03:35,206 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-11 14:03:35,207 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-12 14:02:54,866 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-12 14:02:54,867 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-12 14:02:54,868 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-12 14:02:54,868 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-12 14:02:54,868 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-12 14:02:54,869 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-12 14:02:54,869 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-12 14:02:54,869 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-12 14:02:54,869 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-13 14:02:53,234 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-13 14:02:53,235 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-13 14:02:53,235 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-13 14:02:53,235 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-13 14:02:53,236 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-13 14:02:53,236 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-13 14:02:53,237 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-13 14:02:53,237 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-13 14:02:53,237 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-14 14:03:47,370 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-14 14:03:47,371 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-14 14:03:47,372 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-14 14:03:47,372 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-14 14:03:47,372 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-14 14:03:47,373 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-14 14:03:47,373 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-14 14:03:47,373 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-14 14:03:47,373 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-15 14:04:02,890 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-15 14:04:02,891 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-15 14:04:02,891 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-15 14:04:02,892 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-15 14:04:02,892 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-15 14:04:02,893 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-15 14:04:02,893 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-15 14:04:02,893 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-15 14:04:02,893 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-16 14:04:11,556 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-16 14:04:11,557 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-16 14:04:11,557 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-16 14:04:11,558 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-16 14:04:11,558 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-16 14:04:11,559 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-16 14:04:11,559 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-16 14:04:11,559 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-16 14:04:11,559 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-17 14:03:16,417 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-17 14:03:16,418 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-17 14:03:16,419 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-17 14:03:16,419 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-17 14:03:16,419 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-17 14:03:16,420 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-17 14:03:16,420 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-17 14:03:16,420 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-17 14:03:16,420 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-18 14:03:47,770 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-18 14:03:47,771 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-18 14:03:47,771 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-18 14:03:47,771 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-18 14:03:47,771 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-18 14:03:47,772 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-18 14:03:47,772 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-18 14:03:47,772 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-18 14:03:47,773 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-19 14:02:47,935 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-19 14:02:47,936 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-19 14:02:47,936 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-19 14:02:47,936 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-19 14:02:47,936 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-19 14:02:47,937 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-19 14:02:47,937 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-19 14:02:47,937 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-19 14:02:47,938 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-20 14:02:52,936 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-20 14:02:52,936 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-20 14:02:52,937 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-20 14:02:52,937 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-20 14:02:52,937 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-20 14:02:52,938 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-20 14:02:52,938 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-20 14:02:52,939 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-20 14:02:52,939 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-21 14:04:18,001 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-21 14:04:18,002 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-21 14:04:18,002 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-21 14:04:18,002 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-21 14:04:18,003 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-21 14:04:18,003 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-21 14:04:18,004 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-21 14:04:18,004 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-21 14:04:18,004 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-22 14:04:31,397 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-22 14:04:31,398 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-22 14:04:31,399 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-22 14:04:31,399 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-22 14:04:31,399 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-22 14:04:31,400 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-22 14:04:31,400 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-22 14:04:31,400 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-22 14:04:31,401 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-23 14:04:40,443 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-23 14:04:40,444 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-23 14:04:40,444 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-23 14:04:40,444 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-23 14:04:40,445 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-23 14:04:40,445 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-23 14:04:40,445 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-23 14:04:40,446 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-23 14:04:40,446 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-24 14:04:20,853 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-24 14:04:20,854 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-24 14:04:20,854 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-24 14:04:20,854 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-24 14:04:20,855 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-24 14:04:20,855 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-24 14:04:20,856 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-24 14:04:20,856 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-24 14:04:20,856 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-25 14:03:56,129 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-25 14:03:56,130 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-25 14:03:56,130 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-25 14:03:56,131 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-25 14:03:56,131 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-25 14:03:56,132 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-25 14:03:56,132 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-25 14:03:56,132 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-25 14:03:56,132 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-26 14:03:04,623 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-26 14:03:04,623 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-26 14:03:04,624 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-26 14:03:04,624 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-26 14:03:04,624 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-26 14:03:04,625 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-26 14:03:04,625 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-26 14:03:04,626 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-26 14:03:04,626 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-27 14:02:56,212 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-27 14:02:56,213 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-27 14:02:56,213 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-27 14:02:56,213 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-27 14:02:56,214 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-27 14:02:56,214 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-27 14:02:56,215 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-27 14:02:56,215 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-27 14:02:56,215 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-28 14:05:09,265 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-28 14:05:09,265 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-28 14:05:09,266 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-28 14:05:09,266 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-28 14:05:09,266 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-28 14:05:09,267 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-28 14:05:09,267 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-28 14:05:09,267 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-28 14:05:09,268 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-29 14:05:52,464 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-29 14:05:52,465 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-29 14:05:52,465 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-29 14:05:52,466 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-29 14:05:52,466 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-29 14:05:52,467 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-29 14:05:52,467 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-29 14:05:52,467 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-29 14:05:52,467 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-30 14:05:15,658 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-30 14:05:15,659 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-30 14:05:15,659 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-30 14:05:15,660 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-30 14:05:15,660 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-30 14:05:15,661 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-30 14:05:15,661 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-30 14:05:15,661 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-30 14:05:15,662 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-07-31 14:04:27,710 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-07-31 14:04:27,711 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-31 14:04:27,711 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-07-31 14:04:27,712 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-07-31 14:04:27,712 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-07-31 14:04:27,713 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-07-31 14:04:27,713 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-07-31 14:04:27,713 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-07-31 14:04:27,713 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-08-01 14:04:35,366 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-08-01 14:04:35,366 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-01 14:04:35,367 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-08-01 14:04:35,367 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-08-01 14:04:35,367 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-08-01 14:04:35,368 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-01 14:04:35,368 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-08-01 14:04:35,368 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-08-01 14:04:35,369 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-08-02 14:03:00,176 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-08-02 14:03:00,177 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-02 14:03:00,177 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-08-02 14:03:00,177 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-08-02 14:03:00,178 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-08-02 14:03:00,179 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-02 14:03:00,179 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-08-02 14:03:00,179 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-08-02 14:03:00,179 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-08-03 14:02:50,896 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-08-03 14:02:50,897 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-03 14:02:50,897 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-08-03 14:02:50,898 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-08-03 14:02:50,898 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-08-03 14:02:50,899 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-03 14:02:50,899 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-08-03 14:02:50,899 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-08-03 14:02:50,899 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
+2025-08-04 14:06:07,774 - deploy_to_github - INFO - Starting deployment to GitHub Pages
+2025-08-04 14:06:07,775 - deploy_to_github - INFO - Copied /home/runner/work/AiNewsDaily/AiNewsDaily/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-04 14:06:07,775 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/styles.css to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/styles.css
+2025-08-04 14:06:07,775 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/index.html to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/index.html
+2025-08-04 14:06:07,776 - deploy_to_github - INFO - Copied file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/app.js to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/app.js
+2025-08-04 14:06:07,776 - deploy_to_github - INFO - Copied data file /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv to /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-04 14:06:07,777 - deploy_to_github - INFO - Created .nojekyll file at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/.nojekyll
+2025-08-04 14:06:07,777 - deploy_to_github - INFO - Created/updated _config.yml at /home/runner/work/AiNewsDaily/AiNewsDaily/docs/_config.yml
+2025-08-04 14:06:07,777 - deploy_to_github - INFO - Deployment to GitHub Pages completed successfully
