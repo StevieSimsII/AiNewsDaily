@@ -52,7 +52,7 @@ RSS_FEEDS = [
     "https://www.wired.com/feed/tag/machine-learning/rss",        # Wired ML
     "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",  # The Verge AI
     "https://techcrunch.com/category/artificial-intelligence/feed/",     # TechCrunch AI
-    
+        
     # AI research sources
     "https://blog.google/technology/ai/rss/",          # Google AI Blog
     "https://openai.com/blog/rss/",                    # OpenAI Blog
