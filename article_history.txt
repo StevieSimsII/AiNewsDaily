@@ -1193,3 +1193,10 @@ https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-fo
 https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/
 https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/
 https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/
+https://www.technologyreview.com/2025/08/04/1120978/the-download-fix-evil-ai-white-house-war-science/
+https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview
+https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination
+https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/
+https://venturebeat.com/programming-development/why-tomorrows-best-devs-wont-just-code-theyll-curate-coordinate-and-command-ai/
+https://venturebeat.com/ai/why-the-ai-era-is-forcing-a-redesign-of-the-entire-compute-backbone/
+https://www.zdnet.com/article/got-6-hours-this-ai-training-from-google-and-goodwill-can-boost-your-resume-today/
