@@ -1304,3 +1304,5 @@ https://www.zdnet.com/article/openais-gpt-5-is-now-free-for-all-how-to-access-an
 https://www.zdnet.com/article/gpt-5-is-coming-to-apple-intelligence-will-this-be-the-fix-it-needs/
 https://www.forrester.com/blogs/skip-the-hype-reel-gpt-5s-real-story-is-in-the-system-card/
 https://www.forrester.com/blogs/feedback-and-cx-measurement-programs-must-boost-their-impact-according-to-forresters-2025-survey/
+https://www.theverge.com/internet-censorship/756831/grok-spicy-videos-nonconsensual-deepfakes-online-safety
+https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/
