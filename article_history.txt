@@ -1306,3 +1306,8 @@ https://www.forrester.com/blogs/skip-the-hype-reel-gpt-5s-real-story-is-in-the-s
 https://www.forrester.com/blogs/feedback-and-cx-measurement-programs-must-boost-their-impact-according-to-forresters-2025-survey/
 https://www.theverge.com/internet-censorship/756831/grok-spicy-videos-nonconsensual-deepfakes-online-safety
 https://venturebeat.com/ai/from-terabytes-to-insights-real-world-ai-obervability-architecture/
+https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast
+https://techcrunch.com/2025/08/11/nvidia-amd-may-sell-high-end-ai-chips-to-china-if-they-pay-us-a-cut/
+https://venturebeat.com/ai/ais-promise-of-opportunity-masks-a-reality-of-managed-displacement/
+https://www.zdnet.com/article/gpt-5-bombed-my-coding-tests-but-redeemed-itself-with-code-analysis/
+https://www.zdnet.com/article/how-to-use-gpt-5-in-vs-code-with-github-copilot/
