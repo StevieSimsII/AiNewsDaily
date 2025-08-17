@@ -1387,3 +1387,5 @@ https://techcrunch.com/2025/08/15/chatgpts-mobile-app-has-generated-2b-to-date-e
 https://venturebeat.com/ai/this-researcher-turned-openais-open-weights-model-gpt-oss-20b-into-a-non-reasoning-base-model-with-less-alignment-more-freedom/
 https://www.zdnet.com/article/this-pixel-10-rumor-just-gave-google-an-edge-over-samsung-and-oneplus/
 https://www.zdnet.com/article/stop-using-ai-for-these-9-work-tasks-heres-why/
+https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/
+https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/
