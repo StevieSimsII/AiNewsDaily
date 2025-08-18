@@ -1389,3 +1389,11 @@ https://www.zdnet.com/article/this-pixel-10-rumor-just-gave-google-an-edge-over-
 https://www.zdnet.com/article/stop-using-ai-for-these-9-work-tasks-heres-why/
 https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/
 https://venturebeat.com/ai/teaching-the-model-designing-llm-feedback-loops-that-get-smarter-over-time/
+https://www.technologyreview.com/2025/08/18/1122004/the-download-pigeons-role-in-developing-ai-and-native-artists-tech-interpretations/
+https://www.technologyreview.com/2025/08/18/1121370/ai-pigeons-reinforcement-learning/
+https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators
+https://techcrunch.com/2025/08/18/perplexity-now-supports-live-earnings-call-transcripts-for-indian-stocks/
+https://techcrunch.com/2025/08/18/grammarly-gets-a-design-overhaul-multiple-ai-features/
+https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/
+https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/
+https://www.zdnet.com/article/grammarlys-new-ai-agents-can-detect-ai-text-and-find-citations-for-you-automatically/
