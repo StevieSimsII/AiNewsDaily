@@ -1416,3 +1416,17 @@ https://venturebeat.com/ai/the-looming-crisis-of-ai-speed-without-guardrails/
 https://www.zdnet.com/article/this-awesome-android-15-tablet-with-gemini-ai-2-0-support-is-over-100-off/
 https://www.zdnet.com/article/could-ai-help-you-finally-escape-the-office-most-workers-think-so/
 https://www.zdnet.com/article/how-chatgpt-saved-me-time-troubleshooting-3-annoying-tech-support-issues/
+https://www.technologyreview.com/2025/08/20/1122163/nasa-ibm-ai-predict-solar-storm/
+https://www.technologyreview.com/2025/08/20/1122162/the-download-churches-in-the-age-of-ai-and-how-to-run-an-llm-at-home/
+https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud
+https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels
+https://www.theverge.com/news/761338/microsoft-excel-ai-copilot-spreadsheet-cell-filling
+https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/
+https://techcrunch.com/2025/08/19/meta-is-shaking-up-its-ai-org-again/
+https://techcrunch.com/2025/08/19/meta-rolls-out-ai-powered-translations-to-creators-globally-starting-with-english-and-spanish/
+https://venturebeat.com/ai/stop-benchmarking-in-the-lab-inclusion-arena-shows-how-llms-perform-in-production/
+https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone/
+https://venturebeat.com/ai/deepseek-v3-1-just-dropped-and-it-might-be-the-most-powerful-open-ai-yet/
+https://venturebeat.com/ai/keychain-raises-30m-and-launches-ai-operating-system-for-cpg-manufacturers/
+https://www.zdnet.com/article/google-can-read-your-docs-to-you-now/
+https://www.zdnet.com/article/adobe-just-gave-the-pdf-its-biggest-glow-up-in-30-years/
