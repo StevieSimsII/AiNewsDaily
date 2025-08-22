@@ -1450,3 +1450,16 @@ https://venturebeat.com/ai/codesignals-new-ai-tutoring-app-cosmo-wants-to-be-the
 https://www.zdnet.com/article/ai-is-creeping-into-the-linux-kernel-and-official-policy-is-needed-asap/
 https://www.zdnet.com/article/scammers-have-infiltrated-googles-ai-responses-how-to-spot-them/
 https://www.zdnet.com/article/google-reveals-how-much-energy-a-gemini-query-uses-in-industry-first/
+https://www.technologyreview.com/2025/08/22/1122350/the-download-googles-ai-energy-expenditure-and-handing-over-dna-data-to-the-police/
+https://www.technologyreview.com/2025/08/22/1122304/ai-scientist-research-autonomous-agents/
+https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest
+https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai
+https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/
+https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/
+https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/
+https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/
+https://venturebeat.com/ai/mit-report-misunderstood-shadow-ai-economy-booms-while-headlines-cry-failure/
+https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-to-train-ai-bypassing-lab-work/
+https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/
+https://www.zdnet.com/article/your-google-home-setup-is-getting-its-long-awaited-gemini-upgrade-soon-what-to-expect/
+https://www.forrester.com/blogs/how-stripe-and-bridge-are-pushing-stablecoin-real-world-adoption-a-conversation-with-mai-leduc/
