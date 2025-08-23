@@ -1463,3 +1463,17 @@ https://venturebeat.com/ai/chan-zuckerberg-initiatives-rbio-uses-virtual-cells-t
 https://venturebeat.com/data-infrastructure/how-ai-digital-minds-startup-delphi-stopped-drowning-in-user-data-and-scaled-up-with-pinecone/
 https://www.zdnet.com/article/your-google-home-setup-is-getting-its-long-awaited-gemini-upgrade-soon-what-to-expect/
 https://www.forrester.com/blogs/how-stripe-and-bridge-are-pushing-stablecoin-real-world-adoption-a-conversation-with-mai-leduc/
+https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines
+https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership
+https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift
+https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/
+https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/
+https://techcrunch.com/2025/08/22/apple-gets-ready-for-ai-in-the-enterprise-with-new-chatgpt-configuration-options/
+https://techcrunch.com/2025/08/22/apple-is-in-talks-to-use-googles-gemini-for-siri-revamp-report-says/
+https://techcrunch.com/2025/08/22/nvidia-reportedly-halts-production-on-its-h20-ai-chips/
+https://blog.google/technology/ai/ai-breakthroughs-transforming-industries-finance/
+https://venturebeat.com/ai/opencuas-open-source-computer-use-agents-rival-proprietary-models-from-openai-and-anthropic/
+https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-half-of-real-world-orchestration-tasks/
+https://venturebeat.com/security/four-big-enterprise-lessons-from-walmart-ai-security-agentic-risks-identity-reboot-velocity-with-governance-and-ai-vs-ai-defense/
+https://www.zdnet.com/article/why-this-16-inch-acer-is-the-ideal-thinkpad-replacement-especially-at-this-price/
+https://www.zdnet.com/article/worried-about-ais-soaring-energy-needs-avoiding-chatbots-wont-help-but-3-things-could/
