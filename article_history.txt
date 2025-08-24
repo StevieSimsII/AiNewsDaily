@@ -1477,3 +1477,7 @@ https://venturebeat.com/ai/mcp-universe-benchmark-shows-gpt-5-fails-more-than-ha
 https://venturebeat.com/security/four-big-enterprise-lessons-from-walmart-ai-security-agentic-risks-identity-reboot-velocity-with-governance-and-ai-vs-ai-defense/
 https://www.zdnet.com/article/why-this-16-inch-acer-is-the-ideal-thinkpad-replacement-especially-at-this-price/
 https://www.zdnet.com/article/worried-about-ais-soaring-energy-needs-avoiding-chatbots-wont-help-but-3-things-could/
+https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/
+https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/
+https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/
+https://venturebeat.com/ai/busted-by-the-em-dash-ais-favorite-punctuation-mark-and-how-its-blowing-your-cover/
