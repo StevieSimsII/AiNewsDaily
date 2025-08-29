@@ -6051,3 +6051,53 @@
 2025-08-28 14:03:34,157 - AI_News_Collector - INFO - Updated primary CSV with 1565 total articles
 2025-08-28 14:03:34,158 - AI_News_Collector - INFO - Copied CSV to secondary location: /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv
 2025-08-28 14:03:34,158 - AI_News_Collector - INFO - CSV update completed successfully
+2025-08-29 14:03:04,587 - AI_News_Collector - INFO - Starting news collection, writing to: /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-29 14:03:04,591 - AI_News_Collector - INFO - Saved last update timestamp (Central Time): 2025-08-29
+2025-08-29 14:03:04,605 - AI_News_Collector - INFO - Read 1565 articles from /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2025-08-29 14:03:04,605 - AI_News_Collector - INFO - Found 1565 existing articles in CSV
+2025-08-29 14:03:04,605 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
+2025-08-29 14:03:04,837 - AI_News_Collector - INFO - Processing 10 entries from technologyreview.com
+2025-08-29 14:03:04,848 - AI_News_Collector - INFO - Found 5 AI-related articles from technologyreview.com
+2025-08-29 14:03:06,850 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-08-29 14:03:07,104 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/artificial-intelligence/rss: <unknown>:2:0: not well-formed (invalid token)
+2025-08-29 14:03:07,104 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/artificial-intelligence/rss
+2025-08-29 14:03:09,107 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2025-08-29 14:03:09,289 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/machine-learning/rss: <unknown>:2:0: not well-formed (invalid token)
+2025-08-29 14:03:09,289 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/machine-learning/rss
+2025-08-29 14:03:11,291 - AI_News_Collector - INFO - Fetching articles from: theverge.com
+2025-08-29 14:03:12,054 - AI_News_Collector - INFO - Processing 10 entries from theverge.com
+2025-08-29 14:03:12,054 - AI_News_Collector - INFO - Found 5 AI-related articles from theverge.com
+2025-08-29 14:03:14,057 - AI_News_Collector - INFO - Fetching articles from: techcrunch.com
+2025-08-29 14:03:14,166 - AI_News_Collector - INFO - Processing 20 entries from techcrunch.com
+2025-08-29 14:03:14,167 - AI_News_Collector - INFO - Found 5 AI-related articles from techcrunch.com
+2025-08-29 14:03:16,169 - AI_News_Collector - INFO - Fetching articles from: blog.google
+2025-08-29 14:03:16,374 - AI_News_Collector - INFO - Processing 20 entries from blog.google
+2025-08-29 14:03:16,375 - AI_News_Collector - INFO - Found 5 AI-related articles from blog.google
+2025-08-29 14:03:18,378 - AI_News_Collector - INFO - Fetching articles from: openai.com
+2025-08-29 14:03:18,462 - AI_News_Collector - WARNING - Feed parsing warning for https://openai.com/blog/rss/: <unknown>:4:17: not well-formed (invalid token)
+2025-08-29 14:03:18,463 - AI_News_Collector - WARNING - No entries found in feed: https://openai.com/blog/rss/
+2025-08-29 14:03:20,465 - AI_News_Collector - INFO - Fetching articles from: news.mit.edu
+2025-08-29 14:03:20,737 - AI_News_Collector - INFO - Processing 50 entries from news.mit.edu
+2025-08-29 14:03:20,738 - AI_News_Collector - INFO - Found 5 AI-related articles from news.mit.edu
+2025-08-29 14:03:22,741 - AI_News_Collector - INFO - Fetching articles from: venturebeat.com
+2025-08-29 14:03:22,900 - AI_News_Collector - INFO - Processing 29 entries from venturebeat.com
+2025-08-29 14:03:22,901 - AI_News_Collector - INFO - Found 5 AI-related articles from venturebeat.com
+2025-08-29 14:03:24,904 - AI_News_Collector - INFO - Fetching articles from: zdnet.com
+2025-08-29 14:03:25,174 - AI_News_Collector - INFO - Processing 20 entries from zdnet.com
+2025-08-29 14:03:25,176 - AI_News_Collector - INFO - Found 1 AI-related articles from zdnet.com
+2025-08-29 14:03:27,178 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-08-29 14:03:27,504 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/en/newsroom/press-releases.xml: <unknown>:112:2: mismatched tag
+2025-08-29 14:03:27,504 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/en/newsroom/press-releases.xml
+2025-08-29 14:03:29,506 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2025-08-29 14:03:29,608 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/smarterwithgartner/feed/: <unknown>:112:2: mismatched tag
+2025-08-29 14:03:29,609 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/smarterwithgartner/feed/
+2025-08-29 14:03:31,611 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-08-29 14:03:32,735 - AI_News_Collector - INFO - Processing 10 entries from forrester.com
+2025-08-29 14:03:32,736 - AI_News_Collector - INFO - Found 4 AI-related articles from forrester.com
+2025-08-29 14:03:34,739 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2025-08-29 14:03:34,955 - AI_News_Collector - WARNING - Feed parsing warning for https://www.forrester.com/press-newsroom/feed/: <unknown>:17:52: not well-formed (invalid token)
+2025-08-29 14:03:34,955 - AI_News_Collector - WARNING - No entries found in feed: https://www.forrester.com/press-newsroom/feed/
+2025-08-29 14:03:36,957 - AI_News_Collector - INFO - Found 17 new articles to add
+2025-08-29 14:03:36,996 - AI_News_Collector - INFO - Updated primary CSV with 1582 total articles
+2025-08-29 14:03:36,997 - AI_News_Collector - INFO - Copied CSV to secondary location: /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv
+2025-08-29 14:03:36,997 - AI_News_Collector - INFO - CSV update completed successfully
