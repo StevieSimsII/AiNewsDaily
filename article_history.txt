@@ -1548,3 +1548,16 @@ https://venturebeat.com/ai/openai-anthropic-cross-tests-expose-jailbreak-and-mis
 https://www.zdnet.com/article/i-ran-a-100x-camera-zoom-test-with-the-pixel-10-pro-and-samsung-s25-ultra-and-theres-a-clear-winner/
 https://www.forrester.com/blogs/no-more-coders-you-still-need-devops/
 https://www.forrester.com/blogs/vibe-hacking-and-no-code-ransomware-ais-dark-side-is-here/
+https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing
+https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/
+https://techcrunch.com/2025/08/29/spotlight-on-ai-at-techcrunch-disrupt-dont-miss-these-sessions-backed-by-jetbrains-and-greenfield/
+https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/
+https://techcrunch.com/2025/08/29/chatgpt-everything-to-know-about-the-ai-chatbot/
+https://techcrunch.com/podcast/trillion-with-a-t-thats-a-lot-of-dollars-nvidia/
+https://blog.google/products/pixel/made-by-google-podcast-pixel-10-ai-camera/
+https://venturebeat.com/security/software-is-40-of-security-budgets-as-cisos-shift-to-ai-defense/
+https://venturebeat.com/ai/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining/
+https://venturebeat.com/ai/how-intuit-killed-the-chatbot-crutch-and-built-an-agentic-ai-playbook-you-can-copy/
+https://www.zdnet.com/article/how-a-legacy-hardware-company-reinvented-itself-in-the-ai-age/
+https://www.zdnet.com/article/i-replaced-my-samsung-galaxy-s25-ultra-with-the-pixel-10-pro-xl-for-a-week-and-cant-go-back/
+https://www.forrester.com/blogs/my-highlights-for-forresters-upcoming-b2b-summit-emea/
