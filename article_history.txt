@@ -1620,3 +1620,17 @@ https://www.zdnet.com/article/these-ai-glasses-hit-1m-in-3-days-and-they-have-fe
 https://www.forrester.com/blogs/the-agentic-business-fabric-is-how-ai-will-transform-enterprise-applications/
 https://www.forrester.com/blogs/the-end-of-business-apps-as-we-know-them-is-here/
 https://www.forrester.com/blogs/trust-is-the-killer-app-to-unlock-ai-adoption/
+https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement
+https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons
+https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner
+https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests
+https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom
+https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/
+https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/
+https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/
+https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/
+https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/
+https://blog.google/products/workspace/workspace-feature-drop-ai-sheets/
+https://www.zdnet.com/article/ais-not-reasoning-at-all-how-this-team-debunked-the-industry-hype/
+https://www.zdnet.com/article/deepseek-may-be-about-to-shake-up-the-ai-world-again-what-we-know/
+https://www.forrester.com/blogs/when-buzzwords-collide-from-ai-to-zero-trust/
