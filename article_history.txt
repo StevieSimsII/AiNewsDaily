@@ -1634,3 +1634,5 @@ https://blog.google/products/workspace/workspace-feature-drop-ai-sheets/
 https://www.zdnet.com/article/ais-not-reasoning-at-all-how-this-team-debunked-the-industry-hype/
 https://www.zdnet.com/article/deepseek-may-be-about-to-shake-up-the-ai-world-again-what-we-know/
 https://www.forrester.com/blogs/when-buzzwords-collide-from-ai-to-zero-trust/
+https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/
+https://news.mit.edu/2025/ai-machine-learning-for-engineering-design-0907
