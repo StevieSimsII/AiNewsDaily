@@ -1660,3 +1660,17 @@ https://blog.google/products/search/google-doodles-show-how-ai-mode-can-help-you
 https://blog.google/technology/google-labs/notebooklm-student-features/
 https://blog.google/products/search/ai-mode-expands-more-languages/
 https://www.forrester.com/blogs/introducing-ai-access/
+https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/
+https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence
+https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support
+https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/
+https://techcrunch.com/2025/09/10/born-maker-of-virtual-pet-pengu-raises-15m-to-launch-a-new-wave-of-social-ai-companions/
+https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/
+https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/
+https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/
+https://blog.google/outreach-initiatives/education/google-ai-literacy-tools-2025/
+https://blog.google/outreach-initiatives/education/ai-quests/
+https://www.zdnet.com/article/ais-free-web-scraping-days-may-be-over-thanks-to-this-new-licensing-protocol/
+https://www.forrester.com/blogs/forrester-wave-secure-access-service-edge-solutions-q3-2025-a-market-transformed/
+https://www.forrester.com/blogs/in-commerce-search-the-pace-of-innovation-is-changing-the-game/
+https://www.forrester.com/blogs/consumers-are-using-ai-but-they-still-dont-trust-it/
