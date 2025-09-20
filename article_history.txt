@@ -1789,3 +1789,11 @@ https://www.zdnet.com/article/i-put-away-my-ipad-just-minutes-after-testing-this
 https://www.zdnet.com/article/these-consumer-facing-industries-are-the-fastest-adopters-of-ai-agents/
 https://www.forrester.com/blogs/todays-leaders-must-heed-ai-advice-for-future-disruptors/
 https://www.forrester.com/blogs/dont-fire-your-developers-what-ai-enhanced-software-development-means-for-technology-executives/
+https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin
+https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini
+https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/
+https://techcrunch.com/video/metas-ar-ambitions-meet-reality-and-california-gets-serious-about-ai-safetyagain/
+https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/
+https://techcrunch.com/2025/09/19/octopus-energy-spins-off-its-kraken-utility-billing-and-ai-platform/
+https://techcrunch.com/2025/09/19/how-developers-are-using-apples-local-ai-models-with-ios-26/
+https://blog.google/products/gemini/gemini-photo-to-video-tips/
