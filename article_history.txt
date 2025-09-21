@@ -1797,3 +1797,4 @@ https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age
 https://techcrunch.com/2025/09/19/octopus-energy-spins-off-its-kraken-utility-billing-and-ai-platform/
 https://techcrunch.com/2025/09/19/how-developers-are-using-apples-local-ai-models-with-ios-26/
 https://blog.google/products/gemini/gemini-photo-to-video-tips/
+https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/
