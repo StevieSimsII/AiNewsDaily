@@ -1798,3 +1798,11 @@ https://techcrunch.com/2025/09/19/octopus-energy-spins-off-its-kraken-utility-bi
 https://techcrunch.com/2025/09/19/how-developers-are-using-apples-local-ai-models-with-ios-26/
 https://blog.google/products/gemini/gemini-photo-to-video-tips/
 https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/
+https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/
+https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/
+https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/
+https://news.mit.edu/2025/new-tool-makes-generative-ai-models-likely-create-breakthrough-materials-0922
+https://news.mit.edu/2025/how-are-mit-entrepreneurs-using-ai-0922
+https://www.zdnet.com/article/10-chatgpt-codex-secrets-i-only-learned-after-60-hours-of-pair-programming-with-it/
+https://www.zdnet.com/article/how-researchers-tricked-chatgpt-into-sharing-sensitive-email-data/
+https://www.forrester.com/blogs/securing-ais-ma-feeding-frenzy-is-on/
