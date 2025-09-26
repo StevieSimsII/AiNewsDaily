@@ -1858,3 +1858,17 @@ https://www.zdnet.com/article/ai-helps-strong-dev-teams-and-hurts-weak-ones-acco
 https://www.forrester.com/blogs/breaking-the-ai-adoption-paradox-in-apac/
 https://www.forrester.com/blogs/huawei-connect-2025-building-ai-infrastructure-in-a-sanctioned-world/
 https://www.forrester.com/blogs/crowdstrike-fal-con-2025-flexing-into-the-agentic-ai-age/
+https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation
+https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula
+https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse
+https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search
+https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/
+https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/
+https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/
+https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/
+https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/
+https://news.mit.edu/2025/ai-system-learns-many-types-scientific-information-and-runs-experiments-discovering-new-materials-0925
+https://www.zdnet.com/article/ai-just-passed-a-brutal-finance-exam-most-humans-fail-should-analysts-be-worried/
+https://www.zdnet.com/article/chatgpt-pulse-works-overnight-to-produce-personalized-morning-updates-for-you-how-it-works/
+https://www.zdnet.com/article/ai-is-more-likely-to-transform-your-job-than-replace-it-indeed-finds/
+https://www.forrester.com/blogs/the-odyssey-ahead-b2c-marketers-prepare-now-for-agentic-ai/
