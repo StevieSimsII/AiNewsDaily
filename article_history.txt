@@ -1952,3 +1952,17 @@ https://www.zdnet.com/article/forensic-vibers-wanted-and-10-other-new-job-roles-
 https://www.zdnet.com/article/are-smart-gardens-viable-at-home-heres-how-my-harvesting-journey-is-going-so-far/
 https://www.forrester.com/blogs/ai-with-no-lies/
 https://www.forrester.com/blogs/ai-our-modern-day-cyrano/
+https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/
+https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/
+https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free
+https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding
+https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/
+https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/
+https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/
+https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/
+https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/
+https://blog.google/technology/google-labs/jules-tools-jules-api/
+https://news.mit.edu/2025/lincoln-lab-unveils-most-powerful-ai-supercomputer-at-any-us-university-1002
+https://www.zdnet.com/article/your-nest-security-devices-are-getting-a-major-update-for-free-including-a-big-one-for-google-home/
+https://www.forrester.com/blogs/zero-click-search-comes-for-checkout-agentic-commerce-automates-retails-next-frontier/
+https://www.forrester.com/blogs/build-your-foundation-first-the-hard-truth-about-successful-ai-deployments/
