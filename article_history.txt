@@ -1978,3 +1978,6 @@ https://news.mit.edu/2025/ai-maps-how-new-antibiotic-targets-gut-bacteria-1003
 https://www.zdnet.com/article/ai-lifts-some-software-stocks-leaves-others-behind-whos-winning-and-losing-and-why/
 https://www.forrester.com/blogs/in-the-age-of-ai-reinvention-is-the-future-of-customer-success/
 https://www.forrester.com/blogs/the-ai-effect-what-q2-2025-technology-services-earnings-mean-for-technology-executives/
+https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/
+https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/
+https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/
