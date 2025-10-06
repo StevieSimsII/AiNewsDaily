@@ -1981,3 +1981,12 @@ https://www.forrester.com/blogs/the-ai-effect-what-q2-2025-technology-services-e
 https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/
 https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/
 https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/
+https://www.theverge.com/news/792661/sora-fictional-copyright-characters
+https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement
+https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self
+https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues
+https://techcrunch.com/2025/10/06/amd-to-supply-6gw-of-compute-capacity-to-openai-in-chip-deal-worth-tens-of-billions/
+https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/
+https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/
+https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/
+https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/
