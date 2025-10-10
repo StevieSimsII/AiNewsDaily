@@ -2042,3 +2042,17 @@ https://news.mit.edu/2025/mit-schwarzman-college-computing-mbzuai-launch-collabo
 https://news.mit.edu/2025/using-generative-ai-diversify-virtual-training-grounds-robots-1008
 https://www.forrester.com/blogs/announcing-our-top-10-cloud-trends-for-2025/
 https://www.forrester.com/blogs/from-chaos-to-clarity-how-b2b-marketing-leaders-can-organize-ai-responsibilities-for-business-impact/
+https://www.theverge.com/podcast/798173/openai-sora-chatgpt-apps-vergecast
+https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads
+https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt
+https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/
+https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/
+https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/
+https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/
+https://techcrunch.com/2025/10/09/startup-battlefield-company-spotitearly-trained-dogs-and-ai-to-sniff-out-common-cancers/
+https://news.mit.edu/2025/ray-kurzwei-reinforces-his-optimism-tech-progress-1010
+https://www.zdnet.com/article/amazon-takes-shots-at-chatgpt-with-quick-suite-your-new-ai-teammate-at-work/
+https://www.zdnet.com/article/this-new-google-gemini-model-scrolls-the-internet-just-like-you-do-how-it-works/
+https://www.zdnet.com/article/what-is-alexa-everything-you-need-to-know-about-amazons-new-ai-assistant/
+https://www.forrester.com/blogs/from-scattered-tools-to-strategic-systems-three-themes-from-the-forrester-wave-customer-success-platforms-q4-2025/
+https://www.forrester.com/blogs/previsions-2026-un-effet-de-mode-devenu-un-vrai-chantier-lia-change-de-visage/
