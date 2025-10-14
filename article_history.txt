@@ -2077,3 +2077,12 @@ https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterpr
 https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/
 https://www.zdnet.com/article/i-tried-the-new-sora-2-to-generate-ai-videos-and-the-results-were-pure-sorcery/
 https://www.zdnet.com/article/is-ai-even-worth-it-for-your-business-5-expert-tips-to-help-prove-roi/
+https://www.theverge.com/news/798174/directv-glance-ai-shoppable-screensavers
+https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer
+https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house
+https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai
+https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips
+https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/
+https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/
+https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/
+https://www.zdnet.com/article/i-tried-a-linux-distro-that-promises-free-built-in-ai-and-things-got-weird/
