@@ -2240,3 +2240,8 @@ https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-
 https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/
 https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/
 https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/
+https://www.technologyreview.com/2025/10/27/1126679/the-download-what-to-make-of-openais-atlas-browser-and-how-to-make-climate-progress/
+https://www.technologyreview.com/2025/10/27/1126673/openai-new-atlas-browser/
+https://www.theverge.com/report/806887/clinical-grade-ai-buzzword
+https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/
+https://www.zdnet.com/article/gemini-is-gaining-fast-on-chatgpt-in-one-particular-way-according-to-new-data/
