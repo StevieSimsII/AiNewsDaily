@@ -2303,3 +2303,15 @@ https://www.zdnet.com/article/gemini-for-home-is-finally-rolling-out-for-early-a
 https://www.forrester.com/blogs/insurance-predictions-2026-significant-shifts-in-cx-ai-and-microinsurance/
 https://www.forrester.com/blogs/predictions-2026-how-financial-services-can-thrive-amid-ai-disruption/
 https://www.forrester.com/blogs/cognite-lets-customers-demonstrate-the-power-of-industrial-ai/
+https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool
+https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast
+https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens
+https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh
+https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch
+https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/
+https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/
+https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/
+https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/
+https://blog.google/technology/developers/google-ai-studio-logs-datasets/
+https://www.zdnet.com/article/this-new-most-popular-ai-image-and-video-generator-has-enterprise-users-flocking-to-it/
+https://www.forrester.com/blogs/2026-predictions-the-year-ai-tests-the-heart-of-healthcare/
