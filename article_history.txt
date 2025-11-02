@@ -2322,3 +2322,5 @@ https://techcrunch.com/podcast/equity-live-from-300m-seed-rounds-to-data-center-
 https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/
 https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/
 https://www.zdnet.com/article/8-ways-to-help-your-teams-build-lasting-responsible-ai/
+https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/
+https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/
