@@ -2324,3 +2324,13 @@ https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-fr
 https://www.zdnet.com/article/8-ways-to-help-your-teams-build-lasting-responsible-ai/
 https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/
 https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/
+https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination
+https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/
+https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/
+https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/
+https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/
+https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/
+https://www.zdnet.com/article/the-secret-to-a-successful-ai-rollout-its-all-about-timing-and-these-5-factors/
+https://www.zdnet.com/article/is-that-video-ai-6-tell-tale-signs-its-a-deepfake/
+https://www.zdnet.com/article/enterprises-are-not-prepared-for-a-world-of-malicious-ai-agents/
+https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/
