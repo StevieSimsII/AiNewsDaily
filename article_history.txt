@@ -2382,3 +2382,16 @@ https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-
 https://www.zdnet.com/article/letting-ai-manage-your-money-could-be-an-actual-gamble-warn-researchers/
 https://www.forrester.com/blogs/apac-leads-global-ai-adoption-but-regional-strategies-diverge/
 https://www.forrester.com/blogs/predictions-2026-ai-agents-changing-business-models-and-workplace-culture-impact-enterprise-software/
+https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation
+https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search
+https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence
+https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades
+https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit
+https://techcrunch.com/2025/11/06/laude-institute-announces-first-batch-of-slingshots-ai-grants/
+https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/
+https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/
+https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/
+https://blog.google/technology/developers/file-search-gemini-api/
+https://blog.google/products/search/new-google-finance-ai-deep-search/
+https://blog.google/outreach-initiatives/education/ai-and-learning/
+https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106
