@@ -2403,3 +2403,6 @@ https://blog.google/inside-google/company-announcements/oklahoma-workforce-talen
 https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-private-5g-services-q4-2025/
 https://www.forrester.com/blogs/its-time-to-put-ai-to-work-in-postsale-engagement/
+https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/
+https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/
+https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/
