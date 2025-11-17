@@ -2483,3 +2483,8 @@ https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbo
 https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/
 https://www.forrester.com/blogs/itc-vegas-2025-ai-wonderland/
 https://www.forrester.com/blogs/key-take-aways-from-the-google-cloud-digital-sovereignty-summit-2025/
+https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup
+https://techcrunch.com/2025/11/17/mcp-ai-agent-security-startup-runlayer-launches-with-8-unicorns-11m-from-khoslas-keith-rabois-and-felicis/
+https://techcrunch.com/2025/11/17/bone-ai-raises-funding-to-challenge-asias-defense-giants-with-next-gen-ai-powered-robotics/
+https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/
+https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/
