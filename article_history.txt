@@ -2647,3 +2647,15 @@ https://blog.google/products/search/gemini-3-ai-mode-more-countries/
 https://news.mit.edu/2025/aquaculture-shock-ai-and-autonomy-aquaculture-1201
 https://news.mit.edu/2025/benjamin-manning-how-ai-will-shape-future-work-1201
 https://www.forrester.com/blogs/forrester-analyst-takes-for-digital-content-in-2026/
+https://www.technologyreview.com/2025/12/03/1128724/the-download-ai-and-coding-and-waymos-aggressive-driverless-cars/
+https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense
+https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter
+https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects
+https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/
+https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/
+https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/
+https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/
+https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/
+https://blog.google/technology/health/ai-health-fund-eu/
+https://www.zdnet.com/article/is-deepseeks-new-model-the-latest-blow-to-proprietary-ai/
+https://www.forrester.com/blogs/the-real-deal-a-black-friday-inspired-rfp-template-for-vetting-ai-saas-vendors/
