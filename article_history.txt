@@ -2766,3 +2766,17 @@ https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-
 https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/
 https://www.zdnet.com/article/ai-business-leadership-human-values-expert-recommendations/
 https://www.forrester.com/blogs/what-we-saw-at-aws-reinvent-2025/
+https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/
+https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws
+https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership
+https://www.theverge.com/news/842987/google-gemini-chrome-ios
+https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor
+https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026
+https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/
+https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/
+https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/
+https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/
+https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/
+https://blog.google/technology/ai/google-gradient-canvas-ai-art/
+https://www.zdnet.com/article/zdnet-breakthrough-awards-2025/
+https://www.forrester.com/blogs/psychological-safety-enables-opportunity-ecosystems-amid-ai-transformation/
