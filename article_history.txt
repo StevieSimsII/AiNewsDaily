@@ -2780,3 +2780,15 @@ https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-
 https://blog.google/technology/ai/google-gradient-canvas-ai-art/
 https://www.zdnet.com/article/zdnet-breakthrough-awards-2025/
 https://www.forrester.com/blogs/psychological-safety-enables-opportunity-ecosystems-amid-ai-transformation/
+https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill
+https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai
+https://www.theverge.com/podcast/843447/ai-music-country-suno-vergecast
+https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/
+https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/
+https://blog.google/products/search/live-audio-gemini-model-update/
+https://blog.google/products/search/gemini-capabilities-translation-upgrades/
+https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
+https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
+https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/
+https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/
+https://www.forrester.com/blogs/genai-is-pushing-digital-transformation-into-a-no-blueprint-phase/
