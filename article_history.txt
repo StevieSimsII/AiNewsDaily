@@ -2792,3 +2792,6 @@ https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
 https://www.zdnet.com/article/how-to-install-configure-claude-code-ai-pricing-developers/
 https://www.zdnet.com/article/how-to-use-ai-to-bring-art-to-life/
 https://www.forrester.com/blogs/genai-is-pushing-digital-transformation-into-a-no-blueprint-phase/
+https://www.theverge.com/column/843883/ai-image-generators-better-worse
+https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/
+https://www.zdnet.com/article/zdnet-breakthrough-awards-winners-2025/
