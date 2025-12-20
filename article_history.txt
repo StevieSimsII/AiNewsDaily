@@ -2873,3 +2873,14 @@ https://blog.google/technology/ai/release-notes-podcast-search/
 https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
 https://www.zdnet.com/article/best-ai-image-generator/
 https://www.zdnet.com/article/ai-tools-subscriptions-productivity-coding-adobe-cost-break-down/
+https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026
+https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm
+https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction
+https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/
+https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/
+https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/
+https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/
+https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/
+https://blog.google/technology/ai/ai-tips-2025/
+https://blog.google/products/google-cloud/ai-business-trends-report-2026/
+https://www.zdnet.com/article/ai-success-strategies-business-lenovo/
