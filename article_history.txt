@@ -2888,3 +2888,5 @@ https://www.theverge.com/column/843418/humanoid-robot-hype
 https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/
 https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/
 https://www.zdnet.com/article/china-open-ai-models-versus-us-llms-power-performance-compared/
+https://www.zdnet.com/article/openai-complex-model-safety-paper/
+https://www.forrester.com/blogs/ifs-unleashed-x-2025-opportunities-and-risks-in-industrial-ai/
