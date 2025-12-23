@@ -2890,3 +2890,17 @@ https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act
 https://www.zdnet.com/article/china-open-ai-models-versus-us-llms-power-performance-compared/
 https://www.zdnet.com/article/openai-complex-model-safety-paper/
 https://www.forrester.com/blogs/ifs-unleashed-x-2025-opportunities-and-risks-in-industrial-ai/
+https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/
+https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/
+https://www.theverge.com/tech/845958/ai-smart-home-broken
+https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped
+https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro
+https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud
+https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/
+https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/
+https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/
+https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/
+https://blog.google/technology/ai/google-ai-news-recap-2025/
+https://www.zdnet.com/article/chatgpt-spotify-wrapped/
+https://www.zdnet.com/article/using-ai-for-work-tips/
+https://www.zdnet.com/article/how-amazon-rufus-ai-helped-my-holiday-shopping/
