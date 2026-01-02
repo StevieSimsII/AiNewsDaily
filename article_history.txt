@@ -2938,3 +2938,6 @@ https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-st
 https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/
 https://www.zdnet.com/article/california-ai-law-crackdown-on-risks/
 https://www.zdnet.com/article/ai-balancing-act/
+https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/
+https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/
+https://www.zdnet.com/article/ai-agents-primitive-reinforcement-learning-complex-memory/
