@@ -204,14 +204,7 @@ function displayNews(newsItems, resetPage = true) {
     if (resetPage) {
         container.innerHTML = '';
     }
-    
-    // If not resetting, append new items to existing ones
-    paginatedItems.forEach((item, index) => {
-        // Skip already displayed items when loading more
-        if (!resetPage && index < (window.currentPage - 1) * window.itemsPerPage) {
-            return;
-        }
-        
+      paginatedItems.forEach(item => {
         if (viewMode === 'cards') {
             container.appendChild(createCardView(item));
         } else {

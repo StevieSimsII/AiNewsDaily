@@ -3022,3 +3022,16 @@ https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108
 https://www.zdnet.com/article/nvidia-rubin-ai-ces-2026/
 https://www.forrester.com/blogs/is-ai-in-sales-a-sustainable-competitive-advantage-or-just-table-stakes/
 https://www.forrester.com/blogs/manufacturing-and-automotive-giants-continue-their-shift-from-grease-to-code-at-ces-2026/
+https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026
+https://www.theverge.com/news/859715/x-grok-ai-deepfakes
+https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers
+https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama
+https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store
+https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/
+https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/
+https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/
+https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/
+https://www.zdnet.com/article/lenovo-motorola-qira-ai-assistant-wearable-ces-2026/
+https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/
+https://www.forrester.com/blogs/openai-and-b-well-promise-greater-patient-empowerment-with-some-caveats/
+https://www.forrester.com/blogs/the-autonomous-testing-platform-wave-q4-2025-is-out/
