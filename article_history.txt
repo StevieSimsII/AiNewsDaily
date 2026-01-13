@@ -3047,3 +3047,14 @@ https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medica
 https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 https://www.zdnet.com/article/why-ai-costs-increasing-2026-tokens-dram-licensing-how-to-budget/
 https://www.forrester.com/blogs/thriving-amid-disruption-key-banking-insights-to-kick-start-2026/
+https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/
+https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai
+https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code
+https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/
+https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/
+https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/
+https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/
+https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/
+https://www.zdnet.com/article/slackbot-ai-agent-upgrade/
+https://www.forrester.com/blogs/ai-and-automation-will-take-6-of-us-jobs-by-2030/
+https://www.forrester.com/blogs/ea-tools-vendors-youre-sitting-on-the-ai-design-time-platform-and-dont-know-it/
