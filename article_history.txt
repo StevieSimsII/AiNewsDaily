@@ -3074,3 +3074,16 @@ https://blog.google/company-news/inside-google/around-the-globe/google-middle-ea
 https://www.zdnet.com/article/docusign-ai-tool-contract/
 https://www.forrester.com/blogs/genai-in-european-b2b-marketing-why-hesitation-is-the-real-risk/
 https://www.forrester.com/blogs/why-ai-makes-trusted-research-more-valuable/
+https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news
+https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters
+https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website
+https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation
+https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner
+https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/
+https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/
+https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/
+https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/
+https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/
+https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114
+https://www.zdnet.com/article/wikipedia-turns-25/
+https://www.forrester.com/blogs/hello-gtm-singularity-turn-ideas-into-action-at-b2b-summit-north-america/
