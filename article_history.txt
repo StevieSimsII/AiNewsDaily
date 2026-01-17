@@ -3102,3 +3102,14 @@ https://www.zdnet.com/article/anthropic-claude-cowork-ai-file-management-test/
 https://www.zdnet.com/article/puma-browser-hands-on/
 https://www.zdnet.com/article/raspberry-pi-5-generative-ai-add-on/
 https://www.forrester.com/blogs/the-agent-economy-is-here-and-aws-just-gave-it-rocket-fuel/
+https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace
+https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test
+https://www.theverge.com/news/863466/openai-chatgpt-go-global-release
+https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai
+https://www.theverge.com/podcast/863340/siri-is-a-gemini
+https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/
+https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/
+https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/
+https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/
+https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/
+https://www.zdnet.com/article/openai-anthropic-google-release-ai-healthcare-tools/
