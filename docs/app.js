@@ -172,7 +172,7 @@ function displayNews(newsItems, resetPage = true) {
     }
     
     // Calculate pagination
-    const startIndex = 0;
+    const startIndex = resetPage ? 0 : (window.currentPage - 1) * window.itemsPerPage;
     const endIndex = window.currentPage * window.itemsPerPage;
     const paginatedItems = newsItems.slice(startIndex, endIndex);
     
@@ -204,7 +204,9 @@ function displayNews(newsItems, resetPage = true) {
     if (resetPage) {
         container.innerHTML = '';
     }
-      paginatedItems.forEach(item => {
+    
+    // Append items to container
+    paginatedItems.forEach((item) => {
         if (viewMode === 'cards') {
             container.appendChild(createCardView(item));
         } else {

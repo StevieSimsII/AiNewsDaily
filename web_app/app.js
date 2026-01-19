@@ -172,7 +172,7 @@ function displayNews(newsItems, resetPage = true) {
     }
     
     // Calculate pagination
-    const startIndex = 0;
+    const startIndex = resetPage ? 0 : (window.currentPage - 1) * window.itemsPerPage;
     const endIndex = window.currentPage * window.itemsPerPage;
     const paginatedItems = newsItems.slice(startIndex, endIndex);
     
