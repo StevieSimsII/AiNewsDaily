@@ -204,9 +204,7 @@ function displayNews(newsItems, resetPage = true) {
     if (resetPage) {
         container.innerHTML = '';
     }
-    
-    // Append items to container
-    paginatedItems.forEach((item) => {
+      paginatedItems.forEach(item => {
         if (viewMode === 'cards') {
             container.appendChild(createCardView(item));
         } else {
