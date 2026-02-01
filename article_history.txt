@@ -3278,3 +3278,6 @@ https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/
 https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
 https://www.zdnet.com/article/3-ways-to-determine-when-delegate-ai-agent/
 https://www.zdnet.com/article/how-to-learn-chatgpt-fast-free/
+https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai
+https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/
+https://www.zdnet.com/article/i-tried-local-ai-on-m1-mac-brutal-experience/
