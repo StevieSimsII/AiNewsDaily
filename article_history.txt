@@ -3290,3 +3290,17 @@ https://www.zdnet.com/article/openclaw-moltbot-clawdbot-5-reasons-viral-ai-agent
 https://www.zdnet.com/article/yacy-google-search-alternative-hands-on/
 https://www.forrester.com/blogs/europes-2026-tech-spend-exceeds-e1-5-trillion-driven-by-ai-cloud-and-sovereignty/
 https://www.forrester.com/blogs/us-technology-spending-will-grow-a-record-8-3-in-2026-to-reach-2-9-trillion/
+https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/
+https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/
+https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x
+https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button
+https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news
+https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview
+https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/
+https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/
+https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/
+https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/
+https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/
+https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/
+https://www.forrester.com/blogs/customers-hold-the-key-to-your-new-aeo-strategy/
