@@ -3373,3 +3373,15 @@ https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-c
 https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209
 https://www.zdnet.com/article/free-ai-coding-tool-goose-vs-claude-code-not-ready/
 https://www.forrester.com/blogs/how-cios-are-strengthening-data-and-ai-foundations/
+https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/
+https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/
+https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt
+https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible
+https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch
+https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/
+https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/
+https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/
+https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/
+https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/
+https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210
+https://www.forrester.com/blogs/the-revenue-enablement-platform-market-has-hit-an-inflection-point-with-ai-reshaping-everything/
