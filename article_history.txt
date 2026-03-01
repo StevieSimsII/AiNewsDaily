@@ -3598,3 +3598,5 @@ https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-su
 https://www.zdnet.com/article/acer-veriton-nuc-pc-review/
 https://www.zdnet.com/article/ai-auditor-new-job-role-monitors-model-behavior/
 https://www.forrester.com/blogs/how-to-shape-ai-at-b2b-summit-from-ideas-to-execution/
+https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/
+https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/
