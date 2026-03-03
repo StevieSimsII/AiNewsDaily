@@ -3611,3 +3611,16 @@ https://www.zdnet.com/article/career-ladder-crumbling-how-to-climb-leadership/
 https://www.zdnet.com/article/ai-job-security-ways-to-stop-stressing-pivot-work/
 https://www.forrester.com/blogs/agentic-software-development-defining-the-next-phase-of-ai-driven-engineering-tools/
 https://www.forrester.com/blogs/indias-ai-infrastructure-bet-faces-its-first-real-test/
+https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/
+https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing
+https://www.theverge.com/tech/887802/apple-ai-siri-google-servers
+https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent
+https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth
+https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/
+https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/
+https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/
+https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/
+https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/
+https://www.zdnet.com/article/enterprise-ai-agents-insider-threat/
+https://www.zdnet.com/article/5-ways-to-ensure-great-security-in-an-age-of-ai/
+https://www.forrester.com/blogs/ant-internationals-playbook-on-ai-blockchain-and-wallet-network/
