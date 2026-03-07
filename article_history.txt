@@ -3672,3 +3672,11 @@ https://www.zdnet.com/article/execs-increase-data-management-investment-to-suppo
 https://www.forrester.com/blogs/the-forrester-wave-cx-platforms-for-healthcare-q1-2026-the-ai-race-is-on-but-pace-is-uneven/
 https://www.forrester.com/blogs/architecting-data-and-ai-in-the-era-of-enterprise-intelligence-meet-shylaja-nathan-principal-analyst/
 https://www.forrester.com/blogs/three-surprising-insights-from-forresters-payment-providers-wave/
+https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/
+https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review
+https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/
+https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/
+https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/
+https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/
+https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/
+https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/
