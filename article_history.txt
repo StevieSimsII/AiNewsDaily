@@ -3709,3 +3709,16 @@ https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/zoom-meetings-ai-slides-spreadsheets/
 https://www.zdnet.com/article/ai-job-paradox-same-roles-see-greatest-losses-and-greatest-gains/
 https://www.forrester.com/blogs/the-future-of-b2b-gtm-isnt-human-versus-ai/
+https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
+https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence
+https://www.theverge.com/transportation/892010/ford-pro-ai-telematics-commercial-fleet
+https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order
+https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email
+https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/
+https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/
+https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/
+https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/
+https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/
+https://www.forrester.com/blogs/announcing-the-forrester-wave-cybersecurity-skills-and-training-platforms-q1-2026/
+https://www.forrester.com/blogs/context-not-models-is-the-real-ai-bottleneck-reltios-system-of-context-bet/
