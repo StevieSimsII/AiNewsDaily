@@ -3795,3 +3795,17 @@ https://www.forrester.com/blogs/why-an-ai-event-strategy-is-becoming-a-leadershi
 https://www.forrester.com/blogs/architecture-is-on-the-hook-for-genai-success/
 https://www.forrester.com/blogs/the-latest-enterprise-software-earnings-reveals-cios-risks-and-leverage/
 https://www.forrester.com/blogs/do-you-use-ai-moderators-for-customer-research-id-love-to-hear-from-you/
+https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
+https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
+https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
+https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
+https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
+https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast
+https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/
+https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/
+https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/
+https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/
+https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/
+https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/
+https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
+https://www.forrester.com/blogs/mobile-world-congress-2026-from-5g-hype-to-ai-hope/
