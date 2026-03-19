@@ -3809,3 +3809,16 @@ https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expan
 https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/
 https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
 https://www.forrester.com/blogs/mobile-world-congress-2026-from-5g-hype-to-ai-hope/
+https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta
+https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records
+https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer
+https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/
+https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/
+https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/
+https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/
+https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/
+https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319
+https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319
+https://www.forrester.com/blogs/the-private-ai-model-explosion/
+https://www.forrester.com/blogs/think-about-the-agentic-shift-with-your-next-customer-service-solution/
+https://www.forrester.com/blogs/the-future-is-now-agentic-ai-redefines-responsible-ai/
