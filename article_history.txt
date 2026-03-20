@@ -3822,3 +3822,17 @@ https://news.mit.edu/2026/better-method-identifying-overconfident-large-language
 https://www.forrester.com/blogs/the-private-ai-model-explosion/
 https://www.forrester.com/blogs/think-about-the-agentic-shift-with-your-next-customer-service-solution/
 https://www.forrester.com/blogs/the-future-is-now-agentic-ai-redefines-responsible-ai/
+https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/
+https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
+https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone
+https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast
+https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp
+https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
+https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/
+https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/
+https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/
+https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/
+https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/
+https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
+https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320
+https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/
