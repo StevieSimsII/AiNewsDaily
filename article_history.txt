@@ -3836,3 +3836,15 @@ https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-syst
 https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
 https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320
 https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/
+https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
+https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
+https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment
+https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/
+https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/
+https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
+https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
+https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/
+https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/
+https://www.zdnet.com/article/state-ai-safety-laws-california-new-york/
+https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/
