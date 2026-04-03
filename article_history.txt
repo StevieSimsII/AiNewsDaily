@@ -3990,3 +3990,14 @@ https://www.forrester.com/blogs/how-commbank-blends-customer-digital-and-ai-lead
 https://www.forrester.com/blogs/what-oracles-layoffs-really-signal-for-b2b-marketing-sales-and-revenue-operations/
 https://www.forrester.com/blogs/kubecon-europe-2026-the-not-so-unseen-engine-behind-ai-innovation/
 https://www.forrester.com/blogs/the-cmo-ai-creative-leap-from-making-ads-to-designing-meaning/
+https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs
+https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa
+https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn
+https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down
+https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
+https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/
+https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
+https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/
+https://www.zdnet.com/article/chatgpt-iphone-ios-apple-carplay/
+https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/
+https://www.forrester.com/blogs/power-growth-with-synthetic-data-lessons-from-qualtrics-x4/
