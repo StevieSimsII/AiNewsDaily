@@ -4173,3 +4173,5 @@ https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/
 https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/
 https://www.forrester.com/blogs/introducing-forresters-ai-model-openness-framework/
 https://www.forrester.com/blogs/physical-ai-matters-more-than-humanoid-robots/
+https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/
+https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/
