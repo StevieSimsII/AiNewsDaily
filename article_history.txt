@@ -4211,3 +4211,15 @@ https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus
 https://www.zdnet.com/article/ai-podcast-huxe-prepares-me-for-my-day/
 https://www.zdnet.com/article/google-deploys-ai-agent-cyber-force-as-security-arms-race-escalates/
 https://www.zdnet.com/article/google-cloud-next-enterprise-agent-platform-ai/
+https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation
+https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue
+https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint
+https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren
+https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots
+https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/
+https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/
+https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/
+https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/
+https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/
+https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422
+https://www.forrester.com/blogs/how-ai-is-rearchitecting-lending/
