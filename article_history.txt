@@ -4250,3 +4250,7 @@ https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memo
 https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/
 https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424
 https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/
+https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/
+https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/
+https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/
+https://www.zdnet.com/article/chatgpt-privacy-settings-guide/
