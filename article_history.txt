@@ -4299,3 +4299,17 @@ https://www.zdnet.com/article/rumors-of-the-software-developers-ai-induced-demis
 https://www.zdnet.com/article/proton-ceo-andy-yen-interview-ai-privacy-security-semafor/
 https://www.forrester.com/blogs/genai-is-rebuilding-search-and-google-is-still-winning-q1-2026-search-revenue-up-19-yoy/
 https://www.forrester.com/blogs/why-strategic-portfolio-management-is-entering-a-new-era/
+https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/
+https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/
+https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia
+https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast
+https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop
+https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai
+https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/
+https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/
+https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/
+https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/
+https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/
+https://www.zdnet.com/article/adobe-photoshop-new-3d-object-rotation-tool-hands-on/
+https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/
+https://www.forrester.com/blogs/building-the-human-foundation-of-the-ai-powered-enterprise/
