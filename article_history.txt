@@ -4313,3 +4313,10 @@ https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-cha
 https://www.zdnet.com/article/adobe-photoshop-new-3d-object-rotation-tool-hands-on/
 https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/
 https://www.forrester.com/blogs/building-the-human-foundation-of-the-ai-powered-enterprise/
+https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/
+https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/
+https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/
+https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
+https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
+https://www.zdnet.com/article/google-maps-vs-waze/
+https://www.zdnet.com/article/how-we-test-ai-at-zdnet/
