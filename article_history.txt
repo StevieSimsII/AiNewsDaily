@@ -4320,3 +4320,5 @@ https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-huma
 https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
 https://www.zdnet.com/article/google-maps-vs-waze/
 https://www.zdnet.com/article/how-we-test-ai-at-zdnet/
+https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it
+https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/
