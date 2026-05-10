@@ -4381,3 +4381,6 @@ https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-eve
 https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/
 https://blog.google/company-news/inside-google/company-announcements/the-small-brief/
 https://www.forrester.com/blogs/oracle-applications-analyst-summit-fusion-agents-are-shifting-from-assist-to-decide/
+https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/
+https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/
