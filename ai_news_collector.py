@@ -3,15 +3,25 @@ import csv
 import os
 import datetime
 import time
+import calendar
 import logging
 import re
 import feedparser
 import ssl
 import html
 import shutil
+import argparse
 from pathlib import Path
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup  # Added for better HTML cleaning
+
+# Teams notifications (optional)
+try:
+    from teams_notifications import notify_new_articles
+    TEAMS_AVAILABLE = True
+except ImportError:
+    TEAMS_AVAILABLE = False
+    notify_new_articles = None
 
 # Try to create unverified HTTPS context for feedparser (needed for some feeds)
 try:
@@ -38,6 +48,12 @@ BASE_DIR = Path(__file__).parent
 CSV_OUTPUT_PATH = BASE_DIR / "docs" / "data" / "ai_news.csv"  # Primary file for the web app
 HISTORY_FILE = BASE_DIR / "article_history.txt"
 MAX_ARTICLES_PER_SOURCE = 5
+MAX_FEED_ITEMS_TO_SCAN = 30
+REQUEST_TIMEOUT_SECONDS = 20
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; AI-News-Daily/1.0; +https://github.com/StevieSimsII/AiNewsDaily)",
+    "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*"
+}
 
 # Other locations where the CSV needs to be copied (if needed)
 SECONDARY_CSV_PATHS = [
@@ -171,23 +187,49 @@ def get_domain(url):
         domain = domain[4:]
     return domain
 
+def format_struct_time_date(struct_time_value):
+    """Convert a feedparser time tuple into a stable YYYY-MM-DD date string."""
+    return time.strftime("%Y-%m-%d", struct_time_value)
+
+def format_struct_time_timestamp(struct_time_value):
+    """Convert a feedparser time tuple into an ISO 8601 UTC timestamp."""
+    utc_timestamp = calendar.timegm(struct_time_value)
+    return datetime.datetime.fromtimestamp(
+        utc_timestamp,
+        tz=datetime.timezone.utc
+    ).isoformat().replace("+00:00", "Z")
+
+def parse_feed(rss_url):
+    """Fetch and parse RSS/Atom feed content with a browser-like user agent."""
+    try:
+        response = requests.get(
+            rss_url,
+            headers=REQUEST_HEADERS,
+            timeout=REQUEST_TIMEOUT_SECONDS
+        )
+        response.raise_for_status()
+        return feedparser.parse(response.content)
+    except Exception as request_error:
+        logger.warning(f"Request-based feed fetch failed for {rss_url}: {str(request_error)}")
+        return feedparser.parse(rss_url)
+
 def fetch_articles_from_rss(rss_url, max_articles=10):
     """Fetch articles from an RSS feed."""
     articles = []
-    
+
     try:
         # Parse the RSS feed
-        feed = feedparser.parse(rss_url)
-        
+        feed = parse_feed(rss_url)
+
         # Check if the feed was successfully parsed
         if not feed or hasattr(feed, 'bozo_exception') and feed.bozo_exception:
             logger.warning(f"Feed parsing warning for {rss_url}: {feed.bozo_exception if hasattr(feed, 'bozo_exception') else 'Unknown error'}")
-        
+
         # Check if we have entries
         if not hasattr(feed, 'entries') or len(feed.entries) == 0:
             logger.warning(f"No entries found in feed: {rss_url}")
             return articles
-        
+
         # Identify if this is a research firm feed
         domain = get_domain(rss_url)
         is_research_firm = any(firm in domain for firm in ["gartner", "forrester"])
@@ -195,7 +237,7 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
         logger.info(f"Processing {len(feed.entries)} entries from {domain}")
         
         # Process each entry in the feed
-        for entry in feed.entries[:max_articles * 2]:  # Get more articles for research firms so we can filter properly
+        for entry in feed.entries[:max(MAX_FEED_ITEMS_TO_SCAN, max_articles * 3)]:
             # Extract basic information
             title = entry.get('title', '')
             link = entry.get('link', '')
@@ -213,10 +255,13 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
             
             # Get published date
             pub_date = datetime.datetime.now().strftime("%Y-%m-%d")  # Default to today
+            published_at = ""
             if 'published_parsed' in entry and entry.published_parsed:
-                pub_date = time.strftime("%Y-%m-%d", entry.published_parsed)
+                pub_date = format_struct_time_date(entry.published_parsed)
+                published_at = format_struct_time_timestamp(entry.published_parsed)
             elif 'updated_parsed' in entry and entry.updated_parsed:
-                pub_date = time.strftime("%Y-%m-%d", entry.updated_parsed)
+                pub_date = format_struct_time_date(entry.updated_parsed)
+                published_at = format_struct_time_timestamp(entry.updated_parsed)
             
             # For research firms, we want to be more selective about AI content
             if is_research_firm:
@@ -239,6 +284,7 @@ def fetch_articles_from_rss(rss_url, max_articles=10):
                 'description': description,
                 'link': link,
                 'date': pub_date,
+                'published_at': published_at,
                 'source': source
             })
             
@@ -283,6 +329,17 @@ def parse_date(date_str):
                 logger.warning(f"Could not parse date format: {date_str}")
                 return datetime.datetime(1900, 1, 1)
 
+def parse_sort_timestamp(article):
+    """Prefer full publish timestamps when available, otherwise fall back to article date."""
+    published_at = article.get('published_at', '')
+    if published_at:
+        try:
+            return datetime.datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+        except ValueError:
+            logger.warning(f"Could not parse published_at timestamp: {published_at}")
+
+    return parse_date(article.get('date', ''))
+
 def read_existing_articles():
     """Read all articles from the existing CSV file."""
     existing_articles = []
@@ -306,8 +363,12 @@ try:
 except ImportError:
     from pytz import timezone as ZoneInfo  # Fallback for older Python
 
-def collect_news():
-    """Collect news articles and save them to a CSV file."""
+def collect_news(teams_required: bool = False):
+    """Collect news articles and save them to a CSV file.
+
+    Args:
+        teams_required: If True, fail if Teams notification cannot be sent
+    """
     logger.info(f"Starting news collection, writing to: {CSV_OUTPUT_PATH}")
     # Store the current date as the last updated timestamp in US Central Time
     try:
@@ -387,6 +448,7 @@ def collect_news():
                 # Add to our collection of new articles
                 new_articles.append({
                     'date': pub_date,
+                    'published_at': article.get('published_at', ''),
                     'title': title,
                     'description': description,
                     'source': article['source'],
@@ -415,7 +477,7 @@ def collect_news():
         all_articles = existing_articles + new_articles
         
         # Sort all articles by date in descending order (newest first)
-        all_articles.sort(key=lambda x: parse_date(x['date']), reverse=True)
+        all_articles.sort(key=parse_sort_timestamp, reverse=True)
         
         # Create directories if they don't exist
         os.makedirs(os.path.dirname(CSV_OUTPUT_PATH), exist_ok=True)
@@ -423,7 +485,7 @@ def collect_news():
         # Write to the primary CSV file
         temp_file = CSV_OUTPUT_PATH.with_suffix('.temp.csv')
         with open(temp_file, mode='w', newline='', encoding='utf-8') as file:
-            fieldnames = ['date', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
+            fieldnames = ['date', 'published_at', 'title', 'description', 'source', 'url', 'category', 'source_type', 'insights']
             writer = csv.DictWriter(file, fieldnames=fieldnames)
             writer.writeheader()
             for article in all_articles:
@@ -448,11 +510,33 @@ def collect_news():
                 logger.error(f"Error copying CSV to {secondary_path}: {str(e)}")
         
         logger.info("CSV update completed successfully")
+
+        # Send Teams notification for new articles
+        if TEAMS_AVAILABLE and notify_new_articles:
+            try:
+                notify_new_articles(new_articles, required=teams_required)
+            except Exception as e:
+                logger.error(f"Teams notification failed: {str(e)}")
+                if teams_required:
+                    raise
+        elif teams_required:
+            logger.warning("Teams notifications not available but --teams-required was set")
     else:
         logger.info("No new articles found to add")
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Collect AI news articles from RSS feeds"
+    )
+    parser.add_argument(
+        "--teams-required",
+        action="store_true",
+        help="Fail if Teams notification cannot be sent"
+    )
+    args = parser.parse_args()
+
     try:
-        collect_news()
+        collect_news(teams_required=args.teams_required)
     except Exception as e:
         logger.error(f"Unhandled exception in the main process: {str(e)}")
+        exit(1)

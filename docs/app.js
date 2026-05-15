@@ -112,10 +112,49 @@ function initApp() {
         });
 }
 
+function getCacheBustedUrl(path) {
+    return `${path}?v=${Date.now()}`;
+}
+
+function parseLocalDateString(dateString) {
+    if (!dateString || typeof dateString !== 'string') {
+        return new Date(0);
+    }
+
+    const match = dateString.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!match) {
+        return new Date(dateString);
+    }
+
+    const [, year, month, day] = match;
+    // Use local noon so the calendar day does not drift backward in US timezones.
+    return new Date(Number(year), Number(month) - 1, Number(day), 12, 0, 0);
+}
+
+function formatDisplayDate(dateString) {
+    const date = parseLocalDateString(dateString);
+    return date.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+}
+
+function getSortDate(item) {
+    if (item.published_at) {
+        const publishedAt = new Date(item.published_at);
+        if (!Number.isNaN(publishedAt.getTime())) {
+            return publishedAt;
+        }
+    }
+
+    return parseLocalDateString(item.date);
+}
+
 // Load news data from CSV
 function loadNewsData() {
     return new Promise((resolve, reject) => {
-        d3.csv('data/ai_news.csv')
+        d3.csv(getCacheBustedUrl('data/ai_news.csv'))
             .then(data => {
                 // Process and sort the data
                 const processedData = processNewsData(data);
@@ -131,18 +170,13 @@ function loadNewsData() {
 // Process and format the news data
 function processNewsData(data) {
     return data.map(item => {
-        // Format date
-        const date = new Date(item.date);
-        const formattedDate = date.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        });
+        const sortDate = getSortDate(item);
         
         return {
             ...item,
-            formattedDate: formattedDate,
-            date: date, // Store the actual date object for sorting
+            formattedDate: formatDisplayDate(item.date),
+            date: sortDate,
+            dateKey: item.date,
             category: item.category ? item.category.trim() : 'uncategorized'
         };
     }).sort((a, b) => b.date - a.date); // Sort by date (newest first)
@@ -441,7 +475,7 @@ function createTimelineChart(data) {
     // Group data by date
     const dateGroups = {};
     data.forEach(item => {
-        const dateStr = item.date.toISOString().split('T')[0];
+        const dateStr = item.dateKey;
         if (dateGroups[dateStr]) {
             dateGroups[dateStr]++;
         } else {
@@ -457,7 +491,7 @@ function createTimelineChart(data) {
     new Chart(timelineChart, {
         type: 'line',
         data: {
-            labels: sortedDates.map(date => new Date(date).toLocaleDateString()),
+            labels: sortedDates.map(date => formatDisplayDate(date)),
             datasets: [{
                 label: 'News Items',
                 data: counts,
@@ -563,7 +597,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Load and display the last update timestamp
 function loadLastUpdateTime() {
-    fetch('data/last_update.json')
+    fetch(getCacheBustedUrl('data/last_update.json'), { cache: 'no-store' })
         .then(response => {
             if (!response.ok) {
                 throw new Error('Could not load update timestamp');
@@ -571,32 +605,16 @@ function loadLastUpdateTime() {
             return response.json();
         })
         .then(data => {
-            // Format the timestamp in Central Time as 'Month Dayth Year @HH:MM CST/CDT'
             const timestamp = new Date(data.timestamp);
-            const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-            const month = months[timestamp.getMonth()];
-            const day = timestamp.getDate();
-            const year = timestamp.getFullYear();
-            // Get ordinal suffix
-            function ordinal(n) {
-                if (n > 3 && n < 21) return 'th';
-                switch (n % 10) {
-                    case 1: return 'st';
-                    case 2: return 'nd';
-                    case 3: return 'rd';
-                    default: return 'th';
-                }
-            }
-            // Format hour and minute
-            let hour = timestamp.getHours();
-            let minute = timestamp.getMinutes();
-            if (minute < 10) minute = '0' + minute;
-            // Get time zone abbreviation (CST/CDT)
-            const options = { timeZone: 'America/Chicago', timeZoneName: 'short' };
-            const tzString = timestamp.toLocaleTimeString('en-US', options);
-            const tzAbbr = tzString.match(/([A-Z]{2,4})$/) ? tzString.match(/([A-Z]{2,4})$/)[1] : '';
-            // Format as 'Month Dayth Year @HH:MM CST/CDT'
-            const formattedDate = `${month} ${day}${ordinal(day)} ${year} @${hour}:${minute} ${tzAbbr}`;
+            const formattedDate = timestamp.toLocaleString('en-US', {
+                timeZone: 'America/Chicago',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+                timeZoneName: 'short'
+            });
             // Update the last-updated-date element in the footer
             const lastUpdatedElement = document.getElementById('last-updated-date');
             if (lastUpdatedElement) {

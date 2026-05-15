@@ -101,6 +101,74 @@ To collect new AI news articles:
 python ai_news_collector.py
 ```
 
+To collect articles and require Teams notification:
+
+```powershell
+python ai_news_collector.py --teams-required
+```
+
+### Microsoft Teams Notifications
+
+The project supports sending notifications to Microsoft Teams channels when new articles are collected.
+
+#### Setup
+
+1. **Create a Teams Webhook:**
+   - In Microsoft Teams, go to the channel where you want notifications
+   - Click the `...` menu > **Connectors** > **Incoming Webhook**
+   - Give it a name (e.g., "AI News Daily") and click **Create**
+   - Copy the webhook URL
+
+2. **Configure the Webhook URL:**
+
+   For local testing, set the environment variable:
+   ```powershell
+   $env:TEAMS_WEBHOOK_URL = "https://your-organization.webhook.office.com/..."
+   $env:TEAMS_SITE_URL = "https://yourusername.github.io/AiNewsDaily/"
+   ```
+
+   For GitHub Actions, add secrets in your repository:
+   - Go to **Settings** > **Secrets and variables** > **Actions**
+   - Add `TEAMS_WEBHOOK_URL` with your webhook URL
+   - (Optional) Add `TEAMS_SITE_URL` with your GitHub Pages URL
+
+#### Testing Notifications
+
+**Sample notification (fake data):**
+```powershell
+python teams_notifications.py --sample
+```
+
+**Live notification (from existing CSV data):**
+```powershell
+python teams_notifications.py --live
+```
+
+**With fail-fast (error if delivery fails):**
+```powershell
+python teams_notifications.py --live --teams-required
+```
+
+#### GitHub Actions Workflows
+
+| Workflow | Trigger | Description |
+|----------|---------|-------------|
+| `daily-update.yml` | Scheduled (6 AM and 2 PM CST) | Collects news and sends Teams notification |
+| `test-teams-notification.yml` | Manual | Tests Teams notification (sample or live mode) |
+| `refresh-and-notify.yml` | Manual | Collects fresh news, sends notification, and commits |
+
+To run manual workflows:
+1. Go to **Actions** tab in your GitHub repository
+2. Select the workflow
+3. Click **Run workflow**
+4. Choose options and run
+
+#### Behavior
+
+- **No webhook configured:** Notifications are skipped silently during normal runs
+- **`--teams-required` flag:** The run fails if notification cannot be sent
+- **Card format:** Shows 3 featured articles with clickable titles and metadata
+
 ### Testing GitHub Pages Configuration
 
 To check if GitHub Pages is correctly configured to use index.html:

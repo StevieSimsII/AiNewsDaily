@@ -2,8 +2,9 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # Run every day at 14:00 UTC (8:00 AM CST)
-    - cron: '0 14 * * *'
+    # Fixed CST schedule in UTC: 6:00 AM CST and 2:00 PM CST.
+    - cron: '0 12 * * *'
+    - cron: '0 20 * * *'
   # Allow manual trigger of the workflow
   workflow_dispatch:
 
@@ -28,6 +29,9 @@ jobs:
           pip install requests feedparser beautifulsoup4 pathlib
       
       - name: Run AI News Collector
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          TEAMS_SITE_URL: ${{ secrets.TEAMS_SITE_URL }}
         run: |
           python ai_news_collector.py
       
