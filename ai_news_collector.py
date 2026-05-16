@@ -313,28 +313,34 @@ def save_article_id(article_id):
 
 def parse_date(date_str):
     """Convert various date formats to datetime objects for sorting."""
+    parsed_date = None
     try:
         # Try to parse ISO format (YYYY-MM-DD)
-        return datetime.datetime.strptime(date_str, "%Y-%m-%d")
+        parsed_date = datetime.datetime.strptime(date_str, "%Y-%m-%d")
     except ValueError:
         try:
             # Try to parse MM/DD/YYYY format
-            return datetime.datetime.strptime(date_str, "%m/%d/%Y")
+            parsed_date = datetime.datetime.strptime(date_str, "%m/%d/%Y")
         except ValueError:
             try:
                 # Try one more common format
-                return datetime.datetime.strptime(date_str, "%d-%m-%Y")
+                parsed_date = datetime.datetime.strptime(date_str, "%d-%m-%Y")
             except ValueError:
                 # If all parsing fails, return a very old date to sort at the bottom
                 logger.warning(f"Could not parse date format: {date_str}")
-                return datetime.datetime(1900, 1, 1)
+                parsed_date = datetime.datetime(1900, 1, 1)
+
+    return parsed_date.replace(tzinfo=datetime.timezone.utc)
 
 def parse_sort_timestamp(article):
     """Prefer full publish timestamps when available, otherwise fall back to article date."""
     published_at = article.get('published_at', '')
     if published_at:
         try:
-            return datetime.datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            parsed_timestamp = datetime.datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            if parsed_timestamp.tzinfo is None:
+                return parsed_timestamp.replace(tzinfo=datetime.timezone.utc)
+            return parsed_timestamp.astimezone(datetime.timezone.utc)
         except ValueError:
             logger.warning(f"Could not parse published_at timestamp: {published_at}")
 
