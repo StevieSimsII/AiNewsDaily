@@ -4469,3 +4469,8 @@ https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
 https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys
 https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/
+https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats
+https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement
+https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
+https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/
+https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/
