@@ -4474,3 +4474,5 @@ https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona
 https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/
 https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/
 https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/
+https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/
+https://www.forrester.com/blogs/celonis-buys-igikai-labs-to-provide-the-context-engine-for-enterprise-wide-ai-adoption/
