@@ -4561,3 +4561,7 @@ https://www.zdnet.com/article/96-of-it-pros-use-ai-now-their-top-7-agentic-appli
 https://www.forrester.com/blogs/announcing-the-forrester-wave-workforce-identity-platforms-q2-2026/
 https://www.forrester.com/blogs/findings-from-the-forrester-wave-document-mining-and-analytics-platforms-q2-2026/
 https://www.forrester.com/blogs/stripe-sessions-2026-stripe-is-re-architecting-payments-for-an-agentic-ai-economy/
+https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/
+https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/
+https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/
+https://www.forrester.com/blogs/agentic-ai-enters-its-enterprise-execution-era/
