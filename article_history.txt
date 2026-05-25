@@ -4581,3 +4581,6 @@ https://www.forrester.com/blogs/stripe-sessions-2026-stripe-is-rearchitecting-pa
 https://www.theverge.com/column/935545/hackers-ai-chatbots
 https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/
 https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
+https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
+https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/
+https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/
