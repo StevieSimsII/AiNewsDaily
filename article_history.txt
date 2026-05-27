@@ -4607,3 +4607,15 @@ https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks
 https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/
 https://www.zdnet.com/article/eye-doctor-ai-prescription/
 https://www.forrester.com/blogs/freshworks-signals-a-more-practical-future-for-ai-service-management/
+https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12
+https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading
+https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
+https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/
+https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/
+https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/
+https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
+https://www.zdnet.com/article/easy-way-to-exclude-ai-from-search-results-in-every-browser/
+https://www.zdnet.com/article/heres-why-the-government-wants-to-spend-9-billion-on-ai-superchips/
+https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/
+https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/
+https://www.forrester.com/blogs/announcing-the-forrester-wave-governance-risk-and-compliance-platforms-q2-2026/
