@@ -4651,3 +4651,13 @@ https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/
 https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
 https://www.zdnet.com/article/ai-model-release-tracker/
 https://www.zdnet.com/article/perplexity-launches-bumblebee-how-its-new-read-only-dev-scanner-differs-from-chainguard/
+https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data
+https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/
+https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
+https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/
+https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
+https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/
+https://www.forrester.com/blogs/leading-with-intention-what-women-leaders-told-us-about-ai-and-the-future-of-work/
+https://www.forrester.com/blogs/redesign-b2b2c-digital-strategy-for-the-ai-era/
