@@ -4661,3 +4661,6 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-o
 https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/
 https://www.forrester.com/blogs/leading-with-intention-what-women-leaders-told-us-about-ai-and-the-future-of-work/
 https://www.forrester.com/blogs/redesign-b2b2c-digital-strategy-for-the-ai-era/
+https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/
+https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
+https://www.zdnet.com/article/google-search-alternatives-no-ai/
