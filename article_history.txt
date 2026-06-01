@@ -4673,3 +4673,12 @@ https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/
 https://www.forrester.com/blogs/the-forrester-landscape-appgen-and-low-code-platforms-q2-2026-is-out/
 https://www.forrester.com/blogs/what-anthropics-two-recent-announcements-mean-for-manufacturers/
 https://www.forrester.com/blogs/agentic-ai-in-insurance-stop-chasing-autonomous-agents-start-engineering-trust/
+https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
+https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked
+https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public
+https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect
+https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason
+https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/
+https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/
+https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/
+https://www.forrester.com/blogs/miros-big-bet-can-a-whiteboard-company-become-the-ai-decisioning-layer-for-the-enterprise/
