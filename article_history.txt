@@ -4670,3 +4670,6 @@ https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
 https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/
 https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape
 https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/
+https://www.forrester.com/blogs/the-forrester-landscape-appgen-and-low-code-platforms-q2-2026-is-out/
+https://www.forrester.com/blogs/what-anthropics-two-recent-announcements-mean-for-manufacturers/
+https://www.forrester.com/blogs/agentic-ai-in-insurance-stop-chasing-autonomous-agents-start-engineering-trust/
