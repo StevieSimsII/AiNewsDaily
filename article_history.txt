@@ -4682,3 +4682,13 @@ https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its
 https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/
 https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/
 https://www.forrester.com/blogs/miros-big-bet-can-a-whiteboard-company-become-the-ai-decisioning-layer-for-the-enterprise/
+https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/
+https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/
+https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
+https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning
+https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/
+https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
+https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/
+https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/
+https://www.zdnet.com/article/claude-opus-4-8-honesty-test/
+https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/
