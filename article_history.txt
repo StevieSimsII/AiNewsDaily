@@ -4708,3 +4708,10 @@ https://www.zdnet.com/article/work-iq-is-microsofts-big-bet-on-agent-first-enter
 https://www.zdnet.com/article/ubuntu-26-04-is-os-for-ai-agentic-era-says-canonical-mark-shuttleworth-why/
 https://www.forrester.com/blogs/build-meaning-before-machines-why-semantics-ontologies-and-knowledge-graphs-matter-for-agentic-ai/
 https://www.forrester.com/blogs/red-hat-summit-2026-can-red-hat-win-its-claim-as-the-hybrid-ai-control-plane/
+https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/
+https://www.theverge.com/policy/942296/google-water-commitments-data-centers
+https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out
+https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
+https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603
+https://www.zdnet.com/article/how-ai-agents-are-transforming-customer-service/
+https://www.forrester.com/blogs/ai-is-forging-a-new-revops-identity/
