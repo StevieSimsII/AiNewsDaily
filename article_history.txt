@@ -4715,3 +4715,17 @@ https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-mon
 https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603
 https://www.zdnet.com/article/how-ai-agents-are-transforming-customer-service/
 https://www.forrester.com/blogs/ai-is-forging-a-new-revops-identity/
+https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise
+https://www.theverge.com/tech/942547/amazon-search-bar-ai-images
+https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition
+https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
+https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/
+https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/
+https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/
+https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/
+https://www.zdnet.com/article/ai-is-causing-cognitive-fatigue-heres-how-to-work-with-more-haste-and-less-speed/
+https://www.zdnet.com/article/microsoft-copilot-health-medical-issues/
+https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/
+https://www.forrester.com/blogs/the-state-of-agentic-ai-in-2026-companies-are-chasing-few-are-catching/
+https://www.forrester.com/blogs/microsoft-build-2026-pushing-the-frontier-with-a-more-opinionated-ai-playbook/
+https://www.forrester.com/blogs/anthropics-proposed-ipo-will-change-the-economics-of-enterprise-ai/
