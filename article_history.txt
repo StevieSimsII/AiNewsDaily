@@ -4729,3 +4729,8 @@ https://www.zdnet.com/article/microsoft-365-premium-copilot-agents-hands-on/
 https://www.forrester.com/blogs/the-state-of-agentic-ai-in-2026-companies-are-chasing-few-are-catching/
 https://www.forrester.com/blogs/microsoft-build-2026-pushing-the-frontier-with-a-more-opinionated-ai-playbook/
 https://www.forrester.com/blogs/anthropics-proposed-ipo-will-change-the-economics-of-enterprise-ai/
+https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok
+https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress
+https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/
+https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603
+https://www.zdnet.com/article/how-to-use-chatgpt-ai-chatbot-beginners-guide/
