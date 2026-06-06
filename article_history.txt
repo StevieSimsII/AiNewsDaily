@@ -4756,3 +4756,4 @@ https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
 https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
 https://www.zdnet.com/article/using-chatgpt-to-build-free-pdf-editor-python-tool/
 https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/
+https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
