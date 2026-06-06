@@ -4757,3 +4757,6 @@ https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
 https://www.zdnet.com/article/using-chatgpt-to-build-free-pdf-editor-python-tool/
 https://www.zdnet.com/article/google-could-turn-siri-into-ai-health-coach-for-my-apple-watch/
 https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles
+https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
+https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
