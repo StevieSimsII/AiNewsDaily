@@ -4810,3 +4810,10 @@ https://www.zdnet.com/article/us-workers-are-worlds-biggest-ai-skeptics/
 https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/
 https://www.zdnet.com/article/ai-can-identify-intimate-partner-violence-ipv-before-disclosure/
 https://www.forrester.com/blogs/reimagining-client-experience-through-ai-powered-product-innovation/
+https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc
+https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion
+https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/
+https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/
+https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/
+https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+https://www.forrester.com/blogs/build-the-human-foundations-before-you-scale-ai/
