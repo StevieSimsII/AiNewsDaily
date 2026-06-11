@@ -4832,3 +4832,9 @@ https://www.zdnet.com/article/hermes-ollama-hands-on-desktop-ai-tool/
 https://www.forrester.com/blogs/how-fable-5-and-mythos-5-change-ai-security-data-retention-and-vendor-risk/
 https://www.forrester.com/blogs/announcing-forresters-top-cybersecurity-threats-for-2026/
 https://www.forrester.com/blogs/your-ai-bill-is-a-context-problem/
+https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
+https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple
+https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/
+https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/
+https://www.forrester.com/blogs/openais-proposed-ipo-opens-a-trifecta-of-opportunities-for-them-but-dont-lock-in-just-yet/
