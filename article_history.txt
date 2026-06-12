@@ -4849,3 +4849,8 @@ https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-
 https://www.zdnet.com/article/treat-your-ai-agents-like-interns-before-you-lose-control/
 https://www.forrester.com/blogs/conways-law-your-operating-model-matters-more-than-the-ai-model/
 https://www.forrester.com/blogs/healthcare-and-life-sciences-turning-ai-momentum-into-lasting-value/
+https://www.theverge.com/business/948996/spacex-ipo-elon-musk
+https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer
+https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/
+https://www.zdnet.com/article/claude-fable-5-secretly-throttled/
+https://www.zdnet.com/article/enterprises-scrapping-ai-agents-how-to-ensure-yours-dont-fail/
