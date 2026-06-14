@@ -4861,3 +4861,5 @@ https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gu
 https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work/
 https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing
 https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/
+https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/
+https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/
