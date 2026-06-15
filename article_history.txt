@@ -4870,3 +4870,12 @@ https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/
 https://www.zdnet.com/article/windows-subsystem-for-linux-3-for-developers-sticking-with-microsoft/
 https://www.zdnet.com/article/why-anthropic-suddenly-pulled-fable-5-and-mythos-5-for-everyone/
 https://www.zdnet.com/article/chatgpt-build-better-pdf-editor-python/
+https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
+https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
+https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai
+https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress
+https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
+https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/
+https://www.zdnet.com/article/how-to-use-ai-to-help-with-linux-system-management/
+https://www.forrester.com/blogs/consumers-arent-ready-to-delegate-payments-to-ai-agents/
+https://www.forrester.com/blogs/secure-the-future-of-internet-traffic-as-agents-take-over/
