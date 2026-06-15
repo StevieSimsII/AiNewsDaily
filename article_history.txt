@@ -4864,3 +4864,9 @@ https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorney
 https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/
 https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/
 https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/
+https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
+https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
+https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/
+https://www.zdnet.com/article/windows-subsystem-for-linux-3-for-developers-sticking-with-microsoft/
+https://www.zdnet.com/article/why-anthropic-suddenly-pulled-fable-5-and-mythos-5-for-everyone/
+https://www.zdnet.com/article/chatgpt-build-better-pdf-editor-python/
