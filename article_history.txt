@@ -4905,3 +4905,13 @@ https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
 https://www.zdnet.com/article/new-siri-ai-apple-intelligence-test-on-mac/
 https://www.forrester.com/blogs/what-separates-scalable-ai-driven-innovation-from-promising-experiments/
 https://www.forrester.com/blogs/ai-agents-are-your-new-customer-but-can-you-target-and-grow-their-trust-in-your-brand/
+https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
+https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
+https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
+https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on
+https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
+https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
+https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/
+https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
+https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
+https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
