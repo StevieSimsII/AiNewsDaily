@@ -4915,3 +4915,12 @@ https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the
 https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
 https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
+https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
+https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update
+https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
+https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
+https://www.zdnet.com/article/ai-agents-are-getting-their-own-search-engine/
+https://www.zdnet.com/article/chatgpts-new-memory-upgrade-can-also-worsen-answers/
+https://www.forrester.com/blogs/ai-agents-need-real-time-context-data-streaming-is-how-you-are-going-to-get-it/
+https://www.forrester.com/blogs/tackle-enterprise-ais-hardest-question-at-forresters-ai-forums/
+https://www.forrester.com/blogs/building-the-human-foundation-for-ai-at-cx-forum-east/
