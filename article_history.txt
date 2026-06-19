@@ -4941,3 +4941,5 @@ https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deduct
 https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
 https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
 https://www.forrester.com/blogs/when-algorithms-and-llms-become-sellers-your-commerce-strategy-must-change/
+https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
