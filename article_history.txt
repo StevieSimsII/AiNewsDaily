@@ -4933,3 +4933,11 @@ https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke
 https://www.zdnet.com/article/rolling-out-ai-agents-move-fast-and-furious-but-with-extreme-caution/
 https://www.zdnet.com/article/google-home-speaker-vs-amazon-echo-dot-max/
 https://www.forrester.com/blogs/google-goes-all-in-on-ai/
+https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
+https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
+https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
+https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
+https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
+https://www.forrester.com/blogs/when-algorithms-and-llms-become-sellers-your-commerce-strategy-must-change/
