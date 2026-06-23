@@ -4959,3 +4959,9 @@ https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an
 https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/
 https://www.forrester.com/blogs/the-canary-in-the-cdp-mine-databricks-customerlake-is-the-litmus-test-for-agentic-marketing/
 https://www.forrester.com/blogs/ai-forces-a-redesign-of-how-marketing-and-agencies-work/
+https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/
+https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
+https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
+https://www.zdnet.com/article/google-gmail-gemini-flows-filter-fix/
+https://www.forrester.com/blogs/the-ai-orchestration-layer-in-banking-is-the-new-battleground/
