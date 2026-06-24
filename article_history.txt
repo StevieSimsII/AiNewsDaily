@@ -4981,3 +4981,13 @@ https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623
 https://www.zdnet.com/article/ai-engineers-versus-forward-deployed-engineers-a-tale-of-two-career-paths/
 https://www.forrester.com/blogs/dont-just-hear-about-the-it-singularity-work-through-it-at-our-austin-tech-forum/
 https://www.forrester.com/blogs/the-cost-of-ai-productivity-is-less-creativity/
+https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
+https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
+https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
+https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
+https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
+https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/
+https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/
+https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+https://www.zdnet.com/article/agentic-ai-in-customer-service/
+https://www.forrester.com/blogs/ai-is-moving-fast-but-trust-is-struggling-to-keep-up-why-security-and-risk-leaders-cant-miss-forresters-ai-forum/
