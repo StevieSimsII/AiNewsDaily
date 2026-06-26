@@ -5010,3 +5010,6 @@ https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-a
 https://www.forrester.com/blogs/identiverse-2026-recap-identity-security-for-agentic-ai-dominates/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-on-extended-detection-and-response-platforms-platformization-ai-and-ai/
 https://www.forrester.com/blogs/answer-engines-will-select-your-content-your-digital-experience-has-to-do-more/
+https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
+https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
+https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
