@@ -5013,3 +5013,12 @@ https://www.forrester.com/blogs/answer-engines-will-select-your-content-your-dig
 https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
 https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
 https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
+https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
+https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/
+https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
+https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/
+https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/
+https://news.mit.edu/2026/david-autor-named-head-department-economics-0626
+https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
+https://www.forrester.com/blogs/why-your-ai-strategy-needs-a-dexm-solution-lessons-from-nexthink-masters-of-experience/
