@@ -5028,3 +5028,4 @@ https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
 https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
 https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
 https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/
