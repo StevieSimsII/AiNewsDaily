@@ -5036,3 +5036,15 @@ https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-my
 https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
 https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/
 https://www.zdnet.com/article/want-big-tech-job-startups-may-be-best-shot-why/
+https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
+https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/
+https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
+https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
+https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
+https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
+https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/
+https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/
+https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/
+https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
+https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629
+https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/
