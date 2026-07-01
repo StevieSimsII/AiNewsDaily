@@ -5079,3 +5079,15 @@ https://www.zdnet.com/article/massive-wordpress-spam-attack-stopped-with-codex-a
 https://www.forrester.com/blogs/three-parting-lessons-from-forresters-june-cx-events/
 https://www.forrester.com/blogs/the-cios-responsibilities-for-ai-transformation-burst-the-boundaries-of-it/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-it-financial-management-software-q2-2026-turn-insight-into-decisive-action/
+https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
+https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
+https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/
+https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
+https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
+https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
+https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/
+https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/
+https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/
+https://www.forrester.com/blogs/aeo-changes-what-content-is-worth-creating/
