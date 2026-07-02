@@ -5091,3 +5091,7 @@ https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-h
 https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/
 https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/
 https://www.forrester.com/blogs/aeo-changes-what-content-is-worth-creating/
+https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
+https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
+https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
+https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
