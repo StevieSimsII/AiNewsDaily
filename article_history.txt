@@ -5095,3 +5095,12 @@ https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-l
 https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
 https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
 https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
+https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
+https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/
+https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
+https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
+https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
+https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+https://www.zdnet.com/article/how-to-set-openai-api-spend-usage-limits/
+https://www.forrester.com/blogs/thinking-of-vibe-coding-your-clm-consider-these-5-trade-offs-first/
