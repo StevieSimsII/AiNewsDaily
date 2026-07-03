@@ -5108,3 +5108,5 @@ https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-wor
 https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
 https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
 https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/
+https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
+https://www.forrester.com/blogs/the-rise-of-the-claude-cowboy-in-revops/
