@@ -5111,3 +5111,7 @@ https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-recor
 https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
 https://www.forrester.com/blogs/the-rise-of-the-claude-cowboy-in-revops/
 https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
+https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
+https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
+https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
