@@ -5110,3 +5110,4 @@ https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-hav
 https://www.zdnet.com/article/anthropic-fable-5-freelance-work-performance-record/
 https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
 https://www.forrester.com/blogs/the-rise-of-the-claude-cowboy-in-revops/
+https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
