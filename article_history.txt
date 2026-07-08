@@ -5147,3 +5147,11 @@ https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/
 https://www.zdnet.com/article/jadepuffer-fully-agentic-ransomware-attack-researchers-nightmares/
 https://www.forrester.com/blogs/databricks-unleashes-the-genie-the-power-of-the-four-cs/
 https://www.forrester.com/blogs/thinking-of-vibe-coding-your-clm-consider-these-five-trade-offs-first/
+https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
+https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
+https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
+https://www.forrester.com/blogs/five-ways-to-build-alignment-faster-as-a-team-at-technology-innovation-forum-east/
+https://www.forrester.com/blogs/five-ways-to-build-alignment-faster-as-a-team-at-technology-innovation-forum-central/
+https://www.forrester.com/blogs/ai-will-redefine-b2b-marketing-models-get-ahead-of-the-shift-at-ai-forum-singapore/
+https://www.forrester.com/blogs/hpe-discover-2026-the-juniper-effect-comes-into-focus/
