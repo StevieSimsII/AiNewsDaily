@@ -5182,3 +5182,12 @@ https://www.zdnet.com/article/meta-muse-ai-feature-instagram-posts-opting-out/
 https://www.zdnet.com/article/high-intensity-adopters-of-ai-hiring-more-entry-level/
 https://www.forrester.com/blogs/european-marketers-are-playing-it-safe-with-ai-thats-the-problem/
 https://www.forrester.com/blogs/will-enterprises-ever-choose-spacexs-grok-and-cursor/
+https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
+https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
+https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
+https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
+https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/
+https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
+https://www.forrester.com/blogs/which-ai-consulting-service-provider-is-best-for-you/
