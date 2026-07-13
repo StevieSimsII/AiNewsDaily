@@ -5212,3 +5212,9 @@ https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
 https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
 https://www.zdnet.com/article/openai-gutted-chatgpt-desktop-app-for-codex-work/
 https://www.forrester.com/blogs/the-agentic-age-needs-a-cognitive-operating-model/
+https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
+https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
+https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/
+https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
+https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
+https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
