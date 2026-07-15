@@ -5250,3 +5250,16 @@ https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/
 https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
 https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714
 https://www.forrester.com/blogs/budget-planning-guides-2027/
+https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
+https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
+https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
+https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
+https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/
+https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/
+https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
+https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/
+https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/
+https://www.zdnet.com/article/73-of-tech-job-listings-require-ai-skills-show-off-yours/
+https://www.zdnet.com/article/chatgpt-work-claude-cowork/
+https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/
+https://www.forrester.com/blogs/agentic-ai-runs-on-integration-not-data-lakes/
