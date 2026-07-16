@@ -5263,3 +5263,15 @@ https://www.zdnet.com/article/73-of-tech-job-listings-require-ai-skills-show-off
 https://www.zdnet.com/article/chatgpt-work-claude-cowork/
 https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/
 https://www.forrester.com/blogs/agentic-ai-runs-on-integration-not-data-lakes/
+https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
+https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
+https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
+https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/
+https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/
+https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
+https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715
+https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
+https://www.zdnet.com/article/linus-torvalds-puts-his-foot-down-tells-anti-ai-programmers-to-fork-it/
+https://www.forrester.com/blogs/ai-is-reshaping-b2b-brand-and-communications-investments/
+https://www.forrester.com/blogs/as-ai-use-expands-b2b-marketers-become-more-selective-about-agency-spend/
