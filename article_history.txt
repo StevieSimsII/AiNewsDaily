@@ -5315,3 +5315,10 @@ https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
 https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
 https://www.zdnet.com/article/top-ai-fear-tech-survey/
 https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-providers-will-survive-ai/
+https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
+https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
+https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
+https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/
+https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
+https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/
+https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/
