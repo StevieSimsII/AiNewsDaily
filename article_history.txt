@@ -5349,3 +5349,16 @@ https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyo
 https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/
 https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/
 https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/
+https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
+https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
+https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
+https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
+https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
+https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/
+https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722
+https://www.zdnet.com/article/perplexity-personal-computer-agentic-ai-complex-tasks-mac/
+https://www.zdnet.com/article/samsung-unpacked-gemini-ai-google-intelligence-integration/
+https://www.zdnet.com/article/so-long-saas-hello-services-as-software/
+https://www.forrester.com/blogs/the-results-are-in-for-the-first-forrester-wave-on-both-b2b-and-b2c-commerce-solutions/
+https://www.forrester.com/blogs/an-ai-security-facepalm-openais-evaluation-became-hugging-faces-incident/
+https://www.forrester.com/blogs/the-agentic-ai-race-why-the-tortoise-may-beat-the-hare/
