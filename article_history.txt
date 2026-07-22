@@ -5340,3 +5340,12 @@ https://www.zdnet.com/article/flock-ai-cameras-risks-us-how-to-find-nearby-what-
 https://www.zdnet.com/article/ios-26-siri-vs-ios-27-siri-ai-apple-car-iphone-assistant/
 https://www.forrester.com/blogs/cios-use-rate-variance-analysis-to-get-to-the-bottom-of-runaway-token-spend/
 https://www.forrester.com/blogs/banking-payments-architecture-real-time-rails-ai-and-commercial-trends/
+https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
+https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
+https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
+https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
+https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/
+https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/
+https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/
+https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/
+https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/
