@@ -5368,3 +5368,16 @@ https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isn
 https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
 https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/
 https://www.forrester.com/blogs/five-key-findings-from-the-forrester-wave-workday-services-q2-2026/
+https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
+https://www.theverge.com/tech/970211/patreon-layoffs-ai
+https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims
+https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
+https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive
+https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
+https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/
+https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
+https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/
+https://www.zdnet.com/article/ai-image-fraud-new-global-standards/
+https://www.zdnet.com/article/openai-hugging-face-attack-agent/
+https://www.forrester.com/blogs/five-lessons-from-the-forrester-wave-conversational-ai-platforms-for-employee-services-q3-2026/
