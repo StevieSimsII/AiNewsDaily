@@ -5381,3 +5381,7 @@ https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-so
 https://www.zdnet.com/article/ai-image-fraud-new-global-standards/
 https://www.zdnet.com/article/openai-hugging-face-attack-agent/
 https://www.forrester.com/blogs/five-lessons-from-the-forrester-wave-conversational-ai-platforms-for-employee-services-q3-2026/
+https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
+https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/
+https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
+https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/
