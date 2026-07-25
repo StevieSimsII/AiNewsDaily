@@ -5398,3 +5398,4 @@ https://www.zdnet.com/article/types-of-people-who-will-excel-in-ai-agent-era-acc
 https://www.forrester.com/blogs/the-content-bottleneck-has-shifted-why-enterprise-ai-isnt-enough/
 https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
 https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
+https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
