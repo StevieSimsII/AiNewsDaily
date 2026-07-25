@@ -5396,3 +5396,5 @@ https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spo
 https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/
 https://www.zdnet.com/article/types-of-people-who-will-excel-in-ai-agent-era-according-to-tech-leaders/
 https://www.forrester.com/blogs/the-content-bottleneck-has-shifted-why-enterprise-ai-isnt-enough/
+https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
+https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
