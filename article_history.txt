@@ -5400,3 +5400,5 @@ https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-b
 https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
 https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
 https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
+https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
