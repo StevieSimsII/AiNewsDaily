@@ -5408,3 +5408,16 @@ https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai
 https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
 https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/
 https://www.forrester.com/blogs/in-the-age-of-ai-trust-is-a-competitive-differentiator/
+https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
+https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
+https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/
+https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
+https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
+https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
+https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/
+https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/
+https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/
+https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/
+https://www.forrester.com/blogs/look-up-your-ai-voyage-depends-on-it/
+https://www.forrester.com/blogs/the-architecture-and-delivery-leaders-guide-to-technology-innovation-forum-central/
