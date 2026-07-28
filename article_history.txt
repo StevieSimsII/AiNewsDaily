@@ -5424,3 +5424,14 @@ https://www.forrester.com/blogs/the-architecture-and-delivery-leaders-guide-to-t
 https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
 https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
 https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
+https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
+https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
+https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index
+https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children
+https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
+https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
+https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
+https://www.zdnet.com/article/remap-copilot-key/
+https://www.zdnet.com/article/apples-ios-26-6-siri-ai/
+https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/
