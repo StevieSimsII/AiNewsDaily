@@ -5421,3 +5421,6 @@ https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/
 https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/
 https://www.forrester.com/blogs/look-up-your-ai-voyage-depends-on-it/
 https://www.forrester.com/blogs/the-architecture-and-delivery-leaders-guide-to-technology-innovation-forum-central/
+https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
+https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
