@@ -5446,3 +5446,15 @@ https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagu
 https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-the-present-is-surprisingly-practical/
 https://www.forrester.com/blogs/farnborough-airshow-autonomy-ai-and-some-planes/
 https://www.forrester.com/blogs/ai-is-redefining-bpo-trends-re-shaping-the-industry/
+https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview
+https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/
+https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/
+https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
+https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
+https://www.zdnet.com/article/open-weight-ai-civil-war/
+https://www.zdnet.com/article/remap-windows-copilot-key/
+https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/
+https://www.forrester.com/blogs/sovereign-ai-is-about-control-not-localization/
+https://www.forrester.com/blogs/how-to-maximize-value-and-minimize-risks-of-ai-assistants-in-commerce-software/
+https://www.forrester.com/blogs/architect-for-evolution-not-perfection-in-agentic-ai/
+https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-but-the-present-is-surprisingly-practical/
