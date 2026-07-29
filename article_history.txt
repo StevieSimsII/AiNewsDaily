@@ -5435,3 +5435,14 @@ https://blog.google/products-and-platforms/products/search/ai-mode-real-world-ti
 https://www.zdnet.com/article/remap-copilot-key/
 https://www.zdnet.com/article/apples-ios-26-6-siri-ai/
 https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/
+https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
+https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
+https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic
+https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face
+https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
+https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
+https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
+https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/
+https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-the-present-is-surprisingly-practical/
+https://www.forrester.com/blogs/farnborough-airshow-autonomy-ai-and-some-planes/
+https://www.forrester.com/blogs/ai-is-redefining-bpo-trends-re-shaping-the-industry/
