@@ -5458,3 +5458,15 @@ https://www.forrester.com/blogs/sovereign-ai-is-about-control-not-localization/
 https://www.forrester.com/blogs/how-to-maximize-value-and-minimize-risks-of-ai-assistants-in-commerce-software/
 https://www.forrester.com/blogs/architect-for-evolution-not-perfection-in-agentic-ai/
 https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-but-the-present-is-surprisingly-practical/
+https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
+https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed
+https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents
+https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit
+https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
+https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
+https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
+https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
+https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/
+https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/
+https://www.forrester.com/blogs/ai-agents-are-driving-measurable-value-to-crm-operations/
+https://www.forrester.com/blogs/ai-is-accelerating-the-great-gtm-reset-for-partner-ecosystems/
