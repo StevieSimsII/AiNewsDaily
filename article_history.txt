@@ -5505,3 +5505,5 @@ https://www.zdnet.com/article/thought-leadership-cultivate-and-align-ai-slop-is-
 https://www.forrester.com/blogs/what-optimizely-customer-zero-teaches-about-agentic-ai-governance/
 https://www.forrester.com/blogs/how-adobe-adapted-to-chatgpt-and-gemini-reshaping-b2b-buying/
 https://www.forrester.com/blogs/openai-makes-hardware-passkeys-mandatory-for-its-highest-end-cyber-model/
+https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
+https://www.zdnet.com/article/ai-in-formula-one-competitive-advantage-is-all-about-the-human-in-the-loop/
