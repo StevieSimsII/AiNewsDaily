@@ -5534,3 +5534,15 @@ https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-ca
 https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804
 https://www.zdnet.com/article/best-hisense-tv/
 https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/
+https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
+https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing
+https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy
+https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/
+https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
+https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/
+https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
+https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
+https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
+https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
+https://www.forrester.com/blogs/amds-ai-strategy-is-shifting-from-chips-to-systems/
+https://www.forrester.com/blogs/introducing-frontier-ai-model-platforms-because-an-ai-model-is-not-a-business-model/
