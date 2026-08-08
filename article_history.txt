@@ -5600,3 +5600,4 @@ https://www.forrester.com/blogs/four-ai-escapes-just-redefined-responsible-ai/
 https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
 https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
 https://www.forrester.com/blogs/snowflake-summit-2026-the-race-has-shifted-from-building-ai-to-operating-it/
+https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
