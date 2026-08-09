@@ -5602,3 +5602,5 @@ https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-i
 https://www.forrester.com/blogs/snowflake-summit-2026-the-race-has-shifted-from-building-ai-to-operating-it/
 https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
 https://www.theverge.com/column/976690/ai-writing-detectors-suspicion
+https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
+https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
