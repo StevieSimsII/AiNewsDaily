@@ -5624,3 +5624,15 @@ https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employ
 https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
 https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
 https://www.forrester.com/blogs/the-forrester-wave-ai-platforms-q3-2026-is-live-prepare-to-recalibrate/
+https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
+https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users
+https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure
+https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack
+https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations
+https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images
+https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
+https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/
+https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
+https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/
+https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
+https://www.zdnet.com/article/microsoft-word-1-1a-windows/
