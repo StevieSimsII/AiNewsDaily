@@ -5636,3 +5636,7 @@ https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month
 https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/
 https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
 https://www.zdnet.com/article/microsoft-word-1-1a-windows/
+https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive
+https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/
+https://www.zdnet.com/article/why-software-factories-are-back-ai/
+https://www.zdnet.com/article/how-to-make-generate-ai-flyer-tips-prompts-that-work/
