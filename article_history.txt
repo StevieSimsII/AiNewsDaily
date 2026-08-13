@@ -5654,3 +5654,8 @@ https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avo
 https://www.forrester.com/blogs/the-no-regrets-ai-investment-agenda/
 https://www.forrester.com/blogs/anthropics-pricing-shift-puts-ai-consumption-risk-back-on-customers/
 https://www.forrester.com/blogs/introducing-aegis-the-guardrails-that-cisos-need-for-the-agentic-enterprise/
+https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/
+https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
+https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/
+https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/
+https://www.forrester.com/blogs/bringing-crypto-agility-and-pqc-visibility-to-the-network-with-nav/
