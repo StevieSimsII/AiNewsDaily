@@ -5674,3 +5674,9 @@ https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing
 https://www.forrester.com/blogs/the-forrester-customer-iam-ciam-landscape-is-live/
 https://www.forrester.com/blogs/ibm-validates-openais-push-pull-partner-enterprise-strategy/
 https://www.forrester.com/blogs/ai-is-cool-but-what-if-you-are-still-relying-on-access-databases/
+https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba
+https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/
+https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/
+https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/
+https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/
+https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/
