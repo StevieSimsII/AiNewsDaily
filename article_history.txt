@@ -5687,3 +5687,6 @@ https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-ga
 https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/
 https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/
 https://www.zdnet.com/article/chatgpt-computer-history/
+https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
+https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
+https://www.forrester.com/blogs/the-customer-identity-and-access-management-solutions-landscape-q3-2026-is-live/
