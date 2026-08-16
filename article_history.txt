@@ -5693,3 +5693,5 @@ https://www.forrester.com/blogs/the-customer-identity-and-access-management-solu
 https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
 https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
 https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
+https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
+https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
