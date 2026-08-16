@@ -5690,3 +5690,6 @@ https://www.zdnet.com/article/chatgpt-computer-history/
 https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
 https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
 https://www.forrester.com/blogs/the-customer-identity-and-access-management-solutions-landscape-q3-2026-is-live/
+https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
+https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
+https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
