@@ -5701,3 +5701,11 @@ https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-star
 https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
 https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/
 https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/
+https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/
+https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
+https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
+https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/
+https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/
+https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/
+https://www.forrester.com/blogs/content-alone-wont-close-your-ai-skills-gap/
+https://www.forrester.com/blogs/meet-digital-experience-techs-new-interface-agentic-ai-systems-of-action/
