@@ -5709,3 +5709,6 @@ https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/
 https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/
 https://www.forrester.com/blogs/content-alone-wont-close-your-ai-skills-gap/
 https://www.forrester.com/blogs/meet-digital-experience-techs-new-interface-agentic-ai-systems-of-action/
+https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/
+https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/
+https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
