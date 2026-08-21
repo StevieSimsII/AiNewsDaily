@@ -5763,3 +5763,10 @@ https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-r
 https://www.zdnet.com/article/why-replacing-staff-with-ai-backfires-and-how-smart-leaders-generate-real-value-instead/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-for-microsegmentation-solutions-q3-2026-not-your-parents-access-control-solution/
 https://www.forrester.com/blogs/chasing-ai-wont-save-you-from-ignoring-endpoint-security/
+https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/
+https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
+https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/
+https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/
+https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/
+https://www.zdnet.com/article/ai-deepfakes-passwords-defense/
+https://www.forrester.com/blogs/the-next-evolution-of-ai-will-rely-on-context-layers/
