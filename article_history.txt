@@ -5770,3 +5770,10 @@ https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-u
 https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/
 https://www.zdnet.com/article/ai-deepfakes-passwords-defense/
 https://www.forrester.com/blogs/the-next-evolution-of-ai-will-rely-on-context-layers/
+https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/
+https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash
+https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/
+https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/
+https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/
+https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/
+https://www.forrester.com/blogs/turn-aegis-controls-into-an-agentic-ai-security-stack/
