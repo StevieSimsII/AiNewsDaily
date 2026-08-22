@@ -5777,3 +5777,6 @@ https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-tha
 https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/
 https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/
 https://www.forrester.com/blogs/turn-aegis-controls-into-an-agentic-ai-security-stack/
+https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
+https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
+https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
