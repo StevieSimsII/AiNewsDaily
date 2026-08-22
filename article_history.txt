@@ -5780,3 +5780,7 @@ https://www.forrester.com/blogs/turn-aegis-controls-into-an-agentic-ai-security-
 https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
 https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
 https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
+https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/
+https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/
+https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/
+https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/
