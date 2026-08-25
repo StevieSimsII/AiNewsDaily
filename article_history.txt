@@ -5800,3 +5800,13 @@ https://www.zdnet.com/article/businesses-must-reinvent-their-processes-and-workf
 https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/
 https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack
 https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
+https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/
+https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks
+https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
+https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/
+https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/
+https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/
+https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/
+https://www.zdnet.com/article/mac-mini-mac-studio-new-m6-m5-max-ultra/
+https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/
+https://www.forrester.com/blogs/security-risk-leaders-build-trust-resilience-and-control-in-the-ai-era-at-security-risk-forum/
