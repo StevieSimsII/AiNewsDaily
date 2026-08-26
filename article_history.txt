@@ -5818,3 +5818,15 @@ https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuati
 https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
 https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
 https://www.forrester.com/blogs/baswares-trustpair-acquisition-extends-b2b-fraud-management-coverage/
+https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/
+https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
+https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai
+https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet
+https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/
+https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/
+https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/
+https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
+https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/
+https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents
+https://www.zdnet.com/article/ransomware-july-victim-count-spiked-in-july-but-whats-behind-it/
+https://www.zdnet.com/article/4-ai-development-skills-you-need-according-to-andrew-ng-and-what-experts-say-hes-missing/
