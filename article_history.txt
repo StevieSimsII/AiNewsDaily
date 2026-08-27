@@ -5846,3 +5846,12 @@ https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-
 https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/
 https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/
 https://www.forrester.com/blogs/does-your-agent-governance-end-up-governing-everything-but-the-agent-itself/
+https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books
+https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi
+https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/
+https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
+https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/
+https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/
+https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/
+https://www.zdnet.com/article/apple-escaped-android-toxic-hellstew-siri-ai-creates-a-new-one/
+https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/
