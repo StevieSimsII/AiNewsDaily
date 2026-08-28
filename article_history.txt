@@ -5865,3 +5865,8 @@ https://www.zdnet.com/article/how-to-get-free-google-ai-pro-subscription-for-one
 https://www.forrester.com/blogs/2026-h1-enterprise-software-earnings-reveal-a-new-vendor-power-play/
 https://www.forrester.com/blogs/before-you-build-an-ai-powered-enterprise-build-its-human-foundation/
 https://www.forrester.com/blogs/before-you-build-an-ai-powered-enterprise-build-a-human-foundation/
+https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/
+https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
+https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
+https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/
+https://www.forrester.com/blogs/claudeforce-the-ai-interface-salesforce-never-built/
