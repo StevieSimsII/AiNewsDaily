@@ -5880,3 +5880,16 @@ https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-
 https://www.zdnet.com/article/chatgpt-work-small-business-use-cases/
 https://www.forrester.com/blogs/ai-reinvention-is-a-race-enterprises-are-still-learning-to-run/
 https://www.forrester.com/blogs/stripe-is-acquiring-openrouter-to-control-the-ai-consumption-layer/
+https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
+https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy
+https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras
+https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
+https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop
+https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/
+https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/
+https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/
+https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/
+https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/
+https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/
+https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/
+https://www.forrester.com/blogs/intent-is-the-new-epicenter-of-agentic-security/
