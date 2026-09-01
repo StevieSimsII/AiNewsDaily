@@ -5893,3 +5893,5 @@ https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/
 https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/
 https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/
 https://www.forrester.com/blogs/intent-is-the-new-epicenter-of-agentic-security/
+https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/
+https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
