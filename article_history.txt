@@ -5935,3 +5935,13 @@ https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed
 https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
 https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/
 https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
+https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release
+https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook
+https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini
+https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down
+https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update
+https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/
+https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/
+https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
+https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/
+https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/
