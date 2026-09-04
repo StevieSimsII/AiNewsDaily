@@ -5950,3 +5950,11 @@ https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why
 https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout
 https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home
 https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/
+https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/
+https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/
+https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
+https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
+https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/
+https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/
+https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/
+https://www.forrester.com/blogs/the-boring-truth-about-ai/
