@@ -5945,3 +5945,8 @@ https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-la
 https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
 https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/
 https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/
+https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion
+https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that
+https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout
+https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home
+https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/
