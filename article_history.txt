@@ -5961,3 +5961,5 @@ https://www.forrester.com/blogs/the-boring-truth-about-ai/
 https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident
 https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
 https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
+https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
+https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
