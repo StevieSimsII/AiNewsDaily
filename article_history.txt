@@ -5966,3 +5966,6 @@ https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working
 https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
 https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
 https://www.forrester.com/blogs/people-make-the-ai-reinvention-engine-work/
+https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
+https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+https://www.forrester.com/blogs/manufacturings-ai-future-will-be-decided-at-the-gemba/
