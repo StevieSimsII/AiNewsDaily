@@ -5969,3 +5969,5 @@ https://www.forrester.com/blogs/people-make-the-ai-reinvention-engine-work/
 https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/
 https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
 https://www.forrester.com/blogs/manufacturings-ai-future-will-be-decided-at-the-gemba/
+https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/
+https://www.forrester.com/blogs/move-from-strategy-to-execution-with-hands-on-workshops-at-security-risk-forum/
