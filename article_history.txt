@@ -5989,3 +5989,14 @@ https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-tra
 https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/
 https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/
 https://www.forrester.com/blogs/banks-are-building-private-foundation-models-but-the-model-is-not-the-moat/
+https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/
+https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image
+https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy
+https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing
+https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/
+https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/
+https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/
+https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/
+https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/
+https://blog.google/products-and-platforms/products/search/football-features-google-search/
+https://www.forrester.com/blogs/trustworthy-ai-wont-scale-without-a-new-quality-playbook-forrester-offers-one/
