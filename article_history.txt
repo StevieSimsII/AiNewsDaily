@@ -5981,3 +5981,11 @@ https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deplo
 https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/
 https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
 https://www.forrester.com/blogs/ai-agents-for-marketing-are-here-are-you-ready/
+https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa
+https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans
+https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution
+https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch
+https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/
+https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/
+https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/
+https://www.forrester.com/blogs/banks-are-building-private-foundation-models-but-the-model-is-not-the-moat/
