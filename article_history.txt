@@ -6009,3 +6009,12 @@ https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5
 https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/
 https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/
 https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
+https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai
+https://www.theverge.com/tech/993391/meta-muse-ai-hands-on
+https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data
+https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/
+https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/
+https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/
+https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
+https://blog.google/products-and-platforms/products/search/running-race-training-tips/
+https://www.forrester.com/blogs/why-b2b-marketers-need-to-stop-confusing-engagement-with-accountability/
