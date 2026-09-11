@@ -6018,3 +6018,7 @@ https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-5
 https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
 https://blog.google/products-and-platforms/products/search/running-race-training-tips/
 https://www.forrester.com/blogs/why-b2b-marketers-need-to-stop-confusing-engagement-with-accountability/
+https://www.theverge.com/tech/989853/slackforce-surfaces-launch
+https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids
+https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/
+https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/
