@@ -6031,3 +6031,8 @@ https://www.forrester.com/blogs/private-ai-will-beat-public-ai-for-b2b-marketing
 https://www.forrester.com/blogs/the-information-security-leaders-guide-to-security-risk-forum-2026/
 https://www.forrester.com/blogs/qualtrics-bets-on-the-future-of-xm-most-companies-still-need-the-foundation/
 https://www.forrester.com/blogs/ai-is-reshaping-how-consumers-seek-financial-guidance/
+https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/
+https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition
+https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
+https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
