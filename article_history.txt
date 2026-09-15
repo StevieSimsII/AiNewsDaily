@@ -6060,3 +6060,9 @@ https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/
 https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/
 https://www.forrester.com/blogs/back-to-the-contextual-future-its-still-a-core-component-in-consumer-personalization/
 https://www.forrester.com/blogs/if-everyone-has-ai-where-will-advantage-come-from/
+https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
+https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei
+https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
+https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
+https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
+https://www.forrester.com/blogs/most-ai-products-fail-before-theyre-built/
