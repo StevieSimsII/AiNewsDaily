@@ -6091,3 +6091,14 @@ https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-
 https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/
 https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/
 https://www.forrester.com/blogs/frontier-ai-labs-are-out-of-pace-with-the-realities-of-enterprise-ai/
+https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/
+https://www.theverge.com/tech/996321/apple-servers-ai-nvidia
+https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date
+https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides
+https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/
+https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
+https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/
+https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/
+https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/
+https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
+https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/
