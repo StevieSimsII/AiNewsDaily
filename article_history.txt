@@ -6102,3 +6102,11 @@ https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidia
 https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/
 https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
 https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/
+https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic
+https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac
+https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review
+https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban
+https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/
+https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/
+https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/
+https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/
