@@ -6110,3 +6110,14 @@ https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its
 https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/
 https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/
 https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/
+https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
+https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects
+https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude
+https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs
+https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/
+https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/
+https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/
+https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/
+https://www.zdnet.com/innovation/claude-code-revised-projects-threads/
+https://www.forrester.com/blogs/predictions-2027-ai-slingshots-environmental-sustainability-from-promises-to-action/
