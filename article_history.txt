@@ -6142,3 +6142,9 @@ https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-researc
 https://www.zdnet.com/business/ai-storage-demand-seagate-study/
 https://www.forrester.com/blogs/will-ai-eliminate-enterprise-architects/
 https://www.forrester.com/blogs/its-an-agents-world-customer-insights-from-the-bot-and-agent-trust-management-software-wave/
+https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/
+https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
+https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
+https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
+https://www.forrester.com/blogs/its-an-agents-world-customer-insights-from-the-forrester-wave-bot-and-agent-trust-management-software-q2-2026/
