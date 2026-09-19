@@ -6148,3 +6148,11 @@ https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-10
 https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
 https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
 https://www.forrester.com/blogs/its-an-agents-world-customer-insights-from-the-forrester-wave-bot-and-agent-trust-management-software-q2-2026/
+https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
+https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition
+https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over
+https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
+https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
+https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/
+https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/
+https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
