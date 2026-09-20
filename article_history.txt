@@ -6158,3 +6158,6 @@ https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievab
 https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
 https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure
 https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
+https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown
+https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar
+https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
