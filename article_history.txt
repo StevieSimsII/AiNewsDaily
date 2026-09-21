@@ -6161,3 +6161,6 @@ https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
 https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown
 https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar
 https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
+https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle
+https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping
+https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/
