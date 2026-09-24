@@ -6219,3 +6219,17 @@ https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-fou
 https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
 https://www.forrester.com/blogs/ant-internationals-ai-strategy-fixing-payments-today-building-for-agents-tomorrow/
 https://www.forrester.com/blogs/who-will-become-the-trusted-assurer-of-your-enterprise-ai/
+https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/
+https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face
+https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain
+https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games
+https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike
+https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute
+https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/
+https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/
+https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/
+https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/
+https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/
+https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/
+https://www.forrester.com/blogs/forresters-2026-technology-ai-award-winner-for-emea/
+https://www.forrester.com/blogs/context-is-king-how-identity-context-will-drive-agentic-ai-success/
