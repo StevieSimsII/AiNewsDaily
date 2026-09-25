@@ -6233,3 +6233,6 @@ https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building
 https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/
 https://www.forrester.com/blogs/forresters-2026-technology-ai-award-winner-for-emea/
 https://www.forrester.com/blogs/context-is-king-how-identity-context-will-drive-agentic-ai-success/
+https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
+https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/
+https://www.forrester.com/blogs/the-future-of-revenue-orchestration-three-findings-from-the-forrester-wave/
