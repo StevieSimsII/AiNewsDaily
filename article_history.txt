@@ -6249,3 +6249,5 @@ https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/
 https://www.forrester.com/blogs/qualtrics-goes-all-in-on-healthcare-experience-management/
 https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
 https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
+https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
+https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/
