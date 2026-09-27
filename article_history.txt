@@ -6251,3 +6251,5 @@ https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbine
 https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
 https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
 https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/
+https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
+https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
