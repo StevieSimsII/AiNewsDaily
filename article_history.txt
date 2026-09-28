@@ -6256,3 +6256,7 @@ https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-health
 https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
 https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
 https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/
+https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
+https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
+https://www.forrester.com/blogs/build-a-minimum-viable-data-framework-for-agentic-supply-chain/
+https://www.forrester.com/blogs/alibabas-next-chapter-from-ai-native-to-agent-native/
