@@ -6285,3 +6285,15 @@ https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-i
 https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/
 https://www.forrester.com/blogs/ai-wont-fix-healthcare-until-leaders-redesign-the-work/
 https://www.forrester.com/blogs/five-technology-leaders-show-what-it-takes-to-make-ai-work-at-scale/
+https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews
+https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor
+https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements
+https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns
+https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/
+https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/
+https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/
+https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/
+https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
+https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/
+https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/
+https://www.forrester.com/blogs/as-ai-adoption-surges-in-b2b-marketing-work-is-changing/
