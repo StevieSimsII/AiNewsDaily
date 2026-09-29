@@ -6275,3 +6275,13 @@ https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mon
 https://www.forrester.com/blogs/infosys-americas-confluence-2026-an-ai-transformation-trip-report/
 https://www.forrester.com/blogs/the-forrester-wave-localization-services-q3-2026-keep-the-lsp-change-the-relationship/
 https://www.forrester.com/blogs/build-a-minimum-viable-data-framework-for-the-agentic-supply-chain/
+https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/
+https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty
+https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat
+https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal
+https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/
+https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/
+https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
+https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/
+https://www.forrester.com/blogs/ai-wont-fix-healthcare-until-leaders-redesign-the-work/
+https://www.forrester.com/blogs/five-technology-leaders-show-what-it-takes-to-make-ai-work-at-scale/
