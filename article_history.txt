@@ -6352,3 +6352,13 @@ https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-tr
 https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/
 https://www.forrester.com/blogs/theres-a-consumer-ai-trust-gap-in-financial-services-the-solution-is-surprisingly-simple/
 https://www.forrester.com/blogs/oktane-2026-recap-okta-announces-a-unified-iam-control-plane-with-agent-governance-and-identity-details-remaining-unclear/
+https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
+https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents
+https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
+https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/
+https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/
+https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
+https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002
+https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/
+https://www.forrester.com/blogs/theres-a-consumer-ai-trust-gap-in-financial-services-but-the-solution-is-surprisingly-simple/
