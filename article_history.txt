@@ -6368,3 +6368,6 @@ https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-m
 https://www.forrester.com/blogs/meta-amazon-and-the-real-question-about-agentic-commerce/
 https://www.theverge.com/games/1004418/capcom-ai-game-development
 https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true
+https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft
+https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/
