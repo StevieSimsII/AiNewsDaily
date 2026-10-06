@@ -6399,3 +6399,11 @@ https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-acro
 https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/
 https://www.forrester.com/blogs/microsoft-fabcon-2026-enterprise-ai-needs-a-governed-context-layer-not-just-data/
 https://www.forrester.com/blogs/unitedhealthcare-wins-forresters-2026-data-ai-impact-award-for-na/
+https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github
+https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording
+https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/
+https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/
+https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/
+https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/
+https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
+https://www.zdnet.com/innovation/google-ai-free-model-access-limited/
