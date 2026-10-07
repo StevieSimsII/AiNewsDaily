@@ -6407,3 +6407,15 @@ https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites
 https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/
 https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
 https://www.zdnet.com/innovation/google-ai-free-model-access-limited/
+https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence
+https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards
+https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support
+https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell
+https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites
+https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/
+https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/
+https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/
+https://www.forrester.com/blogs/ai-is-hiding-concentration-risk-in-plain-sight/
+https://www.forrester.com/blogs/uipath-fusion-2026-why-adaptive-process-orchestration-and-autonomous-testing-matter-for-enterprise-ai/
