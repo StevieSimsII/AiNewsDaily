@@ -6419,3 +6419,9 @@ https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-ho
 https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/
 https://www.forrester.com/blogs/ai-is-hiding-concentration-risk-in-plain-sight/
 https://www.forrester.com/blogs/uipath-fusion-2026-why-adaptive-process-orchestration-and-autonomous-testing-matter-for-enterprise-ai/
+https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6
+https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/
+https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/
+https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/
+https://www.forrester.com/blogs/four-ai-decisions-tech-leaders-will-tackle-in-new-york-this-november/
