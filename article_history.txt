@@ -6466,3 +6466,7 @@ https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in
 https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
 https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
 https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/
+https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet
+https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
+https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/
+https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
