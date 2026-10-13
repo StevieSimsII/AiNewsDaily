@@ -6501,3 +6501,11 @@ https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-1008
 https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/
 https://www.forrester.com/blogs/capgemini-spark-2026-ai-makes-the-task-cheap-redesign-the-enterprise-for-outsized-value/
 https://www.forrester.com/blogs/infosys-bets-on-trust-as-ai-reprices-it-services/
+https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device
+https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents
+https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/
+https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/
+https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/
+https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013
+https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008
+https://www.forrester.com/blogs/multiplayer-ai-your-impending-and-accidental-standard/
