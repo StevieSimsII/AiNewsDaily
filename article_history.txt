@@ -6484,3 +6484,4 @@ https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-
 https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/
 https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
 https://www.zdnet.com/innovation/claude-false-homicide-tip/
+https://www.forrester.com/blogs/linux-foundation-analyst-summit-stop-counting-tokens-only-tca-total-cost-of-ai-is-the-new-economics-of-ai/
