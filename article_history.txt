@@ -6538,3 +6538,12 @@ https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-bo
 https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/
 https://www.forrester.com/blogs/ai-wont-save-revops-it-will-redefine-it/
 https://www.forrester.com/blogs/so-you-think-you-have-a-marketing-ai-agent/
+https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column
+https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps
+https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx
+https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent
+https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/
+https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/
+https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015
+https://www.forrester.com/blogs/portfolio-marketings-ai-honeymoon-is-over-now-the-real-work-begins/
