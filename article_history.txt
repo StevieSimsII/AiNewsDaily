@@ -6563,3 +6563,4 @@ https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-i
 https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/
 https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/
 https://www.forrester.com/blogs/open-weight-models-are-proliferating-but-the-platform-race-matters-more/
+https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
