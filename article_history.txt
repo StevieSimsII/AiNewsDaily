@@ -6564,3 +6564,6 @@ https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms
 https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/
 https://www.forrester.com/blogs/open-weight-models-are-proliferating-but-the-platform-race-matters-more/
 https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
