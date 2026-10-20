@@ -6589,3 +6589,17 @@ https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up
 https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/
 https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
 https://www.forrester.com/blogs/marketings-next-ai-challenge-scale-what-works-without-losing-control/
+https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/
+https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/
+https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/
+https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/
+https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed
+https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair
+https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/
+https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
+https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/
+https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
+https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/
+https://www.forrester.com/blogs/sovereign-ai-will-decide-the-future-of-sovereign-cloud-services/
+https://www.forrester.com/blogs/cloudera-evolve26-the-case-for-ai-anywhere/
+https://www.forrester.com/blogs/context-engineering-and-contextops-the-missing-foundation-for-scaling-agentic-ai/
