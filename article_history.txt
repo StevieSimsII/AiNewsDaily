@@ -6623,3 +6623,13 @@ https://www.forrester.com/blogs/predictions-2027-cmos-reckon-with-an-ai-reality-
 https://www.forrester.com/blogs/predictions-2027-the-pursuit-and-peril-of-control/
 https://www.forrester.com/blogs/predictions-2027-the-ai-expectations-gap-will-emerge-between-leaders-and-employees/
 https://www.forrester.com/blogs/predictions-2027-b2b-go-to-market-teams-must-adapt-as-ai-shifts-control-to-buyers/
+https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report
+https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings
+https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent
+https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents
+https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
+https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/
+https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
+https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/
