@@ -6612,3 +6612,14 @@ https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0
 https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
 https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/
 https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/
+https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps
+https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems
+https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
+https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/
+https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
+https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/
+https://www.forrester.com/blogs/the-biggest-surprise-from-the-new-revenue-enablement-platforms-wave-isnt-ai/
+https://www.forrester.com/blogs/predictions-2027-cmos-reckon-with-an-ai-reality-check/
+https://www.forrester.com/blogs/predictions-2027-the-pursuit-and-peril-of-control/
+https://www.forrester.com/blogs/predictions-2027-the-ai-expectations-gap-will-emerge-between-leaders-and-employees/
+https://www.forrester.com/blogs/predictions-2027-b2b-go-to-market-teams-must-adapt-as-ai-shifts-control-to-buyers/
