@@ -6678,3 +6678,5 @@ https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-de
 https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
 https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
 https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023
+https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
+https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/

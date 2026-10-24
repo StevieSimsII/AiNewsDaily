@@ -36862,3 +36862,60 @@
 2026-10-23 22:48:42,939 - AI_News_Collector - INFO - Updated primary CSV with 1227 total articles
 2026-10-23 22:48:42,939 - AI_News_Collector - INFO - Copied CSV to secondary location: /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv
 2026-10-23 22:48:42,939 - AI_News_Collector - INFO - CSV update completed successfully
+2026-10-24 15:13:02,328 - AI_News_Collector - INFO - Starting news collection, writing to: /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2026-10-24 15:13:02,329 - AI_News_Collector - INFO - Saved last update timestamp (Central Time): 2026-10-24
+2026-10-24 15:13:02,337 - AI_News_Collector - INFO - Read 1227 articles from /home/runner/work/AiNewsDaily/AiNewsDaily/docs/data/ai_news.csv
+2026-10-24 15:13:02,337 - AI_News_Collector - INFO - Found 1227 existing articles in CSV
+2026-10-24 15:13:02,338 - AI_News_Collector - INFO - Fetching articles from: technologyreview.com
+2026-10-24 15:13:02,565 - AI_News_Collector - INFO - Processing 10 entries from technologyreview.com
+2026-10-24 15:13:02,566 - AI_News_Collector - INFO - Found 4 AI-related articles from technologyreview.com
+2026-10-24 15:13:04,569 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2026-10-24 15:13:04,782 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://www.wired.com/feed/tag/artificial-intelligence/rss: 400 Client Error: Bad Request for url: https://www.wired.com/feed/tag/artificial-intelligence/rss
+2026-10-24 15:13:04,935 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/artificial-intelligence/rss: <unknown>:2:0: not well-formed (invalid token)
+2026-10-24 15:13:04,935 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/artificial-intelligence/rss
+2026-10-24 15:13:06,938 - AI_News_Collector - INFO - Fetching articles from: wired.com
+2026-10-24 15:13:07,121 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://www.wired.com/feed/tag/machine-learning/rss: 400 Client Error: Bad Request for url: https://www.wired.com/feed/tag/machine-learning/rss
+2026-10-24 15:13:07,295 - AI_News_Collector - WARNING - Feed parsing warning for https://www.wired.com/feed/tag/machine-learning/rss: <unknown>:2:0: not well-formed (invalid token)
+2026-10-24 15:13:07,295 - AI_News_Collector - WARNING - No entries found in feed: https://www.wired.com/feed/tag/machine-learning/rss
+2026-10-24 15:13:09,297 - AI_News_Collector - INFO - Fetching articles from: theverge.com
+2026-10-24 15:13:09,426 - AI_News_Collector - INFO - Processing 10 entries from theverge.com
+2026-10-24 15:13:09,427 - AI_News_Collector - INFO - Found 5 AI-related articles from theverge.com
+2026-10-24 15:13:11,429 - AI_News_Collector - INFO - Fetching articles from: techcrunch.com
+2026-10-24 15:13:11,582 - AI_News_Collector - INFO - Processing 20 entries from techcrunch.com
+2026-10-24 15:13:11,583 - AI_News_Collector - INFO - Found 5 AI-related articles from techcrunch.com
+2026-10-24 15:13:13,585 - AI_News_Collector - INFO - Fetching articles from: blog.google
+2026-10-24 15:13:13,899 - AI_News_Collector - INFO - Processing 20 entries from blog.google
+2026-10-24 15:13:13,900 - AI_News_Collector - INFO - Found 5 AI-related articles from blog.google
+2026-10-24 15:13:15,903 - AI_News_Collector - INFO - Fetching articles from: openai.com
+2026-10-24 15:13:16,174 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://openai.com/blog/rss/: 404 Client Error: Not Found for url: https://openai.com/index/rss/
+2026-10-24 15:13:16,234 - AI_News_Collector - WARNING - Feed parsing warning for https://openai.com/blog/rss/: <unknown>:4:17: not well-formed (invalid token)
+2026-10-24 15:13:16,234 - AI_News_Collector - WARNING - No entries found in feed: https://openai.com/blog/rss/
+2026-10-24 15:13:18,236 - AI_News_Collector - INFO - Fetching articles from: news.mit.edu
+2026-10-24 15:13:18,533 - AI_News_Collector - INFO - Processing 50 entries from news.mit.edu
+2026-10-24 15:13:18,534 - AI_News_Collector - INFO - Found 5 AI-related articles from news.mit.edu
+2026-10-24 15:13:20,536 - AI_News_Collector - INFO - Fetching articles from: venturebeat.com
+2026-10-24 15:13:20,689 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://venturebeat.com/category/ai/feed/: 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+2026-10-24 15:13:20,809 - AI_News_Collector - WARNING - Feed parsing warning for https://venturebeat.com/category/ai/feed/: <unknown>:2:39: not well-formed (invalid token)
+2026-10-24 15:13:20,809 - AI_News_Collector - WARNING - No entries found in feed: https://venturebeat.com/category/ai/feed/
+2026-10-24 15:13:22,811 - AI_News_Collector - INFO - Fetching articles from: zdnet.com
+2026-10-24 15:13:22,958 - AI_News_Collector - INFO - Processing 25 entries from zdnet.com
+2026-10-24 15:13:22,959 - AI_News_Collector - INFO - Found 5 AI-related articles from zdnet.com
+2026-10-24 15:13:24,961 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2026-10-24 15:13:25,109 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://www.gartner.com/en/newsroom/press-releases.xml: 403 Client Error: Forbidden for url: https://www.gartner.com/en/newsroom/press-releases.xml
+2026-10-24 15:13:25,156 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/en/newsroom/press-releases.xml: <unknown>:111:43: mismatched tag
+2026-10-24 15:13:25,157 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/en/newsroom/press-releases.xml
+2026-10-24 15:13:27,159 - AI_News_Collector - INFO - Fetching articles from: gartner.com
+2026-10-24 15:13:27,216 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://www.gartner.com/smarterwithgartner/feed/: 403 Client Error: Forbidden for url: https://www.gartner.com/smarterwithgartner/feed/
+2026-10-24 15:13:27,258 - AI_News_Collector - WARNING - Feed parsing warning for https://www.gartner.com/smarterwithgartner/feed/: <unknown>:111:43: mismatched tag
+2026-10-24 15:13:27,258 - AI_News_Collector - WARNING - No entries found in feed: https://www.gartner.com/smarterwithgartner/feed/
+2026-10-24 15:13:29,260 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2026-10-24 15:13:29,780 - AI_News_Collector - INFO - Processing 10 entries from forrester.com
+2026-10-24 15:13:29,780 - AI_News_Collector - INFO - Found 5 AI-related articles from forrester.com
+2026-10-24 15:13:31,783 - AI_News_Collector - INFO - Fetching articles from: forrester.com
+2026-10-24 15:13:31,950 - AI_News_Collector - WARNING - Request-based feed fetch failed for https://www.forrester.com/press-newsroom/feed/: 404 Client Error: Not Found for url: https://www.forrester.com/press-newsroom/feed/
+2026-10-24 15:13:32,170 - AI_News_Collector - WARNING - Feed parsing warning for https://www.forrester.com/press-newsroom/feed/: <unknown>:16:52: not well-formed (invalid token)
+2026-10-24 15:13:32,170 - AI_News_Collector - WARNING - No entries found in feed: https://www.forrester.com/press-newsroom/feed/
+2026-10-24 15:13:34,172 - AI_News_Collector - INFO - Found 2 new articles to add
+2026-10-24 15:13:34,200 - AI_News_Collector - INFO - Updated primary CSV with 1229 total articles
+2026-10-24 15:13:34,201 - AI_News_Collector - INFO - Copied CSV to secondary location: /home/runner/work/AiNewsDaily/AiNewsDaily/web_app/data/ai_news.csv
+2026-10-24 15:13:34,201 - AI_News_Collector - INFO - CSV update completed successfully
