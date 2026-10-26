@@ -6698,3 +6698,6 @@ https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for
 https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/
 https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/
 https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/
+https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk
+https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal
+https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/
