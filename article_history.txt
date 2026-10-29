@@ -6766,3 +6766,10 @@ https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-
 https://www.zdnet.com/innovation/mistral-large-4-weights-release/
 https://www.forrester.com/blogs/break-out-of-the-vulnerability-matrix-at-forresters-security-risk-forum-2026/
 https://www.forrester.com/blogs/will-ai-fix-your-cx-measurement-or-make-it-worse/
+https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs
+https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
+https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
+https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/
+https://www.forrester.com/blogs/couchbase-converges-the-agent-data-stack-around-operational-data/
