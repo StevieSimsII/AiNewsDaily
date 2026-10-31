@@ -6802,3 +6802,5 @@ https://www.forrester.com/blogs/google-public-sector-summit-2026-ai-moves-from-p
 https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code
 https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
 https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
+https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
