@@ -6824,3 +6824,7 @@ https://www.forrester.com/blogs/predictions-2027-clouds-ai-race-gets-messier/
 https://www.forrester.com/blogs/ai-agents-arent-waiting-for-data-security/
 https://www.forrester.com/blogs/meet-the-ai-chief-digital-officer-chief-value-orchestrator/
 https://www.forrester.com/blogs/it-wasnt-me-is-not-an-ai-risk-management-strategy/
+https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
