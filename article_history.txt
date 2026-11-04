@@ -6852,3 +6852,17 @@ https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-m
 https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
 https://www.forrester.com/blogs/questioning-your-ai-roi-start-with-your-ai-strategy/
 https://www.forrester.com/blogs/cresta-fills-an-important-gap-in-salesforces-customer-service-ai-story/
+https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/
+https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei
+https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6
+https://www.theverge.com/policy/1026365/data-centers-midterms-results
+https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation
+https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments
+https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/
+https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/
+https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/
+https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/
+https://www.forrester.com/blogs/ai-agents-need-more-than-least-privilege-they-need-least-agency/
+https://www.forrester.com/blogs/sap-teched-2026-all-in-on-ai/
