@@ -6846,3 +6846,9 @@ https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/
 https://www.forrester.com/blogs/your-application-vendors-control-the-meter-the-gate-and-the-referee/
 https://www.forrester.com/blogs/ai-capacity-scarcity-shifts-the-goals-of-finops/
 https://www.forrester.com/blogs/scaling-agentic-ai-globally-tencent-connects-experience-engineering-and-ecosystem/
+https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds
+https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps
+https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+https://www.forrester.com/blogs/questioning-your-ai-roi-start-with-your-ai-strategy/
+https://www.forrester.com/blogs/cresta-fills-an-important-gap-in-salesforces-customer-service-ai-story/
