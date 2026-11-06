@@ -6905,3 +6905,7 @@ https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-roug
 https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
 https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/
 https://www.forrester.com/blogs/ai-is-accelerating-insights-can-your-business-keep-up/
+https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+https://www.forrester.com/blogs/oracle-ai-world-2026-agentic-ai-is-rewriting-the-rules-of-database-security/
