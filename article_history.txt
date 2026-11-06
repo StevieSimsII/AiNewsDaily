@@ -6888,3 +6888,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/introducing-ge
 https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/
 https://www.zdnet.com/innovation/personal-finance-claude-anthropic/
 https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/
+https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work
+https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/
+https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/
+https://www.forrester.com/blogs/the-ai-bubble-isnt-bursting-yet-heres-what-to-watch-using-our-model/
