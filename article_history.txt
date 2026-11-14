@@ -7006,3 +7006,6 @@ https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-c
 https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
 https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
 https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
+https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
+https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
