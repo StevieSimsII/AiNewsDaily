@@ -7009,3 +7009,6 @@ https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structure
 https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
 https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
 https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/
