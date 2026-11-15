@@ -7012,3 +7012,6 @@ https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
 https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
 https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/
+https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
+https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
