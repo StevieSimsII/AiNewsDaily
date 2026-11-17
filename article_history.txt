@@ -7036,3 +7036,17 @@ https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hack
 https://www.forrester.com/blogs/the-nuisances-of-ai-assistants-are-putting-consumer-adoption-at-risk/
 https://www.forrester.com/blogs/ai-has-a-scaling-problem/
 https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/
+https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free
+https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
+https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/
+https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/
+https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/
+https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
+https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
+https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117
+https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117
+https://www.zdnet.com/business/gemini-gems-google-skills-transition/
+https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/
+https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/
+https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/
+https://www.forrester.com/blogs/tokenomics-and-the-ai-cost-paradox/
