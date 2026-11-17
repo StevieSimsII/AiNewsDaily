@@ -7035,3 +7035,4 @@ https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai
 https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/
 https://www.forrester.com/blogs/the-nuisances-of-ai-assistants-are-putting-consumer-adoption-at-risk/
 https://www.forrester.com/blogs/ai-has-a-scaling-problem/
+https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/
