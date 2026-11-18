@@ -7050,3 +7050,10 @@ https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/
 https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/
 https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/
 https://www.forrester.com/blogs/tokenomics-and-the-ai-cost-paradox/
+https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now
+https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake
+https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
+https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117
+https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/
+https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/
+https://www.forrester.com/blogs/what-should-you-do-when-ai-disrupts-the-tech-you-rely-on/
