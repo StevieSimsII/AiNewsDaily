@@ -7081,3 +7081,9 @@ https://www.forrester.com/blogs/united-airlines-bans-unauthorized-ai-agents-star
 https://www.forrester.com/blogs/ai-is-changing-customer-success-but-not-its-mission/
 https://www.forrester.com/blogs/announcing-the-forrester-wave-marketplace-platforms-for-digital-services-q4-2026/
 https://www.forrester.com/blogs/introducing-the-forrester-wave-for-enterprise-firewall-solutions-q4-2026/
+https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google
+https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+https://www.forrester.com/blogs/ai-roi-move-from-minutes-saved-to-value-created/
