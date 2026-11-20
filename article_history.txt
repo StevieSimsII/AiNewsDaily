@@ -7114,3 +7114,10 @@ https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-sty
 https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
 https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119
 https://www.forrester.com/blogs/the-conversational-ai-land-grab-is-on-for-customer-service/
+https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax
+https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem
+https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
+https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/
+https://www.forrester.com/blogs/your-cloud-operations-arent-ready-for-ai/
+https://www.forrester.com/blogs/ai-raises-the-bar-for-b2b-personalization-again/
