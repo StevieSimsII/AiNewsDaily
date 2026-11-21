@@ -7125,3 +7125,6 @@ https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-st
 https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
 https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120
 https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120
+https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure
+https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
+https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
