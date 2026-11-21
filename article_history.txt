@@ -7121,3 +7121,7 @@ https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-a
 https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/
 https://www.forrester.com/blogs/your-cloud-operations-arent-ready-for-ai/
 https://www.forrester.com/blogs/ai-raises-the-bar-for-b2b-personalization-again/
+https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
+https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120
+https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120
